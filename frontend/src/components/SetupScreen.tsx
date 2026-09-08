@@ -88,8 +88,17 @@ export default function SetupScreen({
               />
               {t("mistakesOption", { count: wrongCount })}
             </label>
+            <label className="radio-row">
+              <input
+                type="radio"
+                name="section"
+                checked={section === "exam"}
+                onChange={() => setSection("exam")}
+              />
+              {t("examOption")}
+            </label>
 
-            {section === "state" && (
+            {(section === "state" || section === "exam") && (
               <select
                 className="select"
                 value={stateId}
@@ -104,31 +113,39 @@ export default function SetupScreen({
             )}
           </fieldset>
 
-          <fieldset className="field-group">
-            <legend>{t("orderLegend")}</legend>
-            <label className="radio-row">
-              <input
-                type="radio"
-                name="order"
-                checked={order === "sequential"}
-                onChange={() => setOrder("sequential")}
-              />
-              {t("sequentialOption")}
-            </label>
-            <label className="radio-row">
-              <input
-                type="radio"
-                name="order"
-                checked={order === "random"}
-                onChange={() => setOrder("random")}
-              />
-              {t("randomOption")}
-            </label>
-          </fieldset>
+          {section !== "exam" && (
+            <fieldset className="field-group">
+              <legend>{t("orderLegend")}</legend>
+              <label className="radio-row">
+                <input
+                  type="radio"
+                  name="order"
+                  checked={order === "sequential"}
+                  onChange={() => setOrder("sequential")}
+                />
+                {t("sequentialOption")}
+              </label>
+              <label className="radio-row">
+                <input
+                  type="radio"
+                  name="order"
+                  checked={order === "random"}
+                  onChange={() => setOrder("random")}
+                />
+                {t("randomOption")}
+              </label>
+            </fieldset>
+          )}
 
           <button
             className="btn btn-primary full-width"
-            onClick={() => onStart(section, section === "state" ? stateId : null, order)}
+            onClick={() =>
+              onStart(
+                section,
+                section === "state" || section === "exam" ? stateId : null,
+                order
+              )
+            }
           >
             {t("startButton")}
           </button>

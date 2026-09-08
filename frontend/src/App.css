@@ -203,6 +203,70 @@ h1 {
   margin-bottom: 18px;
 }
 
+.exam-timer {
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text);
+  background: var(--color-btn-secondary-bg);
+  border-radius: 8px;
+  padding: 6px 10px;
+  margin-bottom: 12px;
+}
+
+.exam-timer-low {
+  color: var(--color-red);
+  background: var(--color-red-bg);
+}
+
+.review-status {
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.review-status-correct {
+  color: var(--color-green);
+  background: var(--color-green-bg);
+}
+
+.review-status-wrong {
+  color: var(--color-red);
+  background: var(--color-red-bg);
+}
+
+.review-status-unanswered {
+  color: var(--color-muted);
+  background: var(--color-btn-secondary-bg);
+}
+
+.exam-result-badge {
+  display: inline-block;
+  font-size: 1.1rem;
+  font-weight: 700;
+  padding: 8px 20px;
+  border-radius: 999px;
+  margin: 8px 0 16px;
+}
+
+.exam-result-pass {
+  color: var(--color-green);
+  background: var(--color-green-bg);
+}
+
+.exam-result-fail {
+  color: var(--color-red);
+  background: var(--color-red-bg);
+}
+
+.exam-score {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+}
+
 .question-text {
   font-size: 1.2rem;
   line-height: 1.4;
@@ -257,6 +321,11 @@ h1 {
 
 .option-btn:hover {
   border-color: var(--color-primary);
+}
+
+.option-btn-readonly {
+  cursor: default;
+  pointer-events: none;
 }
 
 .option-btn-image {

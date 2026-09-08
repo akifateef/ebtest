@@ -20,7 +20,7 @@ export interface Question {
 
 export type QuestionOrder = "sequential" | "random";
 
-export type QuizSectionType = "general" | "state" | "mistakes";
+export type QuizSectionType = "general" | "state" | "mistakes" | "exam";
 
 export interface QuizSession {
   section: QuizSectionType;
@@ -28,6 +28,22 @@ export interface QuizSession {
   order: QuestionOrder;
   questionIds: string[];
   currentIndex: number;
+  examStartedAt?: number;
 }
 
 export type AnswersMap = Record<string, number>;
+
+export interface ExamResult {
+  total: number;
+  correct: number;
+  passed: boolean;
+  timedOut: boolean;
+  stateId: string | null;
+  questionIds: string[];
+}
+
+export const EXAM_QUESTION_COUNT = 33;
+export const EXAM_GENERAL_COUNT = 30;
+export const EXAM_STATE_COUNT = 3;
+export const EXAM_PASS_THRESHOLD = 17;
+export const EXAM_DURATION_MS = 60 * 60 * 1000;

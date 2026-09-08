@@ -1,5 +1,6 @@
 import questionsData from "./data/questions.json";
 import type { AnswersMap, Question, QuestionOrder, QuizSectionType } from "./types";
+import { EXAM_GENERAL_COUNT, EXAM_STATE_COUNT } from "./types";
 
 export const ALL_QUESTIONS = questionsData as Question[];
 
@@ -39,12 +40,23 @@ function shuffle<T>(arr: T[]): T[] {
   return copy;
 }
 
+export function buildExamQuestionOrder(stateId: string): string[] {
+  const generalIds = getGeneralQuestions().map((q) => q.id);
+  const stateIds = getStateQuestions(stateId).map((q) => q.id);
+  const chosenGeneral = shuffle(generalIds).slice(0, EXAM_GENERAL_COUNT);
+  const chosenState = shuffle(stateIds).slice(0, EXAM_STATE_COUNT);
+  return shuffle([...chosenGeneral, ...chosenState]);
+}
+
 export function buildQuestionOrder(
   section: QuizSectionType,
   stateId: string | null,
   order: QuestionOrder,
   answers: AnswersMap = {}
 ): string[] {
+  if (section === "exam") {
+    return buildExamQuestionOrder(stateId ?? "");
+  }
   let ids: string[];
   if (section === "mistakes") {
     ids = getWrongQuestionIds(answers);

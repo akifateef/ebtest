@@ -1,7 +1,8 @@
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { getQuestion } from "../quiz";
 import { assetPath } from "../assetPath";
 import type { AnswersMap, QuizSession } from "../types";
+import { EXAM_DURATION_MS } from "../types";
 import OptionButton from "./OptionButton";
 import { STATES } from "../data/states";
 import { useTranslation } from "../i18n/LanguageContext";
@@ -14,6 +15,15 @@ interface Props {
   onBack: () => void;
   onExit: () => void;
   onReset: () => void;
+  onFinishExam: (timedOut: boolean) => void;
+  onAbortExam: () => void;
+}
+
+function formatTime(ms: number): string {
+  const totalSeconds = Math.max(0, Math.ceil(ms / 1000));
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${minutes}:${seconds.toString().padStart(2, "0")}`;
 }
 
 export default function QuizScreen({
@@ -24,15 +34,39 @@ export default function QuizScreen({
   onBack,
   onExit,
   onReset,
+  onFinishExam,
+  onAbortExam,
 }: Props) {
   const { t } = useTranslation();
   const { questionIds, currentIndex } = session;
   const questionId = questionIds[currentIndex];
   const question = getQuestion(questionId);
+  const isExam = session.section === "exam";
+
+  const [now, setNow] = useState(() => Date.now());
+
+  useEffect(() => {
+    if (!isExam) return;
+    const interval = setInterval(() => setNow(Date.now()), 1000);
+    return () => clearInterval(interval);
+  }, [isExam]);
+
+  const remainingMs =
+    isExam && session.examStartedAt
+      ? Math.max(0, session.examStartedAt + EXAM_DURATION_MS - now)
+      : null;
+
+  useEffect(() => {
+    if (isExam && remainingMs === 0) {
+      onFinishExam(true);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [remainingMs]);
 
   const title = useMemo(() => {
     if (session.section === "general") return t("generalTitle");
     if (session.section === "mistakes") return t("mistakesTitle");
+    if (session.section === "exam") return t("examTitle");
     const state = STATES.find((s) => s.id === session.stateId);
     return state ? `${t("stateLabel")}: ${state.name}` : t("stateLabel");
   }, [session, t]);
@@ -55,6 +89,19 @@ export default function QuizScreen({
   const selected = answers[questionId];
   const answered = selected !== undefined;
   const progressPct = ((currentIndex + 1) / questionIds.length) * 100;
+  const isLastQuestion = currentIndex === questionIds.length - 1;
+
+  function handleFinishOrNext() {
+    if (isLastQuestion) {
+      if (isExam) {
+        onFinishExam(false);
+      } else {
+        onExit();
+      }
+    } else {
+      onNext();
+    }
+  }
 
   return (
     <div className="screen quiz-screen">
@@ -65,10 +112,26 @@ export default function QuizScreen({
               ← {t("overview")}
             </button>
             <span className="quiz-title">{title}</span>
-            <button className="btn btn-link" onClick={onReset}>
-              {t("resetLink")}
-            </button>
+            {isExam ? (
+              <button className="btn btn-link" onClick={onAbortExam}>
+                {t("abortExamLink")}
+              </button>
+            ) : (
+              <button className="btn btn-link" onClick={onReset}>
+                {t("resetLink")}
+              </button>
+            )}
           </div>
+
+          {isExam && remainingMs !== null && (
+            <div
+              className={`exam-timer ${
+                remainingMs <= 5 * 60 * 1000 ? "exam-timer-low" : ""
+              }`}
+            >
+              {t("examTimeRemaining", { time: formatTime(remainingMs) })}
+            </div>
+          )}
 
           <div className="progress-bar-track">
             <div
@@ -119,6 +182,7 @@ export default function QuizScreen({
                 isSelected={selected === idx}
                 isCorrect={idx === question.correctIndex}
                 answered={answered}
+                revealAnswer={!isExam}
                 onClick={() => onSelect(questionId, idx)}
               />
             ))}
@@ -132,13 +196,8 @@ export default function QuizScreen({
             >
               {t("backButton")}
             </button>
-            <button
-              className="btn btn-primary"
-              onClick={currentIndex === questionIds.length - 1 ? onExit : onNext}
-            >
-              {currentIndex === questionIds.length - 1
-                ? t("finishButton")
-                : t("nextButton")}
+            <button className="btn btn-primary" onClick={handleFinishOrNext}>
+              {isLastQuestion ? t("finishButton") : t("nextButton")}
             </button>
           </div>
         </div>
