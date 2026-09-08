@@ -5,7 +5,6 @@ import type { AnswersMap, QuizSession } from "../types";
 import OptionButton from "./OptionButton";
 import { STATES } from "../data/states";
 import { useTranslation } from "../i18n/LanguageContext";
-import SettingsBar from "./SettingsBar";
 
 interface Props {
   session: QuizSession;
@@ -33,6 +32,7 @@ export default function QuizScreen({
 
   const title = useMemo(() => {
     if (session.section === "general") return t("generalTitle");
+    if (session.section === "mistakes") return t("mistakesTitle");
     const state = STATES.find((s) => s.id === session.stateId);
     return state ? `${t("stateLabel")}: ${state.name}` : t("stateLabel");
   }, [session, t]);
@@ -41,7 +41,6 @@ export default function QuizScreen({
     return (
       <div className="screen quiz-screen">
         <div className="page-wrap">
-          <SettingsBar />
           <div className="card card-plain">
             <p>{t("loadError")}</p>
             <button className="btn btn-secondary" onClick={onExit}>
@@ -60,8 +59,6 @@ export default function QuizScreen({
   return (
     <div className="screen quiz-screen">
       <div className="page-wrap">
-        <SettingsBar />
-
         <div className="card card-plain">
           <div className="quiz-header">
             <button className="btn btn-link" onClick={onExit}>

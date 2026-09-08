@@ -28,13 +28,16 @@ export type TranslationKey =
   | "themeLight"
   | "themeDark"
   | "themeSolarizedLight"
-  | "themeSolarizedDark";
+  | "themeSolarizedDark"
+  | "officialPdfButton"
+  | "mistakesOption"
+  | "mistakesTitle";
 
 export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> = {
   de: {
-    appTitle: "Einbürgerungstest Trainer",
+    appTitle: "Trainer für den deutschen Einbürgerungstest",
     appSubtitle:
-      "Übe die 300 allgemeinen Fragen sowie die 10 Fragen deines Bundeslandes zum Test „Leben in Deutschland“.",
+      "Übe die 300 allgemeinen Fragen sowie die 10 Fragen deines Bundeslandes für den Test „Leben in Deutschland“ (Einbürgerungstest).",
     resumeSession: "Letzte Sitzung fortsetzen",
     sectionLegend: "Fragenbereich",
     generalOption: "Allgemeine Fragen (300)",
@@ -61,11 +64,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Dunkel",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Offizielle PDF öffnen",
+    mistakesOption: "Falsch beantwortete Fragen wiederholen ({count})",
+    mistakesTitle: "Falsch beantwortete Fragen",
   },
   en: {
-    appTitle: "Citizenship Test Trainer",
+    appTitle: "German Citizenship Test Trainer",
     appSubtitle:
-      'Practice the 300 general questions plus the 10 questions for your federal state for the "Life in Germany" test.',
+      'Practice the 300 general questions plus the 10 questions for your federal state for the "Leben in Deutschland" test, also known as the Einbürgerungstest.',
     resumeSession: "Resume last session",
     sectionLegend: "Question section",
     generalOption: "General questions (300)",
@@ -92,11 +98,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Dark",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Open official PDF",
+    mistakesOption: "Review incorrectly answered questions ({count})",
+    mistakesTitle: "Incorrectly answered questions",
   },
   tr: {
-    appTitle: "Vatandaşlık Testi Eğitmeni",
+    appTitle: "Alman Vatandaşlık Testi Eğitmeni",
     appSubtitle:
-      "\"Almanya'da Yaşam\" testi için 300 genel soru ve eyaletinize ait 10 soruyu çalışın.",
+      "\"Leben in Deutschland\" testi (Einbürgerungstest olarak da bilinir) için 300 genel soru ve eyaletinize ait 10 soruyu çalışın.",
     resumeSession: "Son oturuma devam et",
     sectionLegend: "Soru bölümü",
     generalOption: "Genel sorular (300)",
@@ -123,11 +132,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Koyu",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Resmi PDF'yi aç",
+    mistakesOption: "Yanlış cevaplanan soruları tekrar et ({count})",
+    mistakesTitle: "Yanlış cevaplanan sorular",
   },
   ar: {
-    appTitle: "مدرّب اختبار الجنسية",
+    appTitle: "مدرّب اختبار الجنسية الألمانية",
     appSubtitle:
-      'تدرّب على 300 سؤال عام بالإضافة إلى 10 أسئلة عن ولايتك الفيدرالية لاختبار "الحياة في ألمانيا".',
+      'تدرّب على 300 سؤال عام بالإضافة إلى 10 أسئلة عن ولايتك الفيدرالية لاختبار "Leben in Deutschland" (المعروف أيضًا باسم Einbürgerungstest).',
     resumeSession: "استئناف الجلسة الأخيرة",
     sectionLegend: "قسم الأسئلة",
     generalOption: "أسئلة عامة (300)",
@@ -154,11 +166,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "داكن",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "فتح ملف PDF الرسمي",
+    mistakesOption: "مراجعة الأسئلة التي أُجيب عليها خطأ ({count})",
+    mistakesTitle: "الأسئلة الخاطئة",
   },
   ru: {
-    appTitle: "Тренажёр теста на гражданство",
+    appTitle: "Тренажёр теста на немецкое гражданство",
     appSubtitle:
-      "Тренируйтесь на 300 общих вопросах и 10 вопросах о вашей федеральной земле для теста «Жизнь в Германии».",
+      "Тренируйтесь на 300 общих вопросах и 10 вопросах о вашей федеральной земле для теста «Leben in Deutschland» (также известного как Einbürgerungstest).",
     resumeSession: "Продолжить последнюю сессию",
     sectionLegend: "Раздел вопросов",
     generalOption: "Общие вопросы (300)",
@@ -185,11 +200,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Тёмная",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Открыть официальный PDF",
+    mistakesOption: "Повторить вопросы с неверными ответами ({count})",
+    mistakesTitle: "Вопросы с неверными ответами",
   },
   uk: {
-    appTitle: "Тренажер тесту на громадянство",
+    appTitle: "Тренажер тесту на німецьке громадянство",
     appSubtitle:
-      "Тренуйтеся на 300 загальних питаннях та 10 питаннях про вашу федеральну землю для тесту «Життя в Німеччині».",
+      "Тренуйтеся на 300 загальних питаннях та 10 питаннях про вашу федеральну землю для тесту «Leben in Deutschland» (також відомого як Einbürgerungstest).",
     resumeSession: "Продовжити останню сесію",
     sectionLegend: "Розділ питань",
     generalOption: "Загальні питання (300)",
@@ -216,11 +234,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Темна",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Відкрити офіційний PDF",
+    mistakesOption: "Повторити питання з неправильними відповідями ({count})",
+    mistakesTitle: "Питання з неправильними відповідями",
   },
   pl: {
-    appTitle: "Trener testu na obywatelstwo",
+    appTitle: "Trener testu na obywatelstwo niemieckie",
     appSubtitle:
-      'Ćwicz 300 pytań ogólnych oraz 10 pytań dotyczących Twojego landu do testu "Życie w Niemczech".',
+      'Ćwicz 300 pytań ogólnych oraz 10 pytań dotyczących Twojego landu do testu "Leben in Deutschland" (nazywanego też Einbürgerungstest).',
     resumeSession: "Kontynuuj ostatnią sesję",
     sectionLegend: "Zakres pytań",
     generalOption: "Pytania ogólne (300)",
@@ -247,11 +268,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Ciemny",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Otwórz oficjalny PDF",
+    mistakesOption: "Powtórz błędnie odpowiedziane pytania ({count})",
+    mistakesTitle: "Błędnie odpowiedziane pytania",
   },
   fr: {
-    appTitle: "Entraîneur au test de naturalisation",
+    appTitle: "Entraîneur au test de naturalisation allemande",
     appSubtitle:
-      "Entraînez-vous sur les 300 questions générales ainsi que les 10 questions de votre Land pour le test « Vivre en Allemagne ».",
+      "Entraînez-vous sur les 300 questions générales ainsi que les 10 questions de votre Land pour le test « Leben in Deutschland » (aussi appelé Einbürgerungstest).",
     resumeSession: "Reprendre la dernière session",
     sectionLegend: "Section des questions",
     generalOption: "Questions générales (300)",
@@ -278,11 +302,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Sombre",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Ouvrir le PDF officiel",
+    mistakesOption: "Revoir les questions mal répondues ({count})",
+    mistakesTitle: "Questions mal répondues",
   },
   es: {
-    appTitle: "Entrenador del examen de nacionalidad",
+    appTitle: "Entrenador del examen de nacionalidad alemana",
     appSubtitle:
-      'Practica las 300 preguntas generales y las 10 preguntas de tu estado federado para el examen "La vida en Alemania".',
+      'Practica las 300 preguntas generales y las 10 preguntas de tu estado federado para el examen "Leben in Deutschland" (también llamado Einbürgerungstest).',
     resumeSession: "Reanudar la última sesión",
     sectionLegend: "Sección de preguntas",
     generalOption: "Preguntas generales (300)",
@@ -309,11 +336,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Oscuro",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Abrir el PDF oficial",
+    mistakesOption: "Repasar las preguntas respondidas incorrectamente ({count})",
+    mistakesTitle: "Preguntas respondidas incorrectamente",
   },
   it: {
-    appTitle: "Allenatore del test di cittadinanza",
+    appTitle: "Allenatore del test di cittadinanza tedesca",
     appSubtitle:
-      'Esercitati sulle 300 domande generali e sulle 10 domande relative al tuo Land per il test "Vivere in Germania".',
+      'Esercitati sulle 300 domande generali e sulle 10 domande relative al tuo Land per il test "Leben in Deutschland" (chiamato anche Einbürgerungstest).',
     resumeSession: "Riprendi l'ultima sessione",
     sectionLegend: "Sezione domande",
     generalOption: "Domande generali (300)",
@@ -340,11 +370,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "Scuro",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "Apri il PDF ufficiale",
+    mistakesOption: "Rivedi le domande con risposta errata ({count})",
+    mistakesTitle: "Domande con risposta errata",
   },
   zh: {
-    appTitle: "入籍考试练习",
+    appTitle: "德国入籍考试练习",
     appSubtitle:
-      "为“德国生活”考试练习300道通用问题以及你所在联邦州的10道问题。",
+      "为“Leben in Deutschland”考试（也称为 Einbürgerungstest）练习300道通用问题以及你所在联邦州的10道问题。",
     resumeSession: "继续上次的练习",
     sectionLegend: "题目范围",
     generalOption: "通用问题（300题）",
@@ -371,11 +404,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "深色",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "打开官方PDF",
+    mistakesOption: "复习答错的问题（{count}）",
+    mistakesTitle: "答错的问题",
   },
   ja: {
-    appTitle: "帰化試験トレーナー",
+    appTitle: "ドイツ帰化試験トレーナー",
     appSubtitle:
-      "「ドイツでの生活」試験のため、300問の一般問題とあなたの州の10問を練習しましょう。",
+      "「Leben in Deutschland」試験（Einbürgerungstestとも呼ばれます）のため、300問の一般問題とあなたの州の10問を練習しましょう。",
     resumeSession: "前回のセッションを再開",
     sectionLegend: "問題の範囲",
     generalOption: "一般問題（300問）",
@@ -402,11 +438,14 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "ダーク",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "公式PDFを開く",
+    mistakesOption: "間違えた問題を復習する（{count}）",
+    mistakesTitle: "間違えた問題",
   },
   ur: {
-    appTitle: "شہریت ٹیسٹ ٹرینر",
+    appTitle: "جرمن شہریت ٹیسٹ ٹرینر",
     appSubtitle:
-      "\"جرمنی میں زندگی\" ٹیسٹ کے لیے 300 عمومی سوالات اور اپنی وفاقی ریاست کے 10 سوالات کی مشق کریں۔",
+      "\"Leben in Deutschland\" ٹیسٹ (جسے Einbürgerungstest بھی کہا جاتا ہے) کے لیے 300 عمومی سوالات اور اپنی وفاقی ریاست کے 10 سوالات کی مشق کریں۔",
     resumeSession: "آخری سیشن جاری رکھیں",
     sectionLegend: "سوالات کا حصہ",
     generalOption: "عمومی سوالات (300)",
@@ -433,5 +472,8 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     themeDark: "گہرا",
     themeSolarizedLight: "Solarized Light",
     themeSolarizedDark: "Solarized Dark",
+    officialPdfButton: "سرکاری PDF کھولیں",
+    mistakesOption: "غلط جواب دیئے گئے سوالات دہرائیں ({count})",
+    mistakesTitle: "غلط جواب دیئے گئے سوالات",
   },
 };

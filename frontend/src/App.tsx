@@ -9,7 +9,7 @@ import {
   saveAnswers,
   saveSession,
 } from "./storage";
-import type { AnswersMap, QuestionOrder, QuizSession } from "./types";
+import type { AnswersMap, QuestionOrder, QuizSectionType, QuizSession } from "./types";
 import { useTranslation } from "./i18n/LanguageContext";
 import "./App.css";
 
@@ -32,11 +32,11 @@ export default function App() {
   }, [t]);
 
   function handleStart(
-    section: "general" | "state",
+    section: QuizSectionType,
     stateId: string | null,
     order: QuestionOrder
   ) {
-    const questionIds = buildQuestionOrder(section, stateId, order);
+    const questionIds = buildQuestionOrder(section, stateId, order, answers);
     setSession({ section, stateId, order, questionIds, currentIndex: 0 });
     setView("quiz");
   }
@@ -81,6 +81,7 @@ export default function App() {
     <>
       {view === "setup" || !session ? (
         <SetupScreen
+          answers={answers}
           onStart={handleStart}
           onReset={handleReset}
           hasSession={!!session}

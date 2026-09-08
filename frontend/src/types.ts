@@ -20,8 +20,10 @@ export interface Question {
 
 export type QuestionOrder = "sequential" | "random";
 
+export type QuizSectionType = "general" | "state" | "mistakes";
+
 export interface QuizSession {
-  section: "general" | "state";
+  section: QuizSectionType;
   stateId: string | null;
   order: QuestionOrder;
   questionIds: string[];

@@ -1,12 +1,17 @@
-import { useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { STATES } from "../data/states";
-import type { QuestionOrder } from "../types";
+import type { AnswersMap, QuestionOrder, QuizSectionType } from "../types";
 import { useTranslation } from "../i18n/LanguageContext";
 import SettingsBar from "./SettingsBar";
+import { assetPath } from "../assetPath";
+import { getWrongQuestionIds } from "../quiz";
+
+const OFFICIAL_PDF_PATH = "docs/gesamtfragenkatalog-lebenindeutschland.pdf";
 
 interface Props {
+  answers: AnswersMap;
   onStart: (
-    section: "general" | "state",
+    section: QuizSectionType,
     stateId: string | null,
     order: QuestionOrder
   ) => void;
@@ -16,15 +21,27 @@ interface Props {
 }
 
 export default function SetupScreen({
+  answers,
   onStart,
   onReset,
   hasSession,
   onResume,
 }: Props) {
   const { t } = useTranslation();
-  const [section, setSection] = useState<"general" | "state">("general");
+  const [section, setSection] = useState<QuizSectionType>("general");
   const [stateId, setStateId] = useState<string>(STATES[0].id);
   const [order, setOrder] = useState<QuestionOrder>("sequential");
+
+  const wrongCount = useMemo(
+    () => getWrongQuestionIds(answers).length,
+    [answers]
+  );
+
+  useEffect(() => {
+    if (section === "mistakes" && wrongCount === 0) {
+      setSection("general");
+    }
+  }, [section, wrongCount]);
 
   return (
     <div className="screen setup-screen">
@@ -60,6 +77,16 @@ export default function SetupScreen({
                 onChange={() => setSection("state")}
               />
               {t("stateOption")}
+            </label>
+            <label className="radio-row">
+              <input
+                type="radio"
+                name="section"
+                checked={section === "mistakes"}
+                disabled={wrongCount === 0}
+                onChange={() => setSection("mistakes")}
+              />
+              {t("mistakesOption", { count: wrongCount })}
             </label>
 
             {section === "state" && (
@@ -109,6 +136,15 @@ export default function SetupScreen({
           <button className="btn btn-link full-width" onClick={onReset}>
             {t("resetProgress")}
           </button>
+
+          <a
+            className="btn btn-secondary full-width"
+            href={assetPath(OFFICIAL_PDF_PATH)}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {t("officialPdfButton")}
+          </a>
         </div>
       </div>
     </div>
