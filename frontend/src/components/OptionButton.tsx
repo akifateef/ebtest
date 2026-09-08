@@ -29,6 +29,7 @@ export default function OptionButton({
       }`}
       onClick={onClick}
       type="button"
+      dir="ltr"
     >
       {option.image && (
         <img src={option.image} alt="" className="option-image" />

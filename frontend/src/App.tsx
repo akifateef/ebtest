@@ -10,14 +10,14 @@ import {
   saveSession,
 } from "./storage";
 import type { AnswersMap, QuestionOrder, QuizSession } from "./types";
+import { useTranslation } from "./i18n/LanguageContext";
 import "./App.css";
 
 export default function App() {
+  const { t } = useTranslation();
   const [answers, setAnswers] = useState<AnswersMap>(() => loadAnswers());
   const [session, setSession] = useState<QuizSession | null>(() => loadSession());
-  const [view, setView] = useState<"setup" | "quiz">(() =>
-    loadSession() ? "quiz" : "setup"
-  );
+  const [view, setView] = useState<"setup" | "quiz">("setup");
 
   useEffect(() => {
     saveAnswers(answers);
@@ -26,6 +26,10 @@ export default function App() {
   useEffect(() => {
     saveSession(session);
   }, [session]);
+
+  useEffect(() => {
+    document.title = t("appTitle");
+  }, [t]);
 
   function handleStart(
     section: "general" | "state",
@@ -67,11 +71,7 @@ export default function App() {
   }
 
   function handleReset() {
-    if (
-      window.confirm(
-        "M\u00f6chtest du wirklich deinen gesamten Fortschritt zur\u00fccksetzen?"
-      )
-    ) {
+    if (window.confirm(t("resetConfirm"))) {
       clearAnswers();
       setAnswers({});
     }
@@ -81,7 +81,6 @@ export default function App() {
     <>
       {view === "setup" || !session ? (
         <SetupScreen
-          answers={answers}
           onStart={handleStart}
           onReset={handleReset}
           hasSession={!!session}

@@ -1,8 +1,10 @@
-# Einbürgerungstest Trainer
+# ebtest — Einbürgerungstest Trainer
 
 A frontend-only React app for practicing the German citizenship test
 ("Leben in Deutschland" / Einbürgerungstest). Built to be deployed as a
 static site on GitHub Pages.
+
+🔗 **Live app:** https://akif.me/ebtest/
 
 ## Features
 
@@ -83,10 +85,13 @@ To enable it:
 2. In the repo settings, go to **Pages** and set the source to
    **GitHub Actions**.
 3. Push to `main` (or run the workflow manually) — the site will be
-   published at `https://<your-username>.github.io/<repo-name>/`.
+   published at `https://<your-username>.github.io/<repo-name>/`
+   (for this repo: https://akif.me/ebtest/, via a custom domain).
 
 The Vite config uses a relative `base: './'`, so the build works regardless
-of the repository name / subpath it's served from.
+of the repository name / subpath it's served from — renaming the repo (as
+was done here, from `Einbuergerungstest` to `ebtest`) needs no code changes,
+just a re-run of the deploy workflow.
 
 ## Acknowledgements
 

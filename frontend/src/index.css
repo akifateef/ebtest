@@ -1,6 +1,5 @@
-:root {
-  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial,
-    sans-serif;
+:root,
+[data-theme="light"] {
   color-scheme: light;
   --color-bg: #f3f4f6;
   --color-card: #ffffff;
@@ -13,6 +12,72 @@
   --color-green-bg: #dcfce7;
   --color-red: #dc2626;
   --color-red-bg: #fee2e2;
+  --color-input-bg: #ffffff;
+  --color-btn-secondary-bg: #eef2f7;
+  --color-btn-secondary-bg-hover: #e2e8f0;
+  --color-track-bg: #e5e7eb;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --color-bg: #111827;
+  --color-card: #1f2937;
+  --color-text: #e5e7eb;
+  --color-muted: #9ca3af;
+  --color-primary: #3b82f6;
+  --color-primary-dark: #60a5fa;
+  --color-border: #374151;
+  --color-green: #22c55e;
+  --color-green-bg: #14532d;
+  --color-red: #f87171;
+  --color-red-bg: #7f1d1d;
+  --color-input-bg: #1f2937;
+  --color-btn-secondary-bg: #374151;
+  --color-btn-secondary-bg-hover: #4b5563;
+  --color-track-bg: #374151;
+}
+
+[data-theme="solarized-light"] {
+  color-scheme: light;
+  --color-bg: #fdf6e3;
+  --color-card: #eee8d5;
+  --color-text: #586e75;
+  --color-muted: #839496;
+  --color-primary: #268bd2;
+  --color-primary-dark: #1e6a99;
+  --color-border: #93a1a1;
+  --color-green: #859900;
+  --color-green-bg: rgba(133, 153, 0, 0.18);
+  --color-red: #dc322f;
+  --color-red-bg: rgba(220, 50, 47, 0.18);
+  --color-input-bg: #fdf6e3;
+  --color-btn-secondary-bg: #eee8d5;
+  --color-btn-secondary-bg-hover: #e3dcc6;
+  --color-track-bg: #eee8d5;
+}
+
+[data-theme="solarized-dark"] {
+  color-scheme: dark;
+  --color-bg: #002b36;
+  --color-card: #073642;
+  --color-text: #93a1a1;
+  --color-muted: #839496;
+  --color-primary: #268bd2;
+  --color-primary-dark: #4bacdf;
+  --color-border: #586e75;
+  --color-green: #859900;
+  --color-green-bg: rgba(133, 153, 0, 0.28);
+  --color-red: #dc322f;
+  --color-red-bg: rgba(220, 50, 47, 0.28);
+  --color-input-bg: #073642;
+  --color-btn-secondary-bg: #0a4a57;
+  --color-btn-secondary-bg-hover: #0e5866;
+  --color-track-bg: #0a4a57;
+}
+
+:root {
+  font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial,
+    sans-serif;
 }
 
 * {
@@ -23,6 +88,7 @@ body {
   margin: 0;
   background: var(--color-bg);
   color: var(--color-text);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 #root {
