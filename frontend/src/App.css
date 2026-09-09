@@ -367,4 +367,22 @@ h1 {
   .card {
     padding: 20px 18px 24px;
   }
+
+  .settings-bar {
+    flex-wrap: nowrap;
+    gap: 8px;
+  }
+
+  .settings-field {
+    flex: 1 1 0;
+    min-width: 0;
+    gap: 4px;
+  }
+
+  .settings-select {
+    width: 100%;
+    min-width: 0;
+    padding: 6px 4px;
+    font-size: 0.78rem;
+  }
 }
