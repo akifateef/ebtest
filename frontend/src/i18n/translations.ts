@@ -49,7 +49,11 @@ export type TranslationKey =
   | "examReviewCorrect"
   | "examReviewWrong"
   | "examReviewUnanswered"
-  | "backToResultsButton";
+  | "backToResultsButton"
+  | "showTranslation"
+  | "hideTranslation"
+  | "translationLoading"
+  | "translationUnavailable";
 
 export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> = {
   de: {
@@ -103,6 +107,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Falsch",
     examReviewUnanswered: "Nicht beantwortet",
     backToResultsButton: "Zurück zum Ergebnis",
+    showTranslation: "Übersetzung anzeigen",
+    hideTranslation: "Übersetzung ausblenden",
+    translationLoading: "Übersetzung wird geladen…",
+    translationUnavailable: "Übersetzung nicht verfügbar.",
   },
   en: {
     appTitle: "German Citizenship Test Trainer",
@@ -155,6 +163,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Wrong",
     examReviewUnanswered: "Not answered",
     backToResultsButton: "Back to result",
+    showTranslation: "Show translation",
+    hideTranslation: "Hide translation",
+    translationLoading: "Loading translation…",
+    translationUnavailable: "Translation unavailable.",
   },
   tr: {
     appTitle: "Alman Vatandaşlık Testi Eğitmeni",
@@ -207,6 +219,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Yanlış",
     examReviewUnanswered: "Cevaplanmadı",
     backToResultsButton: "Sonuca dön",
+    showTranslation: "Çeviriyi göster",
+    hideTranslation: "Çeviriyi gizle",
+    translationLoading: "Çeviri yükleniyor…",
+    translationUnavailable: "Çeviri mevcut değil.",
   },
   ar: {
     appTitle: "مدرّب اختبار الجنسية الألمانية",
@@ -259,6 +275,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "خطأ",
     examReviewUnanswered: "لم تتم الإجابة",
     backToResultsButton: "العودة إلى النتيجة",
+    showTranslation: "إظهار الترجمة",
+    hideTranslation: "إخفاء الترجمة",
+    translationLoading: "جارٍ تحميل الترجمة…",
+    translationUnavailable: "الترجمة غير متوفرة.",
   },
   ru: {
     appTitle: "Тренажёр теста на немецкое гражданство",
@@ -311,6 +331,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Неправильно",
     examReviewUnanswered: "Без ответа",
     backToResultsButton: "Назад к результату",
+    showTranslation: "Показать перевод",
+    hideTranslation: "Скрыть перевод",
+    translationLoading: "Загрузка перевода…",
+    translationUnavailable: "Перевод недоступен.",
   },
   uk: {
     appTitle: "Тренажер тесту на німецьке громадянство",
@@ -363,6 +387,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Неправильно",
     examReviewUnanswered: "Без відповіді",
     backToResultsButton: "Назад до результату",
+    showTranslation: "Показати переклад",
+    hideTranslation: "Приховати переклад",
+    translationLoading: "Завантаження перекладу…",
+    translationUnavailable: "Переклад недоступний.",
   },
   pl: {
     appTitle: "Trener testu na obywatelstwo niemieckie",
@@ -415,6 +443,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Błędnie",
     examReviewUnanswered: "Brak odpowiedzi",
     backToResultsButton: "Powrót do wyniku",
+    showTranslation: "Pokaż tłumaczenie",
+    hideTranslation: "Ukryj tłumaczenie",
+    translationLoading: "Ładowanie tłumaczenia…",
+    translationUnavailable: "Tłumaczenie niedostępne.",
   },
   fr: {
     appTitle: "Entraîneur au test de naturalisation allemande",
@@ -467,6 +499,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Incorrect",
     examReviewUnanswered: "Sans réponse",
     backToResultsButton: "Retour au résultat",
+    showTranslation: "Afficher la traduction",
+    hideTranslation: "Masquer la traduction",
+    translationLoading: "Chargement de la traduction…",
+    translationUnavailable: "Traduction indisponible.",
   },
   es: {
     appTitle: "Entrenador del examen de nacionalidad alemana",
@@ -519,6 +555,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Incorrecto",
     examReviewUnanswered: "Sin responder",
     backToResultsButton: "Volver al resultado",
+    showTranslation: "Mostrar traducción",
+    hideTranslation: "Ocultar traducción",
+    translationLoading: "Cargando traducción…",
+    translationUnavailable: "Traducción no disponible.",
   },
   it: {
     appTitle: "Allenatore del test di cittadinanza tedesca",
@@ -571,6 +611,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "Errato",
     examReviewUnanswered: "Senza risposta",
     backToResultsButton: "Torna al risultato",
+    showTranslation: "Mostra traduzione",
+    hideTranslation: "Nascondi traduzione",
+    translationLoading: "Caricamento traduzione…",
+    translationUnavailable: "Traduzione non disponibile.",
   },
   zh: {
     appTitle: "德国入籍考试练习",
@@ -623,6 +667,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "错误",
     examReviewUnanswered: "未作答",
     backToResultsButton: "返回结果",
+    showTranslation: "显示翻译",
+    hideTranslation: "隐藏翻译",
+    translationLoading: "正在加载翻译…",
+    translationUnavailable: "翻译不可用。",
   },
   ja: {
     appTitle: "ドイツ帰化試験トレーナー",
@@ -675,6 +723,10 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "不正解",
     examReviewUnanswered: "未回答",
     backToResultsButton: "結果に戻る",
+    showTranslation: "翻訳を表示",
+    hideTranslation: "翻訳を非表示",
+    translationLoading: "翻訳を読み込み中…",
+    translationUnavailable: "翻訳が利用できません。",
   },
   ur: {
     appTitle: "جرمن شہریت ٹیسٹ ٹرینر",
@@ -727,5 +779,9 @@ export const TRANSLATIONS: Record<LanguageCode, Record<TranslationKey, string>> 
     examReviewWrong: "غلط",
     examReviewUnanswered: "جواب نہیں دیا گیا",
     backToResultsButton: "نتیجے پر واپس جائیں",
+    showTranslation: "ترجمہ دکھائیں",
+    hideTranslation: "ترجمہ چھپائیں",
+    translationLoading: "ترجمہ لوڈ ہو رہا ہے…",
+    translationUnavailable: "ترجمہ دستیاب نہیں ہے۔",
   },
 };

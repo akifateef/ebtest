@@ -273,6 +273,43 @@ h1 {
   margin: 0 0 18px;
 }
 
+.translation-toggle-row {
+  margin: -8px 0 12px;
+}
+
+.translation-toggle {
+  padding: 0;
+  font-size: 0.85rem;
+}
+
+.translation-panel {
+  background: var(--color-btn-secondary-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin: 0 0 18px;
+}
+
+.translation-question {
+  font-weight: 600;
+  margin: 0 0 8px;
+}
+
+.translation-options {
+  margin: 0;
+  padding-inline-start: 1.2em;
+}
+
+.translation-options li {
+  margin: 2px 0;
+}
+
+.translation-status {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
+
 .context-figure {
   margin: 0 0 18px;
   text-align: center;

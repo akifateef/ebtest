@@ -1,0 +1,4142 @@
+{
+  "general-1": {
+    "question": "In Germany, people are allowed to openly criticize the government because …",
+    "options": [
+      "freedom of religion applies here.",
+      "people pay taxes.",
+      "people have the right to vote.",
+      "freedom of expression applies here."
+    ]
+  },
+  "general-2": {
+    "question": "In Germany, parents can decide until their child turns 14 whether the child takes part in … at school.",
+    "options": [
+      "history classes.",
+      "religious education classes.",
+      "politics classes.",
+      "language classes."
+    ]
+  },
+  "general-3": {
+    "question": "Germany is a constitutional state governed by the rule of law. What does that mean?",
+    "options": [
+      "All residents and the state must obey the laws.",
+      "The state does not have to obey the laws.",
+      "Only Germans must obey the laws.",
+      "The courts make the laws."
+    ]
+  },
+  "general-4": {
+    "question": "Which right is one of the fundamental rights in Germany?",
+    "options": [
+      "the right to own weapons",
+      "the law of the strongest",
+      "freedom of expression",
+      "vigilante justice"
+    ]
+  },
+  "general-5": {
+    "question": "Elections in Germany are free. What does that mean?",
+    "options": [
+      "You may accept money if you vote for a certain candidate.",
+      "Only people who have never been in prison may vote.",
+      "Voters may neither be influenced nor forced to cast a certain vote, and they may not suffer disadvantages because of their vote.",
+      "All eligible voters must vote."
+    ]
+  },
+  "general-6": {
+    "question": "What is the German constitution called?",
+    "options": [
+      "People's Law",
+      "Federal Law",
+      "German Law",
+      "Basic Law"
+    ]
+  },
+  "general-7": {
+    "question": "Which right belongs to the fundamental rights guaranteed by the German constitution? The right to …",
+    "options": [
+      "freedom of belief and conscience",
+      "entertainment",
+      "work",
+      "housing"
+    ]
+  },
+  "general-8": {
+    "question": "What is not in Germany's Basic Law?",
+    "options": [
+      "Human dignity is inviolable.",
+      "Everyone should have the same amount of money.",
+      "Everyone may express their opinion.",
+      "Everyone is equal before the law."
+    ]
+  },
+  "general-9": {
+    "question": "Which fundamental right in Germany applies only to foreigners? The fundamental right to …",
+    "options": [
+      "protection of the family",
+      "human dignity",
+      "asylum",
+      "freedom of expression"
+    ]
+  },
+  "general-10": {
+    "question": "What is compatible with the German Basic Law?",
+    "options": [
+      "corporal punishment",
+      "torture",
+      "the death penalty",
+      "a fine"
+    ]
+  },
+  "general-11": {
+    "question": "What is the constitution of the Federal Republic of Germany called?",
+    "options": [
+      "Basic Law",
+      "Federal Constitution",
+      "Code of Laws",
+      "Constitutional Treaty"
+    ]
+  },
+  "general-12": {
+    "question": "A party in the German Bundestag wants to abolish freedom of the press. Is that possible?",
+    "options": [
+      "Yes, if more than half of the members of the Bundestag support it.",
+      "Yes, but two thirds of the members of the Bundestag would have to support it.",
+      "No, because freedom of the press is a fundamental right. It cannot be abolished.",
+      "No, because only the Bundesrat can abolish freedom of the press."
+    ]
+  },
+  "general-13": {
+    "question": "In parliament, the term \"opposition\" refers to …",
+    "options": [
+      "the governing parties.",
+      "the parliamentary group with the most members.",
+      "all parties that passed the 5 percent threshold in the last election.",
+      "all members of parliament who do not belong to the governing party or governing parties."
+    ]
+  },
+  "general-14": {
+    "question": "Freedom of expression in Germany means that I …",
+    "options": [
+      "may insult passers-by in the street.",
+      "can express my opinion on the internet.",
+      "may publicly wear Nazi, Hamas, or Islamic State symbols.",
+      "may express my opinion only as long as I do not contradict the government."
+    ]
+  },
+  "general-15": {
+    "question": "What does the German Basic Law prohibit?",
+    "options": [
+      "military service",
+      "forced labor",
+      "free choice of profession",
+      "working abroad"
+    ]
+  },
+  "general-16": {
+    "question": "When is freedom of expression restricted in Germany?",
+    "options": [
+      "when false claims about individuals are spread publicly",
+      "when expressing opinions about the Federal Government",
+      "during discussions about religions",
+      "when criticizing the state"
+    ]
+  },
+  "general-17": {
+    "question": "German laws prohibit …",
+    "options": [
+      "the residents' freedom of expression.",
+      "citizens' petitions.",
+      "the residents' freedom of assembly.",
+      "unequal treatment of citizens by the state."
+    ]
+  },
+  "general-18": {
+    "question": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "options": [
+      "the inviolability of human dignity",
+      "the right to life",
+      "freedom of religion",
+      "freedom of expression"
+    ]
+  },
+  "general-19": {
+    "question": "What is meant by the right to \"freedom of movement\" in Germany?",
+    "options": [
+      "You may choose your place of residence yourself.",
+      "You can change your profession.",
+      "You may choose a different religion.",
+      "You may move around in public only lightly clothed."
+    ]
+  },
+  "general-20": {
+    "question": "A party in Germany aims to establish a dictatorship. It is therefore …",
+    "options": [
+      "tolerant.",
+      "guided by the rule of law.",
+      "law-abiding.",
+      "unconstitutional."
+    ]
+  },
+  "general-21": {
+    "question": "Which is the coat of arms of the Federal Republic of Germany?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "general-22": {
+    "question": "What form of state does Germany have?",
+    "options": [
+      "monarchy",
+      "dictatorship",
+      "republic",
+      "principality"
+    ]
+  },
+  "general-23": {
+    "question": "In Germany, most people in employment are …",
+    "options": [
+      "employed in small family businesses.",
+      "working voluntarily for a federal state.",
+      "self-employed with their own company.",
+      "employed by a company or a public authority."
+    ]
+  },
+  "general-24": {
+    "question": "How many federal states does the Federal Republic of Germany have?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ]
+  },
+  "general-25": {
+    "question": "Which is not a federal state of the Federal Republic of Germany?",
+    "options": [
+      "Alsace-Lorraine",
+      "North Rhine-Westphalia",
+      "Mecklenburg-Western Pomerania",
+      "Saxony-Anhalt"
+    ]
+  },
+  "general-26": {
+    "question": "Germany is …",
+    "options": [
+      "a communist republic.",
+      "a democratic and social federal state.",
+      "a capitalist and social monarchy.",
+      "a social and socialist federal state."
+    ]
+  },
+  "general-27": {
+    "question": "Germany is …",
+    "options": [
+      "a socialist state.",
+      "a federal state.",
+      "a dictatorship.",
+      "a monarchy."
+    ]
+  },
+  "general-28": {
+    "question": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      "the military",
+      "business and industry",
+      "the eligible voters",
+      "the administration"
+    ]
+  },
+  "general-29": {
+    "question": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "options": [
+      "lion",
+      "eagle",
+      "bear",
+      "horse"
+    ]
+  },
+  "general-30": {
+    "question": "What is not a feature of our democracy?",
+    "options": [
+      "regular elections",
+      "press censorship",
+      "freedom of expression",
+      "different parties"
+    ]
+  },
+  "general-31": {
+    "question": "The cooperation of parties to form a government is called in Germany …",
+    "options": [
+      "unity.",
+      "a coalition.",
+      "a ministry.",
+      "a parliamentary group."
+    ]
+  },
+  "general-32": {
+    "question": "What is not a branch of state power in Germany?",
+    "options": [
+      "legislation",
+      "government",
+      "the press",
+      "the judiciary"
+    ]
+  },
+  "general-33": {
+    "question": "Which statement is correct? In Germany …",
+    "options": [
+      "the state and religious communities are separate from each other.",
+      "the religious communities form the state.",
+      "the state depends on the religious communities.",
+      "the state and religious communities form a single unit."
+    ]
+  },
+  "general-34": {
+    "question": "What is Germany not?",
+    "options": [
+      "a democracy",
+      "a constitutional state governed by the rule of law",
+      "a monarchy",
+      "a welfare state"
+    ]
+  },
+  "general-35": {
+    "question": "How does the German state finance social insurance?",
+    "options": [
+      "church tax",
+      "social security contributions",
+      "donations",
+      "club membership fees"
+    ]
+  },
+  "general-36": {
+    "question": "Which measure creates social security in Germany?",
+    "options": [
+      "health insurance",
+      "car insurance",
+      "building insurance",
+      "liability insurance"
+    ]
+  },
+  "general-37": {
+    "question": "What are the heads of government of most federal states in Germany called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Senator",
+      "Minister-President"
+    ]
+  },
+  "general-38": {
+    "question": "The Federal Republic of Germany is a democratic and social …",
+    "options": [
+      "association of states.",
+      "federal state.",
+      "confederation of states.",
+      "centralized state."
+    ]
+  },
+  "general-39": {
+    "question": "What does every German federal state have?",
+    "options": [
+      "its own foreign minister",
+      "its own currency",
+      "its own army",
+      "its own government"
+    ]
+  },
+  "general-40": {
+    "question": "With which words does the German national anthem begin?",
+    "options": [
+      "People, hear the signals …",
+      "Unity and justice and freedom …",
+      "Joy, beautiful spark of the gods …",
+      "Germany, united fatherland …"
+    ]
+  },
+  "general-41": {
+    "question": "Why is there more than one party in a democracy?",
+    "options": [
+      "because this allows the different opinions of citizens to be represented",
+      "so that bribery in politics is kept within limits",
+      "to prevent political demonstrations",
+      "to stimulate economic competition"
+    ]
+  },
+  "general-42": {
+    "question": "Who passes a new law in Germany?",
+    "options": [
+      "the government",
+      "parliament",
+      "the courts",
+      "the police"
+    ]
+  },
+  "general-43": {
+    "question": "When can a party be banned in Germany?",
+    "options": [
+      "if its election campaign is too expensive",
+      "if it fights against the constitution",
+      "if it criticizes the head of state",
+      "if its program proposes a new direction"
+    ]
+  },
+  "general-44": {
+    "question": "As a citizen in Germany, whom can you not elect directly?",
+    "options": [
+      "members of the European Parliament",
+      "the Federal President",
+      "members of a state parliament",
+      "members of the Bundestag"
+    ]
+  },
+  "general-45": {
+    "question": "The long-term care insurance belongs to which type of insurance?",
+    "options": [
+      "social insurance",
+      "accident insurance",
+      "household contents insurance",
+      "liability and fire insurance"
+    ]
+  },
+  "general-46": {
+    "question": "The German state has many responsibilities. Which responsibility belongs to it?",
+    "options": [
+      "It builds roads and schools.",
+      "It sells food and clothing.",
+      "It provides all residents with newspapers free of charge.",
+      "It manufactures cars and buses."
+    ]
+  },
+  "general-47": {
+    "question": "The German state has many responsibilities. Which responsibility does not belong to it?",
+    "options": [
+      "It pays for vacation trips for all citizens.",
+      "It pays child benefit.",
+      "It supports museums.",
+      "It promotes athletes."
+    ]
+  },
+  "general-48": {
+    "question": "Which body is not one of Germany's constitutional organs?",
+    "options": [
+      "the Bundesrat",
+      "the Federal President",
+      "the citizens' assembly",
+      "the government"
+    ]
+  },
+  "general-49": {
+    "question": "Who determines school policy in Germany?",
+    "options": [
+      "teachers",
+      "the federal states",
+      "the Family Ministry",
+      "the universities"
+    ]
+  },
+  "general-50": {
+    "question": "Germany's economic system is called …",
+    "options": [
+      "free centrally planned economy.",
+      "social market economy.",
+      "controlled centrally planned economy.",
+      "planned economy."
+    ]
+  },
+  "general-51": {
+    "question": "It is not part of a democratic constitutional state governed by the rule of law that …",
+    "options": [
+      "people can criticize the government.",
+      "citizens may take part in peaceful demonstrations.",
+      "people are arrested by a private police force without reason.",
+      "someone commits a crime and is therefore arrested."
+    ]
+  },
+  "general-52": {
+    "question": "What does \"popular sovereignty\" mean? All state authority comes from the …",
+    "options": [
+      "people.",
+      "Bundestag.",
+      "Prussian king.",
+      "Federal Constitutional Court."
+    ]
+  },
+  "general-53": {
+    "question": "What does \"constitutional state governed by the rule of law\" mean in Germany?",
+    "options": [
+      "The state is right.",
+      "There are only right-wing parties.",
+      "Citizens decide on the laws.",
+      "The state must obey the laws."
+    ]
+  },
+  "general-54": {
+    "question": "What is not a branch of state power in Germany?",
+    "options": [
+      "legislative",
+      "judiciary",
+      "executive",
+      "directive"
+    ]
+  },
+  "general-55": {
+    "question": "What does this picture show?",
+    "options": [
+      "the Bundestag building in Berlin",
+      "the Federal Constitutional Court in Karlsruhe",
+      "the Bundesrat building in Berlin",
+      "the Federal Chancellery in Berlin"
+    ]
+  },
+  "general-56": {
+    "question": "Which office in Germany belongs to the municipal administration?",
+    "options": [
+      "parish office",
+      "public order office",
+      "tax office",
+      "Foreign Office"
+    ]
+  },
+  "general-57": {
+    "question": "Who is usually elected President of the German Bundestag?",
+    "options": [
+      "the oldest member of parliament",
+      "the Minister-President of the largest federal state",
+      "a former Federal Chancellor",
+      "a member of the strongest parliamentary group"
+    ]
+  },
+  "general-58": {
+    "question": "Who appoints the ministers of the Federal Government in Germany?",
+    "options": [
+      "the President of the Federal Constitutional Court",
+      "the Federal President",
+      "the President of the Bundesrat",
+      "the President of the Bundestag"
+    ]
+  },
+  "general-59": {
+    "question": "How many years ago was there first a Jewish community in the territory of present-day Germany?",
+    "options": [
+      "about 300 years ago",
+      "about 700 years ago",
+      "about 1,150 years ago",
+      "about 1,700 years ago"
+    ]
+  },
+  "general-60": {
+    "question": "In Germany, the Bundestag and the Bundesrat belong to the …",
+    "options": [
+      "executive branch.",
+      "legislative branch.",
+      "directive branch.",
+      "judiciary."
+    ]
+  },
+  "general-61": {
+    "question": "What does \"popular sovereignty\" mean?",
+    "options": [
+      "The queen or king rules over the people.",
+      "The Federal Constitutional Court stands above the constitution.",
+      "Interest groups exercise sovereignty together with the government.",
+      "State authority comes from the people."
+    ]
+  },
+  "general-62": {
+    "question": "When the parliament of a German federal state is elected, this is called a …",
+    "options": [
+      "municipal election",
+      "Landtag election",
+      "European election",
+      "Bundestag election"
+    ]
+  },
+  "general-63": {
+    "question": "What does not belong to the executive branch in Germany?",
+    "options": [
+      "the police",
+      "the courts",
+      "the tax office",
+      "the ministries"
+    ]
+  },
+  "general-64": {
+    "question": "Today, the Federal Republic of Germany is structured into …",
+    "options": [
+      "four occupation zones.",
+      "an eastern state and a western state.",
+      "16 cantons.",
+      "the federal level, the states, and the municipalities."
+    ]
+  },
+  "general-65": {
+    "question": "It is not one of the tasks of the German Bundestag to …",
+    "options": [
+      "draft laws.",
+      "control the Federal Government.",
+      "elect the Federal Chancellor.",
+      "form the Federal Cabinet."
+    ]
+  },
+  "general-66": {
+    "question": "Which cities have the largest Jewish communities in Germany?",
+    "options": [
+      "Berlin and Munich",
+      "Hamburg and Essen",
+      "Nuremberg and Stuttgart",
+      "Worms and Speyer"
+    ]
+  },
+  "general-67": {
+    "question": "In Germany, what is above all a task of the federal states?",
+    "options": [
+      "defense policy",
+      "foreign policy",
+      "economic policy",
+      "school policy"
+    ]
+  },
+  "general-68": {
+    "question": "Why does the state supervise the school system in Germany?",
+    "options": [
+      "because there are only state schools in Germany",
+      "because all pupils must obtain a school-leaving certificate",
+      "because there are different kinds of schools in the federal states",
+      "because under the Basic Law this is its responsibility"
+    ]
+  },
+  "general-69": {
+    "question": "The Federal Republic of Germany has a three-level administrative structure. What is the lowest political level called?",
+    "options": [
+      "city councils",
+      "district administrators",
+      "municipalities",
+      "district offices"
+    ]
+  },
+  "general-70": {
+    "question": "The German Federal President Gustav Heinemann presents Helmut Schmidt with his certificate of appointment as German Federal Chancellor in 1974. Which of the following is one of the duties of the German Federal President?",
+    "options": [
+      "He runs the government's day-to-day business.",
+      "He controls the governing party.",
+      "He selects the ministers.",
+      "He proposes the Chancellor for election."
+    ]
+  },
+  "general-71": {
+    "question": "Where does the German Federal Chancellor spend most of the time? Most often he or she is …",
+    "options": [
+      "in Bonn, because the Federal Chancellery and the Bundestag are located there.",
+      "at Meseberg Palace, the Federal Government's guest house, to receive state guests.",
+      "at Bellevue Palace, the official residence of the Federal President, to receive state guests.",
+      "in Berlin, because the Federal Chancellery and the Bundestag are located there."
+    ]
+  },
+  "general-72": {
+    "question": "What is the name of Germany's current Federal Chancellor?",
+    "options": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Ursula von der Leyen",
+      "Friedrich Merz"
+    ]
+  },
+  "general-73": {
+    "question": "The two largest parliamentary groups in the German Bundestag are currently called …",
+    "options": [
+      "CDU/CSU and AfD.",
+      "Die Linke and Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen and SPD.",
+      "Die Linke and CDU/CSU."
+    ]
+  },
+  "general-74": {
+    "question": "What is the parliament for all of Germany called?",
+    "options": [
+      "Federal Convention",
+      "People's Chamber",
+      "Bundestag",
+      "Federal Court of Justice"
+    ]
+  },
+  "general-75": {
+    "question": "What is the name of Germany's current head of state?",
+    "options": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ]
+  },
+  "general-76": {
+    "question": "What does the abbreviation CDU stand for in Germany?",
+    "options": [
+      "Christian German Union",
+      "Club of German Entrepreneurs",
+      "Christian German Environmental Protection",
+      "Christian Democratic Union"
+    ]
+  },
+  "general-77": {
+    "question": "What is the Bundeswehr?",
+    "options": [
+      "the German police",
+      "a German port",
+      "a German citizens' initiative",
+      "the German armed forces"
+    ]
+  },
+  "general-78": {
+    "question": "What does the abbreviation SPD stand for?",
+    "options": [
+      "Socialist Party of Germany",
+      "Social Policy Party of Germany",
+      "Social Democratic Party of Germany",
+      "Socially Just Party of Germany"
+    ]
+  },
+  "general-79": {
+    "question": "What does the abbreviation FDP stand for in Germany?",
+    "options": [
+      "Peaceful Demonstrative Party",
+      "Free Germany Party",
+      "Leading Democratic Party",
+      "Free Democratic Party"
+    ]
+  },
+  "general-80": {
+    "question": "Which court in Germany is responsible for interpreting the Basic Law?",
+    "options": [
+      "Higher Regional Court",
+      "Local Court",
+      "Federal Constitutional Court",
+      "Administrative Court"
+    ]
+  },
+  "general-81": {
+    "question": "Who elects the Federal Chancellor in Germany?",
+    "options": [
+      "the Bundesrat",
+      "the Federal Convention",
+      "the people",
+      "the Bundestag"
+    ]
+  },
+  "general-82": {
+    "question": "Who heads the German Federal Cabinet?",
+    "options": [
+      "the President of the Bundestag",
+      "the Federal President",
+      "the President of the Bundesrat",
+      "the Federal Chancellor"
+    ]
+  },
+  "general-83": {
+    "question": "Who elects the German Federal Chancellor?",
+    "options": [
+      "the people",
+      "the Federal Convention",
+      "the Bundestag",
+      "the Federal Government"
+    ]
+  },
+  "general-84": {
+    "question": "What is the main duty of the German Federal President? He or she …",
+    "options": [
+      "governs the country.",
+      "drafts the laws.",
+      "represents the country.",
+      "monitors compliance with the laws."
+    ]
+  },
+  "general-85": {
+    "question": "Who makes up the German Bundesrat?",
+    "options": [
+      "the members of the Bundestag",
+      "the ministers of the Federal Government",
+      "the representatives of the state governments",
+      "the party members"
+    ]
+  },
+  "general-86": {
+    "question": "Who elects the Federal President in Germany?",
+    "options": [
+      "the Federal Convention",
+      "the Bundesrat",
+      "the federal parliament",
+      "the Federal Constitutional Court"
+    ]
+  },
+  "general-87": {
+    "question": "Who is the head of state of the Federal Republic of Germany?",
+    "options": [
+      "the Federal Chancellor",
+      "the Federal President",
+      "the President of the Bundesrat",
+      "the President of the Bundestag"
+    ]
+  },
+  "general-88": {
+    "question": "The parliamentary opposition in the German Bundestag …",
+    "options": [
+      "controls the government.",
+      "decides who becomes a federal minister.",
+      "determines who sits in the Bundesrat.",
+      "proposes the heads of government of the federal states."
+    ]
+  },
+  "general-89": {
+    "question": "What is the association of members of one party in parliament called in Germany?",
+    "options": [
+      "association",
+      "Council of Elders",
+      "parliamentary group",
+      "opposition"
+    ]
+  },
+  "general-90": {
+    "question": "The German federal states participate in federal legislation through the …",
+    "options": [
+      "Bundesrat.",
+      "Federal Convention.",
+      "Bundestag.",
+      "Federal Government."
+    ]
+  },
+  "general-91": {
+    "question": "In Germany, a change of government in a federal state can affect federal politics. Governing becomes …",
+    "options": [
+      "more difficult if this changes the majority in the Bundestag.",
+      "easier if this brings new parties into the Bundesrat.",
+      "more difficult if this changes the majority in the Bundesrat.",
+      "easier if it is a wealthy federal state."
+    ]
+  },
+  "general-92": {
+    "question": "What does the abbreviation CSU stand for in Germany?",
+    "options": [
+      "Christian Secure Union",
+      "Christian South German Union",
+      "Christian Social Entrepreneurs' Association",
+      "Christian Social Union"
+    ]
+  },
+  "general-93": {
+    "question": "The more \"second votes\" a party receives in a Bundestag election, the …",
+    "options": [
+      "fewer first votes it may have.",
+      "more of the party's constituency candidates enter parliament.",
+      "greater the risk that it will have to form a coalition.",
+      "more seats the party receives in parliament."
+    ]
+  },
+  "general-94": {
+    "question": "From what age may a person vote in elections to the German Bundestag?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ]
+  },
+  "general-95": {
+    "question": "What applies to most children in Germany?",
+    "options": [
+      "compulsory voting",
+      "compulsory schooling",
+      "duty of confidentiality",
+      "compulsory religion"
+    ]
+  },
+  "general-96": {
+    "question": "How can someone who denies the Holocaust be punished?",
+    "options": [
+      "by a reduction in social benefits",
+      "with up to 100 hours of community service",
+      "not at all, Holocaust denial is permitted",
+      "with imprisonment of up to five years or a fine"
+    ]
+  },
+  "general-97": {
+    "question": "What do you automatically pay in Germany if you are permanently employed?",
+    "options": [
+      "social insurance",
+      "social assistance",
+      "child benefit",
+      "housing benefit"
+    ]
+  },
+  "general-98": {
+    "question": "If members of the German Bundestag change their parliamentary group, …",
+    "options": [
+      "they may no longer take part in parliamentary sessions.",
+      "the government can lose its majority.",
+      "the Federal President must first give consent.",
+      "the voters of those members may vote again."
+    ]
+  },
+  "general-99": {
+    "question": "Who pays for social insurance in Germany?",
+    "options": [
+      "employers and employees",
+      "employees only",
+      "all citizens",
+      "employers only"
+    ]
+  },
+  "general-100": {
+    "question": "What does not belong to statutory social insurance?",
+    "options": [
+      "life insurance",
+      "statutory pension insurance",
+      "unemployment insurance",
+      "long-term care insurance"
+    ]
+  },
+  "general-101": {
+    "question": "Trade unions are interest groups representing …",
+    "options": [
+      "young people.",
+      "employees.",
+      "pensioners.",
+      "employers."
+    ]
+  },
+  "general-102": {
+    "question": "What can someone in the Federal Republic of Germany be awarded if they have achieved something special in politics, business, culture, intellectual life, or society? The …",
+    "options": [
+      "Federal Cross of Merit",
+      "Federal Eagle",
+      "Patriotic Order of Merit",
+      "honorary title \"Hero of the German Democratic Republic\""
+    ]
+  },
+  "general-103": {
+    "question": "What is called a \"traffic light coalition\" in Germany? The cooperation …",
+    "options": [
+      "of the CDU and CSU parliamentary groups in the Bundestag",
+      "of SPD, FDP, and Bündnis 90/Die Grünen in a government",
+      "of CSU, Die Linke, and Bündnis 90/Die Grünen in a government",
+      "of the CDU and SPD parliamentary groups in the Bundestag"
+    ]
+  },
+  "general-104": {
+    "question": "A woman in Germany loses her job. What must not be the reason for her dismissal?",
+    "options": [
+      "The woman has been ill and unable to work for a long time.",
+      "The woman often came late to work.",
+      "The woman takes care of private matters during working hours.",
+      "The woman is expecting a child and her boss knows it."
+    ]
+  },
+  "general-105": {
+    "question": "What is one duty of election workers in Germany?",
+    "options": [
+      "They help elderly people cast their vote in the voting booth.",
+      "They write the election notifications before the election.",
+      "They pass on interim results to the media.",
+      "They count the votes after the end of the election."
+    ]
+  },
+  "general-106": {
+    "question": "Volunteer election workers help with elections in Germany. What is one duty of election workers?",
+    "options": [
+      "They help children and elderly people vote.",
+      "They write cards and letters stating the polling station.",
+      "They pass on interim results to journalists.",
+      "They count the votes after the end of the election."
+    ]
+  },
+  "general-107": {
+    "question": "For how many years is the Bundestag elected in Germany?",
+    "options": [
+      "2 years",
+      "4 years",
+      "6 years",
+      "8 years"
+    ]
+  },
+  "general-108": {
+    "question": "In a Bundestag election in Germany, anyone may vote who …",
+    "options": [
+      "lives in the Federal Republic of Germany and wants to vote.",
+      "is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+      "has lived in the Federal Republic of Germany for at least 3 years.",
+      "is a citizen of the Federal Republic of Germany and is at least 21 years old."
+    ]
+  },
+  "general-109": {
+    "question": "How often are Bundestag elections normally held in Germany?",
+    "options": [
+      "every three years",
+      "every four years",
+      "every five years",
+      "every six years"
+    ]
+  },
+  "general-110": {
+    "question": "For how many years is the Bundestag elected in Germany?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ]
+  },
+  "general-111": {
+    "question": "Which actions relating to the State of Israel are prohibited in Germany?",
+    "options": [
+      "publicly criticizing Israel's policies",
+      "displaying an Israeli flag on private property",
+      "a discussion about Israel's policies",
+      "a public call for the destruction of Israel"
+    ]
+  },
+  "general-112": {
+    "question": "Elections in Germany are …",
+    "options": [
+      "special.",
+      "secret.",
+      "job-related.",
+      "dependent on gender."
+    ]
+  },
+  "general-113": {
+    "question": "In Germany, the party that wins an election is the party that …",
+    "options": [
+      "gets the most votes.",
+      "is chosen by the majority of men.",
+      "got the most votes from workers.",
+      "received the most first votes for its chancellor candidate."
+    ]
+  },
+  "general-114": {
+    "question": "Taking part in democratic elections in Germany is …",
+    "options": [
+      "a duty.",
+      "a right.",
+      "an obligation.",
+      "a burden."
+    ]
+  },
+  "general-115": {
+    "question": "What does \"active voting right\" mean in Germany?",
+    "options": [
+      "You can be elected.",
+      "You must go and vote.",
+      "You can vote.",
+      "You must go to the vote count."
+    ]
+  },
+  "general-116": {
+    "question": "If you are allowed to vote in a Bundestag election in Germany, this means you have …",
+    "options": [
+      "an active election campaign.",
+      "an active electoral procedure.",
+      "active canvassing.",
+      "active voting rights."
+    ]
+  },
+  "general-117": {
+    "question": "What percentage of the second votes must parties receive at a minimum to be elected to the German Bundestag?",
+    "options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ]
+  },
+  "general-118": {
+    "question": "Who may become a member of the roughly 40 Jewish Makkabi sports clubs?",
+    "options": [
+      "only Germans",
+      "only Israelis",
+      "only religious people",
+      "all people"
+    ]
+  },
+  "general-119": {
+    "question": "Elections in Germany are free. What does that mean?",
+    "options": [
+      "All convicted criminals may not vote.",
+      "If I want to vote, my employer must give me time off.",
+      "Every person can decide without coercion whether to vote and whom to vote for.",
+      "I can freely decide where I want to vote."
+    ]
+  },
+  "general-120": {
+    "question": "Germany's electoral system is a …",
+    "options": [
+      "census suffrage system.",
+      "three-class franchise.",
+      "system of majority and proportional representation.",
+      "universal male suffrage."
+    ]
+  },
+  "general-121": {
+    "question": "A party wants to enter the German Bundestag. It must achieve a minimum share of the vote. This is called the …",
+    "options": [
+      "5 percent threshold.",
+      "admission limit.",
+      "base value.",
+      "guideline."
+    ]
+  },
+  "general-122": {
+    "question": "Which principle governs elections in Germany? Elections in Germany are …",
+    "options": [
+      "free, equal, secret.",
+      "open, secure, free.",
+      "closed, equal, secure.",
+      "secure, open, voluntary."
+    ]
+  },
+  "general-123": {
+    "question": "What is the \"5 percent threshold\" in Germany?",
+    "options": [
+      "a voting rule in the Bundestag for small parties",
+      "an attendance check in the Bundestag for votes",
+      "the minimum share of votes needed to enter parliament",
+      "an attendance check in the Bundesrat for votes"
+    ]
+  },
+  "general-124": {
+    "question": "The Bundestag election in Germany is the election of …",
+    "options": [
+      "the Federal Chancellor.",
+      "the state parliaments.",
+      "the parliament for Germany.",
+      "the Federal President."
+    ]
+  },
+  "general-125": {
+    "question": "In a democracy, one function of regular elections is to …",
+    "options": [
+      "force citizens to cast their vote.",
+      "make it possible to change the government in accordance with the will of the majority of voters.",
+      "keep the laws in the country unchanged.",
+      "give the poor more power."
+    ]
+  },
+  "general-126": {
+    "question": "What do eligible citizens in Germany receive before an election?",
+    "options": [
+      "an election notification from the municipality",
+      "permission to vote from the Federal President",
+      "a notification from the Federal Convention",
+      "a notification from the parish office"
+    ]
+  },
+  "general-127": {
+    "question": "Why does the election law of the Federal Republic of Germany have a 5 percent threshold? It exists because …",
+    "options": [
+      "the programs of many small parties have many similarities.",
+      "citizens could lose their bearings if there are many small parties.",
+      "many small parties make it more difficult to form a government.",
+      "small parties do not have enough money to pay politicians."
+    ]
+  },
+  "general-128": {
+    "question": "Members of parliament who are elected by the citizens are called …",
+    "options": [
+      "members of parliament.",
+      "chancellors.",
+      "ambassadors.",
+      "minister-presidents."
+    ]
+  },
+  "general-129": {
+    "question": "In Germany, the one elected by the people is …",
+    "options": [
+      "the Federal Chancellor.",
+      "the Minister-President of a federal state.",
+      "the Bundestag.",
+      "the Federal President."
+    ]
+  },
+  "general-130": {
+    "question": "Which ballot paper would be valid in a Bundestag election?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "general-131": {
+    "question": "In Germany, a mayor is …",
+    "options": [
+      "the head of a school.",
+      "the head of a bank.",
+      "the head of a municipality.",
+      "the chair of a party."
+    ]
+  },
+  "general-132": {
+    "question": "Many people in Germany do voluntary work in their free time. What does that mean?",
+    "options": [
+      "They work as soldiers.",
+      "They work voluntarily and without pay in clubs and associations.",
+      "They work in the Federal Government.",
+      "They work in a hospital and earn money doing so."
+    ]
+  },
+  "general-133": {
+    "question": "What is permitted in Bundestag and Landtag elections in Germany?",
+    "options": [
+      "A husband votes on behalf of his wife.",
+      "You can cast your vote by postal ballot.",
+      "You can cast your vote by telephone on election day.",
+      "Children aged 14 and over may vote."
+    ]
+  },
+  "general-134": {
+    "question": "They want to discontinue the bus route you always use to get to work. What can you do to keep the bus route?",
+    "options": [
+      "I join a citizens' initiative to preserve the bus route or start one myself.",
+      "I join a sports club and train for cycling.",
+      "I contact the tax office because, as a taxpayer, I have a right to the bus route.",
+      "I write a letter to the municipal forestry office."
+    ]
+  },
+  "general-135": {
+    "question": "Whom do trade unions represent in Germany?",
+    "options": [
+      "large companies",
+      "small companies",
+      "self-employed people",
+      "employees"
+    ]
+  },
+  "general-136": {
+    "question": "In Germany, you go to the labor court in the case of …",
+    "options": [
+      "an incorrect service-charge statement.",
+      "unjustified dismissal by your employer.",
+      "problems with your neighbors.",
+      "difficulties after a road accident."
+    ]
+  },
+  "general-137": {
+    "question": "Which court in Germany is responsible for conflicts in the world of work?",
+    "options": [
+      "the family court",
+      "the criminal court",
+      "the labor court",
+      "the local court"
+    ]
+  },
+  "general-138": {
+    "question": "What can I do in Germany if my employer has dismissed me unjustly?",
+    "options": [
+      "keep working and be friendly to my boss",
+      "initiate dunning proceedings against the employer",
+      "file an action for protection against dismissal",
+      "report the employer to the police"
+    ]
+  },
+  "general-139": {
+    "question": "When does a court trial take place in Germany? When someone …",
+    "options": [
+      "converts to another religion.",
+      "has committed a crime and is charged.",
+      "holds a different opinion from the government.",
+      "has parked their car incorrectly and it is towed away."
+    ]
+  },
+  "general-140": {
+    "question": "What does a lay judge do in Germany? He or she …",
+    "options": [
+      "decides guilt and punishment together with judges.",
+      "gives citizens legal advice.",
+      "issues certificates.",
+      "defends the accused."
+    ]
+  },
+  "general-141": {
+    "question": "Who advises people on legal matters and represents them in court in Germany?",
+    "options": [
+      "a lawyer",
+      "a judge",
+      "a lay judge",
+      "a public prosecutor"
+    ]
+  },
+  "general-142": {
+    "question": "What is the main duty of a judge in Germany? A judge …",
+    "options": [
+      "represents citizens before a court.",
+      "works at a court and delivers judgments.",
+      "changes laws.",
+      "looks after young people in court."
+    ]
+  },
+  "general-143": {
+    "question": "A judge in Germany belongs to the …",
+    "options": [
+      "judiciary.",
+      "executive.",
+      "operative branch.",
+      "legislative branch."
+    ]
+  },
+  "general-144": {
+    "question": "In Germany, a judge belongs to the …",
+    "options": [
+      "executive branch.",
+      "judicial branch.",
+      "planning branch.",
+      "legislative branch."
+    ]
+  },
+  "general-145": {
+    "question": "State authority is divided in Germany. For which branch of state power does a judge work? For the …",
+    "options": [
+      "judiciary",
+      "executive",
+      "press",
+      "legislature"
+    ]
+  },
+  "general-146": {
+    "question": "What is a proceeding before a court called in Germany?",
+    "options": [
+      "program",
+      "procedure",
+      "protocol",
+      "trial"
+    ]
+  },
+  "general-147": {
+    "question": "What is the work of a judge in Germany?",
+    "options": [
+      "governing Germany",
+      "administering justice",
+      "making plans",
+      "passing laws"
+    ]
+  },
+  "general-148": {
+    "question": "What is one task of the police in Germany?",
+    "options": [
+      "to defend the country",
+      "to wiretap citizens",
+      "to pass laws",
+      "to monitor compliance with laws"
+    ]
+  },
+  "general-149": {
+    "question": "What is an example of antisemitic behavior?",
+    "options": [
+      "attending a Jewish festival",
+      "criticizing the Israeli government",
+      "denying the Holocaust",
+      "playing football against Jews."
+    ]
+  },
+  "general-150": {
+    "question": "In Germany, a lay judge is …",
+    "options": [
+      "the deputy head of a city.",
+      "an honorary judge.",
+      "a member of a municipal council.",
+      "a person who has studied law."
+    ]
+  },
+  "general-151": {
+    "question": "Who built the Wall in Berlin?",
+    "options": [
+      "Great Britain",
+      "the GDR",
+      "the Federal Republic of Germany",
+      "the USA"
+    ]
+  },
+  "general-152": {
+    "question": "When were the National Socialists under Adolf Hitler in power in Germany?",
+    "options": [
+      "1918 to 1923",
+      "1932 to 1950",
+      "1933 to 1945",
+      "1945 to 1989"
+    ]
+  },
+  "general-153": {
+    "question": "What happened on 8 May 1945?",
+    "options": [
+      "Adolf Hitler died",
+      "Construction of the Berlin Wall began",
+      "Konrad Adenauer was elected Federal Chancellor",
+      "The Second World War in Europe ended"
+    ]
+  },
+  "general-154": {
+    "question": "When did the Second World War end?",
+    "options": [
+      "1933",
+      "1945",
+      "1949",
+      "1961"
+    ]
+  },
+  "general-155": {
+    "question": "When were the National Socialists in power in Germany?",
+    "options": [
+      "1888 to 1918",
+      "1921 to 1934",
+      "1933 to 1945",
+      "1949 to 1963"
+    ]
+  },
+  "general-156": {
+    "question": "In which year did Hitler become Reich Chancellor?",
+    "options": [
+      "1923",
+      "1927",
+      "1933",
+      "1936"
+    ]
+  },
+  "general-157": {
+    "question": "In 1933, the National Socialists under Adolf Hitler established in Germany …",
+    "options": [
+      "a dictatorship.",
+      "a democratic state.",
+      "a monarchy.",
+      "a principality."
+    ]
+  },
+  "general-158": {
+    "question": "The \"Third Reich\" was a …",
+    "options": [
+      "dictatorship.",
+      "democracy.",
+      "monarchy.",
+      "council republic."
+    ]
+  },
+  "general-159": {
+    "question": "What did not exist in Germany during the period of National Socialism?",
+    "options": [
+      "free elections",
+      "press censorship",
+      "arbitrary arrests",
+      "persecution of Jews"
+    ]
+  },
+  "general-160": {
+    "question": "Which war lasted from 1939 to 1945?",
+    "options": [
+      "the First World War",
+      "the Second World War",
+      "the Vietnam War",
+      "the Gulf War"
+    ]
+  },
+  "general-161": {
+    "question": "What characterized the Nazi state? A policy …",
+    "options": [
+      "of state racism",
+      "of freedom of expression",
+      "of general freedom of religion",
+      "of developing democracy"
+    ]
+  },
+  "general-162": {
+    "question": "Claus Schenk Graf von Stauffenberg became known for …",
+    "options": [
+      "winning a gold medal at the 1936 Olympic Games.",
+      "building the Reichstag building.",
+      "building up the Wehrmacht.",
+      "the assassination attempt on Hitler on 20 July 1944."
+    ]
+  },
+  "general-163": {
+    "question": "In which year did the National Socialists destroy synagogues and Jewish shops in Germany?",
+    "options": [
+      "1925",
+      "1930",
+      "1938",
+      "1945"
+    ]
+  },
+  "general-164": {
+    "question": "What happened in Germany on 9 November 1938?",
+    "options": [
+      "The Second World War begins with the attack on Poland.",
+      "The National Socialists lose an election and dissolve the Reichstag.",
+      "Jewish shops and synagogues are destroyed by the National Socialists and their supporters.",
+      "Hitler becomes Reich President and has all parties banned."
+    ]
+  },
+  "general-165": {
+    "question": "What was the name of the first Federal Chancellor of the Federal Republic of Germany?",
+    "options": [
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt",
+      "Willy Brandt"
+    ]
+  },
+  "general-166": {
+    "question": "At which demonstrations in Germany did people chant \"We are the people\"?",
+    "options": [
+      "at the workers' uprising of 1953 in the GDR",
+      "at the 1968 demonstrations in the Federal Republic of Germany",
+      "at the anti-nuclear-power demonstrations of 1985 in the Federal Republic of Germany",
+      "at the Monday demonstrations of 1989 in the GDR"
+    ]
+  },
+  "general-167": {
+    "question": "After the Second World War, which countries were called the \"Allied occupying powers\" in Germany?",
+    "options": [
+      "the Soviet Union, Great Britain, Poland, Sweden",
+      "France, the Soviet Union, Italy, Japan",
+      "the USA, the Soviet Union, Spain, Portugal",
+      "the USA, the Soviet Union, Great Britain, France"
+    ]
+  },
+  "general-168": {
+    "question": "Which country was not an \"Allied occupying power\" in Germany?",
+    "options": [
+      "the USA",
+      "the Soviet Union",
+      "France",
+      "Japan"
+    ]
+  },
+  "general-169": {
+    "question": "When was the Federal Republic of Germany founded?",
+    "options": [
+      "1939",
+      "1945",
+      "1949",
+      "1951"
+    ]
+  },
+  "general-170": {
+    "question": "What existed in Germany during the period of National Socialism?",
+    "options": [
+      "the banning of political parties",
+      "the right to the free development of one's personality",
+      "freedom of the press",
+      "the protection of human dignity"
+    ]
+  },
+  "general-171": {
+    "question": "A social market economy means that the economy …",
+    "options": [
+      "regulates itself solely through supply and demand.",
+      "is planned and controlled by the state; supply and demand are not taken into account.",
+      "is geared to demand abroad.",
+      "is based on supply and demand, but the state ensures social balance."
+    ]
+  },
+  "general-172": {
+    "question": "In which occupation zone was the GDR founded? In the …",
+    "options": [
+      "American occupation zone",
+      "French occupation zone",
+      "British occupation zone",
+      "Soviet occupation zone"
+    ]
+  },
+  "general-173": {
+    "question": "The Federal Republic of Germany is a founding member …",
+    "options": [
+      "of the North Atlantic Treaty Organization (NATO).",
+      "of the United Nations (UN).",
+      "of the European Union (EU).",
+      "of the Warsaw Pact."
+    ]
+  },
+  "general-174": {
+    "question": "When was the GDR founded?",
+    "options": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ]
+  },
+  "general-175": {
+    "question": "How many occupation zones were there in Germany after the Second World War?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "general-176": {
+    "question": "How were Germany's occupation zones divided after 1945?",
+    "options": [
+      "1=Great Britain, 2=Soviet Union, 3=France, 4=USA",
+      "1=Soviet Union, 2=Great Britain, 3=USA, 4=France",
+      "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
+      "1=Great Britain, 2=USA, 3=Soviet Union, 4=France"
+    ]
+  },
+  "general-177": {
+    "question": "Which German city was divided into four sectors after the Second World War?",
+    "options": [
+      "Munich",
+      "Berlin",
+      "Dresden",
+      "Frankfurt (Oder)"
+    ]
+  },
+  "general-178": {
+    "question": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance made this necessary?",
+    "options": [
+      "For France, supplying the West Berlin population by airplane was cheaper.",
+      "The American soldiers were afraid of attacks during ground transport.",
+      "For Great Britain, supplying by airlift was faster.",
+      "The Soviet Union interrupted all traffic by land."
+    ]
+  },
+  "general-179": {
+    "question": "How did the Second World War officially end in Europe?",
+    "options": [
+      "with Adolf Hitler's death",
+      "through Germany's unconditional surrender",
+      "with the German withdrawal from the occupied territories",
+      "through a revolution in Germany"
+    ]
+  },
+  "general-180": {
+    "question": "The first Federal Chancellor of the Federal Republic of Germany was …",
+    "options": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ]
+  },
+  "general-181": {
+    "question": "What did Willy Brandt want to express with his kneeling in 1970 in the former Jewish ghetto in Warsaw?",
+    "options": [
+      "He submitted to the former Allies.",
+      "He asked Poland and the Polish Jews for forgiveness.",
+      "He showed his humility before the Warsaw Pact.",
+      "He said a prayer at the Tomb of the Unknown Soldier."
+    ]
+  },
+  "general-182": {
+    "question": "What is the Jewish house of prayer called?",
+    "options": [
+      "basilica",
+      "mosque",
+      "synagogue",
+      "church"
+    ]
+  },
+  "general-183": {
+    "question": "When did the \"economic miracle\" take place in the Federal Republic of Germany?",
+    "options": [
+      "1940s",
+      "1950s",
+      "1970s",
+      "1980s"
+    ]
+  },
+  "general-184": {
+    "question": "On what legal basis was the State of Israel founded?",
+    "options": [
+      "a resolution of the United Nations",
+      "a decision of the Zionist Congress",
+      "a proposal by the Federal Government",
+      "a proposal by the USSR"
+    ]
+  },
+  "general-185": {
+    "question": "What did the expression \"Iron Curtain\" stand for? For the isolation …",
+    "options": [
+      "of the Warsaw Pact from the West",
+      "of northern Germany from southern Germany",
+      "of Nazi Germany from the Allies",
+      "of Europe from the USA"
+    ]
+  },
+  "general-186": {
+    "question": "In 1953 there was an uprising in the GDR that was commemorated for a long time by a public holiday in the Federal Republic of Germany. When was that?",
+    "options": [
+      "1 May",
+      "17 June",
+      "20 July",
+      "9 November"
+    ]
+  },
+  "general-187": {
+    "question": "Which German state had a black-red-gold flag with a hammer, compass, and wreath of grain?",
+    "options": [
+      "Prussia",
+      "Federal Republic of Germany",
+      "\"Third Reich\"",
+      "GDR"
+    ]
+  },
+  "general-188": {
+    "question": "In which year was the Wall built in Berlin?",
+    "options": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ]
+  },
+  "general-189": {
+    "question": "When did the GDR build the Wall in Berlin?",
+    "options": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ]
+  },
+  "general-190": {
+    "question": "What does the abbreviation GDR stand for?",
+    "options": [
+      "Third German Broadcasting Service",
+      "The German Republic",
+      "Third German Republic",
+      "German Democratic Republic"
+    ]
+  },
+  "general-191": {
+    "question": "When was the Wall in Berlin opened for everyone?",
+    "options": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ]
+  },
+  "general-192": {
+    "question": "Which present-day German federal state used to belong to the territory of the GDR?",
+    "options": [
+      "Brandenburg",
+      "Bavaria",
+      "Saarland",
+      "Hesse"
+    ]
+  },
+  "general-193": {
+    "question": "From 1961 to 1989, Berlin was …",
+    "options": [
+      "without a mayor.",
+      "its own state.",
+      "divided by a wall.",
+      "reachable only by airplane."
+    ]
+  },
+  "general-194": {
+    "question": "On 3 October, Germany celebrates the Day of German …",
+    "options": [
+      "Unity.",
+      "Nation.",
+      "Federal States.",
+      "Cities."
+    ]
+  },
+  "general-195": {
+    "question": "Which present-day German federal state used to belong to the territory of the GDR?",
+    "options": [
+      "Hesse",
+      "Saxony-Anhalt",
+      "North Rhine-Westphalia",
+      "Saarland"
+    ]
+  },
+  "general-196": {
+    "question": "Why is the period in the autumn of 1989 in the GDR called \"Die Wende\"? During this time the GDR changed politically …",
+    "options": [
+      "from a dictatorship to a democracy.",
+      "from a liberal market economy to socialism.",
+      "from a monarchy to social democracy.",
+      "from a religious state to a communist state."
+    ]
+  },
+  "general-197": {
+    "question": "Which present-day German federal state used to belong to the territory of the GDR?",
+    "options": [
+      "Thuringia",
+      "Hesse",
+      "Bavaria",
+      "Bremen"
+    ]
+  },
+  "general-198": {
+    "question": "Which present-day German federal state used to belong to the territory of the GDR?",
+    "options": [
+      "Bavaria",
+      "Lower Saxony",
+      "Saxony",
+      "Baden-Württemberg"
+    ]
+  },
+  "general-199": {
+    "question": "In the GDR, what was meant by the abbreviation \"Stasi\"?",
+    "options": [
+      "the parliament.",
+      "the Ministry for State Security.",
+      "a governing party.",
+      "the Ministry of Public Education."
+    ]
+  },
+  "general-200": {
+    "question": "Which present-day German federal state used to belong to the territory of the GDR?",
+    "options": [
+      "Hesse",
+      "Schleswig-Holstein",
+      "Mecklenburg-Western Pomerania",
+      "Saarland"
+    ]
+  },
+  "general-201": {
+    "question": "Which of the following lists contains only federal states that belonged to the territory of the former GDR?",
+    "options": [
+      "Lower Saxony, North Rhine-Westphalia, Hesse, Schleswig-Holstein, Brandenburg",
+      "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt, Thuringia",
+      "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony",
+      "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg"
+    ]
+  },
+  "general-202": {
+    "question": "Which side did the GDR belong to during the \"Cold War\"?",
+    "options": [
+      "the Western powers",
+      "the Warsaw Pact",
+      "NATO",
+      "the non-aligned states"
+    ]
+  },
+  "general-203": {
+    "question": "What was the name of the GDR's economic system?",
+    "options": [
+      "market economy",
+      "planned economy",
+      "supply and demand",
+      "capitalism"
+    ]
+  },
+  "general-204": {
+    "question": "How did the Federal Republic of Germany and the GDR become one state?",
+    "options": [
+      "The Federal Republic occupied the GDR.",
+      "The five present-day eastern federal states acceded to the Federal Republic of Germany.",
+      "The western federal states acceded to the GDR.",
+      "The GDR occupied the Federal Republic of Germany."
+    ]
+  },
+  "general-205": {
+    "question": "With the GDR's accession to the Federal Republic of Germany, the new federal states now also belong …",
+    "options": [
+      "to the European Union.",
+      "to the Warsaw Pact.",
+      "to OPEC.",
+      "to the European Defence Community."
+    ]
+  },
+  "general-206": {
+    "question": "What do the so-called \"Stolpersteine\" in Germany commemorate?",
+    "options": [
+      "famous German politicians",
+      "the victims of National Socialism",
+      "road traffic fatalities",
+      "well-known Jewish musicians"
+    ]
+  },
+  "general-207": {
+    "question": "Which military alliance was the GDR a member of?",
+    "options": [
+      "NATO",
+      "the Confederation of the Rhine",
+      "the Warsaw Pact",
+      "the European alliance"
+    ]
+  },
+  "general-208": {
+    "question": "What was the \"Stasi\"?",
+    "options": [
+      "the intelligence service in the \"Third Reich\"",
+      "a famous German memorial site",
+      "the GDR's intelligence service",
+      "a German sports club during the Second World War"
+    ]
+  },
+  "general-209": {
+    "question": "Which was the coat of arms of the German Democratic Republic?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "general-210": {
+    "question": "What happened in the GDR on 17 June 1953?",
+    "options": [
+      "the ceremonial accession to the Warsaw Pact",
+      "nationwide strikes and a popular uprising",
+      "the first SED party congress",
+      "Fidel Castro's first visit"
+    ]
+  },
+  "general-211": {
+    "question": "Which politician is associated with the \"Eastern Treaties\"?",
+    "options": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Mikhail Gorbachev",
+      "Ludwig Erhard"
+    ]
+  },
+  "general-212": {
+    "question": "What is Germany's full name?",
+    "options": [
+      "Federal State of Germany",
+      "Federal States of Germany",
+      "Federal Republic of Germany",
+      "Federal District of Germany"
+    ]
+  },
+  "general-213": {
+    "question": "How many inhabitants does Germany have?",
+    "options": [
+      "70 million",
+      "78 million",
+      "84 million",
+      "90 million"
+    ]
+  },
+  "general-214": {
+    "question": "What colors does the German flag have?",
+    "options": [
+      "black-red-gold",
+      "red-white-black",
+      "black-red-green",
+      "black-yellow-red"
+    ]
+  },
+  "general-215": {
+    "question": "Who is referred to as the \"Chancellor of German Unity\"?",
+    "options": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ]
+  },
+  "general-216": {
+    "question": "Which symbol can be seen in the plenary chamber of the German Bundestag?",
+    "options": [
+      "the Federal Eagle",
+      "the flag of the city of Berlin",
+      "the imperial eagle",
+      "the imperial crown"
+    ]
+  },
+  "general-217": {
+    "question": "During which period did the German Democratic Republic (GDR) exist?",
+    "options": [
+      "1919 to 1927",
+      "1933 to 1945",
+      "1945 to 1961",
+      "1949 to 1990"
+    ]
+  },
+  "general-218": {
+    "question": "How many federal states were added to the Federal Republic of Germany during reunification in 1990?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "general-219": {
+    "question": "The Federal Republic of Germany has had today's borders since …",
+    "options": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ]
+  },
+  "general-220": {
+    "question": "27 January is an official day of remembrance in Germany. What does this day commemorate?",
+    "options": [
+      "the end of the Second World War",
+      "the adoption of the Basic Law",
+      "the reunification of Germany",
+      "the victims of National Socialism (day of the liberation of the Auschwitz extermination camp)"
+    ]
+  },
+  "general-221": {
+    "question": "Germany is a member of the Schengen Agreement. What does that mean?",
+    "options": [
+      "Germans can travel to many countries in Europe without passport control.",
+      "Everyone can enter Germany without identity checks.",
+      "Germans can travel to every country without passport control.",
+      "Germans can pay with the euro in every country."
+    ]
+  },
+  "general-222": {
+    "question": "Which country borders Germany?",
+    "options": [
+      "Hungary",
+      "Portugal",
+      "Spain",
+      "Switzerland"
+    ]
+  },
+  "general-223": {
+    "question": "Which country borders Germany?",
+    "options": [
+      "Romania",
+      "Bulgaria",
+      "Poland",
+      "Greece"
+    ]
+  },
+  "general-224": {
+    "question": "What does the abbreviation EU stand for?",
+    "options": [
+      "European Enterprises",
+      "European Union",
+      "Unified Union",
+      "Euro Union"
+    ]
+  },
+  "general-225": {
+    "question": "In which other country is there a large German-speaking population?",
+    "options": [
+      "the Czech Republic",
+      "Norway",
+      "Spain",
+      "Austria"
+    ]
+  },
+  "general-226": {
+    "question": "Which is the flag of the European Union?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "general-227": {
+    "question": "Which country borders Germany?",
+    "options": [
+      "Finland",
+      "Denmark",
+      "Norway",
+      "Sweden"
+    ]
+  },
+  "general-228": {
+    "question": "What is the accession of the GDR to the Federal Republic of Germany in 1990 commonly called?",
+    "options": [
+      "eastward expansion of NATO",
+      "eastward expansion of the EU",
+      "German reunification",
+      "European Community"
+    ]
+  },
+  "general-229": {
+    "question": "Which country borders Germany?",
+    "options": [
+      "Spain",
+      "Bulgaria",
+      "Norway",
+      "Luxembourg"
+    ]
+  },
+  "general-230": {
+    "question": "The European Parliament is elected regularly, namely every …",
+    "options": [
+      "5 years.",
+      "6 years.",
+      "7 years.",
+      "8 years."
+    ]
+  },
+  "general-231": {
+    "question": "What does the term \"European integration\" mean?",
+    "options": [
+      "It refers to American immigrants in Europe.",
+      "The term means stopping immigration to Europe.",
+      "It refers to European emigrants in the USA.",
+      "The term means the unification of European states into the EU."
+    ]
+  },
+  "general-232": {
+    "question": "Who is elected in the European election?",
+    "options": [
+      "the European Commission",
+      "the countries that are allowed to join the EU",
+      "the members of the European Parliament",
+      "the European constitution"
+    ]
+  },
+  "general-233": {
+    "question": "Which country borders Germany?",
+    "options": [
+      "the Czech Republic",
+      "Bulgaria",
+      "Greece",
+      "Portugal"
+    ]
+  },
+  "general-234": {
+    "question": "Where is one seat of the European Parliament?",
+    "options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Strasbourg"
+    ]
+  },
+  "general-235": {
+    "question": "The then French President François Mitterrand and the then German Federal Chancellor Helmut Kohl jointly commemorate the dead of both world wars in Verdun. Which goal of the European Union becomes clear in this meeting?",
+    "options": [
+      "friendship between England and Germany",
+      "freedom to travel in all EU countries",
+      "peace and security in the countries of the EU",
+      "uniform public holidays in the countries of the EU"
+    ]
+  },
+  "general-236": {
+    "question": "How many member states does the EU have today?",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ]
+  },
+  "general-237": {
+    "question": "In 2007, the 50th anniversary of the \"Treaties of Rome\" was celebrated. What was the content of those treaties?",
+    "options": [
+      "Germany's accession to NATO",
+      "the founding of the European Economic Community (EEC)",
+      "Germany's obligation to pay reparations",
+      "the determination of the Oder-Neisse line as the eastern border"
+    ]
+  },
+  "general-238": {
+    "question": "In which places does the European Parliament work?",
+    "options": [
+      "Paris, London, and The Hague",
+      "Strasbourg, Luxembourg, and Brussels",
+      "Rome, Bern, and Vienna",
+      "Bonn, Zurich, and Milan"
+    ]
+  },
+  "general-239": {
+    "question": "Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?",
+    "options": [
+      "the \"Hamburg Treaties\"",
+      "the \"Treaties of Rome\"",
+      "the \"Paris Treaties\"",
+      "the \"London Treaties\""
+    ]
+  },
+  "general-240": {
+    "question": "Since when has cash payment in Germany been made in euros?",
+    "options": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ]
+  },
+  "general-241": {
+    "question": "Ms. Seger has a child. What must she do to receive parental allowance?",
+    "options": [
+      "She must write to her health insurance fund.",
+      "She must submit an application to the parental allowance office.",
+      "She does not have to do anything because she automatically receives parental allowance.",
+      "She must ask the employment office for permission."
+    ]
+  },
+  "general-242": {
+    "question": "Who decides whether a child in Germany goes to kindergarten?",
+    "options": [
+      "the state",
+      "the federal states",
+      "the parents or legal guardians",
+      "the schools"
+    ]
+  },
+  "general-243": {
+    "question": "Maik and Sybille want to hold a demonstration with friends on the street where they live in Germany. What must they do beforehand?",
+    "options": [
+      "They must register the demonstration.",
+      "They do not have to do anything. In Germany, demonstrations are allowed anytime and anywhere.",
+      "They cannot do anything because demonstrations are generally prohibited in Germany.",
+      "Maik and Sybille must found a new association because only associations are allowed to demonstrate."
+    ]
+  },
+  "general-244": {
+    "question": "Which school-leaving certificate do you normally need in order to begin studies at a university in Germany?",
+    "options": [
+      "the Abitur",
+      "a diploma",
+      "commercial power of attorney",
+      "a skilled worker's examination"
+    ]
+  },
+  "general-245": {
+    "question": "Who may not live together as a couple in Germany?",
+    "options": [
+      "Hans (20 years old) and Marie (19 years old)",
+      "Tom (20 years old) and Klaus (45 years old)",
+      "Sofie (35 years old) and Lisa (40 years old)",
+      "Anne (13 years old) and Tim (25 years old)"
+    ]
+  },
+  "general-246": {
+    "question": "At what age are you legally an adult in Germany?",
+    "options": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ]
+  },
+  "general-247": {
+    "question": "A woman is pregnant. She is specially protected by law shortly before and after the birth of her child. What is this protection called?",
+    "options": [
+      "parental leave",
+      "maternity protection",
+      "birth preparation",
+      "postnatal period"
+    ]
+  },
+  "general-248": {
+    "question": "In Germany, raising children is above all the responsibility …",
+    "options": [
+      "of the state.",
+      "of the parents.",
+      "of the grandparents.",
+      "of the schools."
+    ]
+  },
+  "general-249": {
+    "question": "In Germany, who is mainly responsible for raising children?",
+    "options": [
+      "the state",
+      "the parents",
+      "the relatives",
+      "the schools"
+    ]
+  },
+  "general-250": {
+    "question": "In Germany, you have the best chances of getting a well-paid job if you …",
+    "options": [
+      "are Catholic.",
+      "are well educated or trained.",
+      "are a woman.",
+      "are a member of a party."
+    ]
+  },
+  "general-251": {
+    "question": "If you hit a child in Germany, …",
+    "options": [
+      "that is nobody else's concern.",
+      "that concerns only the family.",
+      "you cannot be punished for it.",
+      "you can be punished for it."
+    ]
+  },
+  "general-252": {
+    "question": "In Germany …",
+    "options": [
+      "you may be married to only one partner at a time.",
+      "you can have several spouses at the same time.",
+      "you may not marry again if you have once been married.",
+      "a woman may not marry again if her husband has died."
+    ]
+  },
+  "general-253": {
+    "question": "Where must you register if you move to a new home in Germany?",
+    "options": [
+      "at the residents' registration office",
+      "at the registry office",
+      "at the public order office",
+      "at the trade office"
+    ]
+  },
+  "general-254": {
+    "question": "In Germany, married couples may get divorced. Usually they must observe the \"year of separation\" for this. What does that mean?",
+    "options": [
+      "The divorce proceedings last one year.",
+      "The spouses have been married for one year, then divorce is possible.",
+      "The visitation right for the children applies for one year.",
+      "The spouses live separately and lead their own lives for at least one year. After that, divorce is possible."
+    ]
+  },
+  "general-255": {
+    "question": "In Germany, parents can get help with parenting problems from the …",
+    "options": [
+      "public order office.",
+      "school authority.",
+      "youth welfare office.",
+      "public health office."
+    ]
+  },
+  "general-256": {
+    "question": "A married couple wants to open a restaurant in Germany. What do they absolutely need for this?",
+    "options": [
+      "permission from the police",
+      "approval from a political party",
+      "approval from the residents' registration office",
+      "a restaurant license from the competent authority"
+    ]
+  },
+  "general-257": {
+    "question": "An adult woman wants to obtain the Abitur later in life in Germany. She can do that at …",
+    "options": [
+      "a college or university.",
+      "an evening grammar school.",
+      "a Hauptschule.",
+      "a private university."
+    ]
+  },
+  "general-258": {
+    "question": "What is the youth welfare office allowed to do in Germany?",
+    "options": [
+      "It decides which school the child attends.",
+      "It may remove a child from the family if the child is being beaten or has to go hungry.",
+      "It pays the child benefit to the parents.",
+      "It checks whether the child attends kindergarten."
+    ]
+  },
+  "general-259": {
+    "question": "The Career Information Center (BIZ) of the Federal Employment Agency in Germany helps with …",
+    "options": [
+      "pension calculations.",
+      "finding an apprenticeship.",
+      "tax returns.",
+      "health insurance."
+    ]
+  },
+  "general-260": {
+    "question": "In Germany, a child at school has …",
+    "options": [
+      "the right to unlimited free time.",
+      "freedom of choice for all subjects.",
+      "a claim to school fees.",
+      "compulsory attendance."
+    ]
+  },
+  "general-261": {
+    "question": "A man in Germany wants to obtain his Abitur later in life at the age of 30. Where can he do that? At …",
+    "options": [
+      "a college or university.",
+      "an evening grammar school.",
+      "a Hauptschule.",
+      "a private university."
+    ]
+  },
+  "general-262": {
+    "question": "What does the principle of equal treatment mean in Germany?",
+    "options": [
+      "No one may be disadvantaged, for example because of a disability.",
+      "You may disadvantage other people if there are sufficient personal reasons for doing so.",
+      "No one may take legal action against people if they have been disadvantaged.",
+      "Everyone is legally required to donate money each year to disadvantaged groups."
+    ]
+  },
+  "general-263": {
+    "question": "In Germany, young people aged 14 and over are criminally responsible. That means: young people aged 14 and over who violate criminal laws …",
+    "options": [
+      "are punished.",
+      "are treated like adults.",
+      "share the punishment with their parents.",
+      "are not punished."
+    ]
+  },
+  "general-264": {
+    "question": "At which festival do people in Germany wear colorful costumes and masks?",
+    "options": [
+      "on Rose Monday",
+      "on Labor Day",
+      "at Oktoberfest",
+      "at Pentecost"
+    ]
+  },
+  "general-265": {
+    "question": "Where must you go first in Germany if you want to get married?",
+    "options": [
+      "to the residents' registration office",
+      "to the public order office",
+      "to the employment agency",
+      "to the registry office"
+    ]
+  },
+  "general-266": {
+    "question": "When does the statutory nighttime quiet period begin in Germany?",
+    "options": [
+      "when the sun goes down",
+      "when the neighbors go to sleep",
+      "at 12 midnight",
+      "at 10 p.m."
+    ]
+  },
+  "general-267": {
+    "question": "A young woman in Germany, 22 years old, lives together with her boyfriend. The woman's parents do not like this because they do not like the boyfriend. What can the parents do?",
+    "options": [
+      "They must respect their adult daughter's decision.",
+      "They have the right to bring their daughter back to the parental home.",
+      "They can go to the police and report their daughter.",
+      "They find another man for their daughter."
+    ]
+  },
+  "general-268": {
+    "question": "A young woman wants to get a driver's license. She is afraid of the test because her native language is not German. Which statement is correct?",
+    "options": [
+      "She must live in Germany for at least ten years before she can get a driver's license.",
+      "If she does not know German, she may not have a driver's license.",
+      "She must obtain the driver's license in the country where her language is spoken.",
+      "She may be able to take the theory test in her native language. There are more than ten languages to choose from."
+    ]
+  },
+  "general-269": {
+    "question": "In Germany, children from the age of three until they start school are entitled to …",
+    "options": [
+      "monthly pocket money.",
+      "a place in a sports club.",
+      "a place in kindergarten.",
+      "a holiday pass."
+    ]
+  },
+  "general-270": {
+    "question": "In Germany, the Volkshochschule is an institution …",
+    "options": [
+      "for religious instruction.",
+      "only for young people.",
+      "for continuing education.",
+      "only for pensioners."
+    ]
+  },
+  "general-271": {
+    "question": "What is a Christmas custom in Germany?",
+    "options": [
+      "hiding colorful eggs",
+      "decorating a Christmas tree",
+      "dressing up in masks and costumes",
+      "putting pumpkins outside the door"
+    ]
+  },
+  "general-272": {
+    "question": "Which form of living together is not allowed in Germany?",
+    "options": [
+      "A man and a woman are divorced and live with new partners.",
+      "Two women live together.",
+      "A single father lives together with his two children.",
+      "A man is married to two women at the same time."
+    ]
+  },
+  "general-273": {
+    "question": "In Germany, where do you go when you have parenting problems?",
+    "options": [
+      "to the doctor",
+      "to the public health office",
+      "to the residents' registration office",
+      "to the youth welfare office"
+    ]
+  },
+  "general-274": {
+    "question": "In Germany, you intentionally opened a letter addressed to someone else. What have you failed to respect?",
+    "options": [
+      "the right to remain silent",
+      "the privacy of correspondence",
+      "the duty of confidentiality",
+      "freedom of expression"
+    ]
+  },
+  "general-275": {
+    "question": "What do you need in Germany in order to get divorced?",
+    "options": [
+      "the consent of the parents",
+      "a doctor's certificate",
+      "the consent of the children",
+      "the support of a lawyer"
+    ]
+  },
+  "general-276": {
+    "question": "What should you do if you are treated badly by your contact person at a German public authority?",
+    "options": [
+      "I cannot do anything.",
+      "I have to put up with this treatment.",
+      "I threaten the person.",
+      "I can complain to the head of the authority."
+    ]
+  },
+  "general-277": {
+    "question": "A woman who has a two-year-old child applies for a job in Germany. What is an example of discrimination? She does not get the job only because she …",
+    "options": [
+      "does not speak English.",
+      "demands too high a salary.",
+      "has no experience in this profession.",
+      "is a mother."
+    ]
+  },
+  "general-278": {
+    "question": "A man in a wheelchair applied for a job as an accountant. What is an example of discrimination? He does not get the job only because he …",
+    "options": [
+      "uses a wheelchair.",
+      "has no experience.",
+      "demands too high a salary.",
+      "does not speak English."
+    ]
+  },
+  "general-279": {
+    "question": "In most apartment buildings in Germany, there is a \"house rules\" notice. What does such a house rules notice contain? It sets out …",
+    "options": [
+      "rules for using public transport.",
+      "all the tenants in the building.",
+      "rules that all residents must follow.",
+      "the address of the nearest public order office."
+    ]
+  },
+  "general-280": {
+    "question": "If you want to challenge an incorrect tax assessment notice in Germany, you must …",
+    "options": [
+      "do nothing.",
+      "throw the notice away.",
+      "file an objection.",
+      "wait until another notice arrives."
+    ]
+  },
+  "general-281": {
+    "question": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are not allowed in for that reason. Which right is violated in this situation? The right to …",
+    "options": [
+      "freedom of expression",
+      "equal treatment",
+      "freedom of assembly",
+      "freedom of movement"
+    ]
+  },
+  "general-282": {
+    "question": "Which honorary civic duty must German citizens take on if they are asked to do so?",
+    "options": [
+      "sports club coach",
+      "election worker",
+      "library supervisor",
+      "teacher"
+    ]
+  },
+  "general-283": {
+    "question": "What do you do if you receive an incorrect bill from a German public authority?",
+    "options": [
+      "I leave the bill as it is.",
+      "I lodge an objection with the authority.",
+      "I send the bill back to the authority.",
+      "I take the bill to the tax office."
+    ]
+  },
+  "general-284": {
+    "question": "The skills needed for work will change very quickly in the future. What can be done?",
+    "options": [
+      "It does not matter what you learn.",
+      "Adults must continue learning even after finishing their training.",
+      "Children learn everything that is important for work at school. After school, there is no need to keep learning.",
+      "Everyone must stop working earlier because everything is changing."
+    ]
+  },
+  "general-285": {
+    "question": "Ms. Frost works as a permanent employee in an office. What does she not have to pay from her salary?",
+    "options": [
+      "wage tax",
+      "contributions to unemployment insurance",
+      "contributions to pension and health insurance",
+      "value-added tax"
+    ]
+  },
+  "general-286": {
+    "question": "Which organization in a company helps employees when they have problems with their employer?",
+    "options": [
+      "the works council",
+      "the company auditor",
+      "the company group",
+      "company management"
+    ]
+  },
+  "general-287": {
+    "question": "You want to end your employment relationship with a company in Germany. What must you pay attention to?",
+    "options": [
+      "salary payments",
+      "working hours",
+      "the notice period",
+      "the obligation to have insurance"
+    ]
+  },
+  "general-288": {
+    "question": "What is the basis of Germany's special responsibility for Israel?",
+    "options": [
+      "its membership in the European Union (EU)",
+      "the National Socialist crimes against Jews",
+      "the Basic Law of the Federal Republic of Germany",
+      "the Christian tradition"
+    ]
+  },
+  "general-289": {
+    "question": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He does not get the job only because he …",
+    "options": [
+      "does not know enough German.",
+      "demands too high a salary.",
+      "has dark skin.",
+      "has no work experience."
+    ]
+  },
+  "general-290": {
+    "question": "You bought a television in Germany. At home, you unpack it, but it does not work. The television is broken. What can you do?",
+    "options": [
+      "write a complaint to the police",
+      "return or complain about the television",
+      "replace the device without asking",
+      "extend the warranty"
+    ]
+  },
+  "general-291": {
+    "question": "Why do you have to state in a tax return in Germany whether you belong to a church or not? Because …",
+    "options": [
+      "there is a church tax linked to income tax and wage tax.",
+      "that is important for statistics in Germany.",
+      "you have to pay more taxes if you do not belong to a church.",
+      "the church is responsible for the tax return."
+    ]
+  },
+  "general-292": {
+    "question": "People in Germany live according to the principle of religious tolerance. What does that mean?",
+    "options": [
+      "Mosques may not be built.",
+      "Everyone believes in God.",
+      "Everyone can believe whatever they want.",
+      "The state decides which god people believe in."
+    ]
+  },
+  "general-293": {
+    "question": "What is an Easter custom in Germany?",
+    "options": [
+      "putting pumpkins outside the door",
+      "decorating a Christmas tree",
+      "painting eggs",
+      "shooting rockets into the air"
+    ]
+  },
+  "general-294": {
+    "question": "Pentecost is a …",
+    "options": [
+      "Christian holiday.",
+      "German day of remembrance.",
+      "international day of mourning.",
+      "Bavarian custom."
+    ]
+  },
+  "general-295": {
+    "question": "Which religion shaped European and German culture?",
+    "options": [
+      "Hinduism",
+      "Christianity",
+      "Buddhism",
+      "Islam"
+    ]
+  },
+  "general-296": {
+    "question": "In Germany, the last four weeks before Christmas are called …",
+    "options": [
+      "the Day of Repentance and Prayer.",
+      "the Harvest Festival.",
+      "Advent season.",
+      "All Saints' Day."
+    ]
+  },
+  "general-297": {
+    "question": "From which country have most migrants come to Germany?",
+    "options": [
+      "Italy",
+      "Poland",
+      "Morocco",
+      "Turkey"
+    ]
+  },
+  "general-298": {
+    "question": "In the GDR, migrants mainly came from …",
+    "options": [
+      "Vietnam, Poland, Mozambique.",
+      "France, Romania, Somalia.",
+      "Chile, Hungary, Zimbabwe.",
+      "North Korea, Mexico, Egypt."
+    ]
+  },
+  "general-299": {
+    "question": "Foreign workers who were recruited by the Federal Republic of Germany in the 1950s and 1960s were called …",
+    "options": [
+      "illegal workers.",
+      "guest workers.",
+      "temporary workers.",
+      "shift workers."
+    ]
+  },
+  "general-300": {
+    "question": "From which country did the first guest workers come to the Federal Republic of Germany?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Portugal",
+      "Turkey"
+    ]
+  },
+  "baden-wuerttemberg-1": {
+    "question": "Which coat of arms belongs to the state of Baden-Württemberg?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "baden-wuerttemberg-2": {
+    "question": "Which of these is a rural district in Baden-Württemberg?",
+    "options": [
+      "Mecklenburgische Seenplatte",
+      "Neckar-Odenwald-Kreis",
+      "Nordfriesland",
+      "Altötting"
+    ]
+  },
+  "baden-wuerttemberg-3": {
+    "question": "For how many years is the Landtag in Baden-Württemberg elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "baden-wuerttemberg-4": {
+    "question": "From what age may you vote in local elections in Baden-Württemberg?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "baden-wuerttemberg-5": {
+    "question": "What colors does the state flag of Baden-Württemberg have?",
+    "options": [
+      "blue-white-red",
+      "black-gold",
+      "white-blue",
+      "green-white-red"
+    ]
+  },
+  "baden-wuerttemberg-6": {
+    "question": "Where can you get information about political topics in Baden-Württemberg?",
+    "options": [
+      "at the municipal public order office",
+      "at the consumer advice center",
+      "at the State Agency for Civic Education",
+      "at the churches"
+    ]
+  },
+  "baden-wuerttemberg-7": {
+    "question": "The capital of Baden-Württemberg is …",
+    "options": [
+      "Heidelberg.",
+      "Stuttgart.",
+      "Karlsruhe.",
+      "Mannheim."
+    ]
+  },
+  "baden-wuerttemberg-8": {
+    "question": "Which federal state is Baden-Württemberg?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "baden-wuerttemberg-9": {
+    "question": "What is the head of government in Baden-Württemberg called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "baden-wuerttemberg-10": {
+    "question": "Which minister does Baden-Württemberg not have?",
+    "options": [
+      "Minister of Finance",
+      "Minister of Justice",
+      "Minister of the Interior",
+      "Minister of Foreign Affairs"
+    ]
+  },
+  "bayern-1": {
+    "question": "Which coat of arms belongs to the Free State of Bavaria?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "bayern-2": {
+    "question": "Which of these is a rural district in Bavaria?",
+    "options": [
+      "Prignitz",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Altötting"
+    ]
+  },
+  "bayern-3": {
+    "question": "For how many years is the Landtag in Bavaria elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "bayern-4": {
+    "question": "From what age may you vote in local elections in Bavaria?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "bayern-5": {
+    "question": "What colors does the state flag of Bavaria have?",
+    "options": [
+      "blue-white-red",
+      "white-blue",
+      "green-white-red",
+      "black-yellow"
+    ]
+  },
+  "bayern-6": {
+    "question": "Where can you get information about political topics in Bavaria?",
+    "options": [
+      "at the municipal public order office",
+      "at the State Agency for Civic Education",
+      "at the consumer advice center",
+      "at the churches"
+    ]
+  },
+  "bayern-7": {
+    "question": "The capital of Bavaria is …",
+    "options": [
+      "Ingolstadt.",
+      "Regensburg.",
+      "Nürnberg.",
+      "München."
+    ]
+  },
+  "bayern-8": {
+    "question": "Which federal state is Bavaria?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "bayern-9": {
+    "question": "What is the head of government in Bavaria called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "bayern-10": {
+    "question": "Which minister does Bavaria not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "berlin-1": {
+    "question": "Which coat of arms belongs to the state of Berlin?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "berlin-2": {
+    "question": "Which of these is a borough of Berlin?",
+    "options": [
+      "Altona",
+      "Prignitz",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ]
+  },
+  "berlin-3": {
+    "question": "For how many years is the state parliament in Berlin elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "berlin-4": {
+    "question": "From what age may you vote in local elections in Berlin (election of the district councils)?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "berlin-5": {
+    "question": "What colors does the state flag of Berlin have?",
+    "options": [
+      "blue-white-red",
+      "white-red",
+      "green-white-red",
+      "black-gold"
+    ]
+  },
+  "berlin-6": {
+    "question": "Where can you get information about political topics in Berlin?",
+    "options": [
+      "at the municipal public order office",
+      "at the churches",
+      "at the consumer advice center",
+      "at the State Agency for Civic Education"
+    ]
+  },
+  "berlin-7": {
+    "question": "Which federal state is a city-state?",
+    "options": [
+      "Berlin",
+      "Saarland",
+      "Brandenburg",
+      "Hessen"
+    ]
+  },
+  "berlin-8": {
+    "question": "Which federal state is Berlin?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "berlin-9": {
+    "question": "What is the head of government of the city-state of Berlin called?",
+    "options": [
+      "Minister-President",
+      "Lord Mayor",
+      "President of the Senate",
+      "Governing Mayor"
+    ]
+  },
+  "berlin-10": {
+    "question": "Which senator does Berlin not have?",
+    "options": [
+      "Finance Senator",
+      "Interior Senator",
+      "Senator for Foreign Relations",
+      "Justice Senator"
+    ]
+  },
+  "brandenburg-1": {
+    "question": "Which coat of arms belongs to the state of Brandenburg?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "brandenburg-2": {
+    "question": "Which of these is a rural district in Brandenburg?",
+    "options": [
+      "Prignitz",
+      "Rhein-Sieg-Kreis",
+      "Vogtlandkreis",
+      "Amberg-Sulzbach"
+    ]
+  },
+  "brandenburg-3": {
+    "question": "For how many years is the Landtag in Brandenburg elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "brandenburg-4": {
+    "question": "From what age may you vote in local elections in Brandenburg?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "brandenburg-5": {
+    "question": "What colors does the state flag of Brandenburg have?",
+    "options": [
+      "blue-white-red",
+      "red-white",
+      "green-white-red",
+      "black-yellow"
+    ]
+  },
+  "brandenburg-6": {
+    "question": "Where can you get information about political topics in Brandenburg?",
+    "options": [
+      "at the churches",
+      "at the municipal public order office",
+      "at the State Agency for Civic Education",
+      "at the consumer advice center"
+    ]
+  },
+  "brandenburg-7": {
+    "question": "The capital of Brandenburg is …",
+    "options": [
+      "Potsdam.",
+      "Cottbus.",
+      "Brandenburg.",
+      "Frankfurt/Oder."
+    ]
+  },
+  "brandenburg-8": {
+    "question": "Which federal state is Brandenburg?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "brandenburg-9": {
+    "question": "What is the head of government in Brandenburg called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "brandenburg-10": {
+    "question": "Which minister does Brandenburg not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "bremen-1": {
+    "question": "Which coat of arms belongs to the Free Hanseatic City of Bremen?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "bremen-2": {
+    "question": "Which of these is a district of Bremen?",
+    "options": [
+      "Altona",
+      "Hemelingen",
+      "Pankow",
+      "Babelsberg"
+    ]
+  },
+  "bremen-3": {
+    "question": "For how many years is the state parliament in Bremen elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "bremen-4": {
+    "question": "From what age may you vote in Bremen in elections to the Bürgerschaft (state parliament)?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "bremen-5": {
+    "question": "What colors does the state flag of Bremen have?",
+    "options": [
+      "blue-white-red",
+      "red-white",
+      "green-white-red",
+      "black-gold"
+    ]
+  },
+  "bremen-6": {
+    "question": "Where can you get information about political topics in Bremen?",
+    "options": [
+      "at the municipal public order office",
+      "at the State Agency for Civic Education",
+      "at the churches",
+      "at the consumer advice center"
+    ]
+  },
+  "bremen-7": {
+    "question": "Which German federal state is a city-state?",
+    "options": [
+      "Bremen",
+      "München",
+      "Frankfurt",
+      "Erfurt"
+    ]
+  },
+  "bremen-8": {
+    "question": "Which federal state is Bremen?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "bremen-9": {
+    "question": "What is the head of government of the city-state of Bremen called?",
+    "options": [
+      "Minister-President",
+      "First Mayor",
+      "President of the Senate",
+      "Governing Mayor"
+    ]
+  },
+  "bremen-10": {
+    "question": "Which senator does Bremen not have?",
+    "options": [
+      "Senator for Foreign Relations",
+      "Finance Senator",
+      "Justice Senator",
+      "Interior Senator"
+    ]
+  },
+  "hamburg-1": {
+    "question": "Which coat of arms belongs to the Free and Hanseatic City of Hamburg?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "hamburg-2": {
+    "question": "Which of these is a borough of Hamburg?",
+    "options": [
+      "Altona",
+      "Hemelingen",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ]
+  },
+  "hamburg-3": {
+    "question": "For how many years is the state parliament in Hamburg elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "hamburg-4": {
+    "question": "From what age may you vote in Hamburg in local elections (elections to the district assemblies)?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "hamburg-5": {
+    "question": "What colors does the state flag of Hamburg have?",
+    "options": [
+      "blue-white-red",
+      "white-red",
+      "green-white-red",
+      "black-yellow"
+    ]
+  },
+  "hamburg-6": {
+    "question": "Where can you get information about political topics in Hamburg?",
+    "options": [
+      "at the municipal public order office",
+      "at the consumer advice center",
+      "at the churches",
+      "at the State Agency for Civic Education"
+    ]
+  },
+  "hamburg-7": {
+    "question": "Which federal state is a city-state?",
+    "options": [
+      "Hamburg",
+      "Sachsen",
+      "Bayern",
+      "Thüringen"
+    ]
+  },
+  "hamburg-8": {
+    "question": "Which federal state is Hamburg?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "hamburg-9": {
+    "question": "What is the head of government of the city-state of Hamburg called?",
+    "options": [
+      "Minister-President",
+      "First Mayor",
+      "Governing Senator",
+      "Lord Mayor"
+    ]
+  },
+  "hamburg-10": {
+    "question": "Which senator does Hamburg not have?",
+    "options": [
+      "Justice Senator",
+      "Senator for Foreign Relations",
+      "Finance Senator",
+      "Interior Senator"
+    ]
+  },
+  "hessen-1": {
+    "question": "Which coat of arms belongs to the state of Hesse?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "hessen-2": {
+    "question": "Which of these is a rural district in Hesse?",
+    "options": [
+      "Ammerland",
+      "Altötting",
+      "Prignitz",
+      "Main-Taunus-Kreis"
+    ]
+  },
+  "hessen-3": {
+    "question": "For how many years is the Landtag in Hesse elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "hessen-4": {
+    "question": "From what age may you vote in local elections in Hesse?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "hessen-5": {
+    "question": "What colors does the state flag of Hesse have?",
+    "options": [
+      "blue-white-red",
+      "red-white",
+      "black-gold",
+      "green-white-red"
+    ]
+  },
+  "hessen-6": {
+    "question": "Where can you get information about political topics in Hesse?",
+    "options": [
+      "at the State Agency for Civic Education",
+      "at the consumer advice center",
+      "at the municipal public order office",
+      "at the churches"
+    ]
+  },
+  "hessen-7": {
+    "question": "The capital of Hesse is …",
+    "options": [
+      "Kassel.",
+      "Darmstadt.",
+      "Frankfurt.",
+      "Wiesbaden."
+    ]
+  },
+  "hessen-8": {
+    "question": "Which federal state is Hesse?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "hessen-9": {
+    "question": "What is the head of government in Hesse called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "hessen-10": {
+    "question": "Which minister does Hesse not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "mecklenburg-vorpommern-1": {
+    "question": "Which coat of arms belongs to the state of Mecklenburg-Western Pomerania?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "mecklenburg-vorpommern-2": {
+    "question": "Which of these is a rural district in Mecklenburg-Western Pomerania?",
+    "options": [
+      "Prignitz",
+      "Mecklenburgische Seenplatte",
+      "Vogtlandkreis",
+      "Rhein-Sieg-Kreis"
+    ]
+  },
+  "mecklenburg-vorpommern-3": {
+    "question": "For how many years is the Landtag in Mecklenburg-Western Pomerania elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "mecklenburg-vorpommern-4": {
+    "question": "From what age may you vote in local elections in Mecklenburg-Western Pomerania?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "mecklenburg-vorpommern-5": {
+    "question": "What colors does the state flag of Mecklenburg-Western Pomerania have?",
+    "options": [
+      "black-red-gold",
+      "blue-white-yellow-red",
+      "green-white-red",
+      "black-yellow"
+    ]
+  },
+  "mecklenburg-vorpommern-6": {
+    "question": "Where can you get information about political topics in Mecklenburg-Western Pomerania?",
+    "options": [
+      "at the State Agency for Civic Education",
+      "at the churches",
+      "at the municipal public order office",
+      "at the consumer advice center"
+    ]
+  },
+  "mecklenburg-vorpommern-7": {
+    "question": "The capital of Mecklenburg-Western Pomerania is …",
+    "options": [
+      "Greifswald.",
+      "Schwerin.",
+      "Rostock.",
+      "Wismar."
+    ]
+  },
+  "mecklenburg-vorpommern-8": {
+    "question": "Which federal state is Mecklenburg-Western Pomerania?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "mecklenburg-vorpommern-9": {
+    "question": "What is the head of government in Mecklenburg-Western Pomerania called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "mecklenburg-vorpommern-10": {
+    "question": "Which minister does Mecklenburg-Western Pomerania not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "niedersachsen-1": {
+    "question": "Which coat of arms belongs to the state of Lower Saxony?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "niedersachsen-2": {
+    "question": "Which of these is a rural district in Lower Saxony?",
+    "options": [
+      "Ammerland",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Vogtlandkreis"
+    ]
+  },
+  "niedersachsen-3": {
+    "question": "For how many years is the Landtag in Lower Saxony elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "niedersachsen-4": {
+    "question": "From what age may you vote in local elections in Lower Saxony?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "niedersachsen-5": {
+    "question": "What colors does the state flag of Lower Saxony have?",
+    "options": [
+      "white-blue",
+      "black-red-gold",
+      "black-yellow",
+      "blue-white-red"
+    ]
+  },
+  "niedersachsen-6": {
+    "question": "Where can you get information about political topics in Lower Saxony?",
+    "options": [
+      "at the State Agency for Civic Education",
+      "at the municipal public order office",
+      "at the consumer advice center",
+      "at the churches"
+    ]
+  },
+  "niedersachsen-7": {
+    "question": "The capital of Lower Saxony is …",
+    "options": [
+      "Hannover.",
+      "Braunschweig.",
+      "Wolfsburg.",
+      "Osnabrück."
+    ]
+  },
+  "niedersachsen-8": {
+    "question": "Which federal state is Lower Saxony?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "niedersachsen-9": {
+    "question": "What is the head of government in Lower Saxony called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "niedersachsen-10": {
+    "question": "Which minister does Lower Saxony not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "nordrhein-westfalen-1": {
+    "question": "Which coat of arms belongs to the state of North Rhine-Westphalia?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "nordrhein-westfalen-2": {
+    "question": "Which of these is a rural district in North Rhine-Westphalia?",
+    "options": [
+      "Ammerland",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Vogtlandkreis"
+    ]
+  },
+  "nordrhein-westfalen-3": {
+    "question": "For how many years is the Landtag in North Rhine-Westphalia elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "nordrhein-westfalen-4": {
+    "question": "From what age may you vote in local elections in North Rhine-Westphalia?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "nordrhein-westfalen-5": {
+    "question": "What colors does the state flag of North Rhine-Westphalia have?",
+    "options": [
+      "red-white",
+      "green-white-red",
+      "black-gold",
+      "blue-white-red"
+    ]
+  },
+  "nordrhein-westfalen-6": {
+    "question": "Where can you get information about political topics in North Rhine-Westphalia?",
+    "options": [
+      "at the churches",
+      "at the municipal public order office",
+      "at the consumer advice center",
+      "at the State Agency for Civic Education"
+    ]
+  },
+  "nordrhein-westfalen-7": {
+    "question": "The capital of North Rhine-Westphalia is …",
+    "options": [
+      "Köln.",
+      "Bonn.",
+      "Düsseldorf.",
+      "Dortmund."
+    ]
+  },
+  "nordrhein-westfalen-8": {
+    "question": "Which federal state is North Rhine-Westphalia?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "nordrhein-westfalen-9": {
+    "question": "What is the head of government in North Rhine-Westphalia called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "nordrhein-westfalen-10": {
+    "question": "Which minister does North Rhine-Westphalia not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "rheinland-pfalz-1": {
+    "question": "Which coat of arms belongs to the state of Rhineland-Palatinate?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "rheinland-pfalz-2": {
+    "question": "Which of these is a rural district in Rhineland-Palatinate?",
+    "options": [
+      "Westerwaldkreis",
+      "Altötting",
+      "Emsland",
+      "Prignitz"
+    ]
+  },
+  "rheinland-pfalz-3": {
+    "question": "For how many years is the Landtag in Rhineland-Palatinate elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "rheinland-pfalz-4": {
+    "question": "From what age may you vote in local elections in Rhineland-Palatinate?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "rheinland-pfalz-5": {
+    "question": "What colors does the state flag of Rhineland-Palatinate have?",
+    "options": [
+      "white-red",
+      "black-red-gold",
+      "black-yellow",
+      "green-white-red"
+    ]
+  },
+  "rheinland-pfalz-6": {
+    "question": "Where can you get information about political topics in Rhineland-Palatinate?",
+    "options": [
+      "at the churches",
+      "at the consumer advice center",
+      "at the municipal public order office",
+      "at the State Agency for Civic Education"
+    ]
+  },
+  "rheinland-pfalz-7": {
+    "question": "The capital of Rhineland-Palatinate is …",
+    "options": [
+      "Mainz.",
+      "Kaiserslautern.",
+      "Ludwigshafen.",
+      "Koblenz."
+    ]
+  },
+  "rheinland-pfalz-8": {
+    "question": "Which federal state is Rhineland-Palatinate?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "rheinland-pfalz-9": {
+    "question": "What is the head of government in Rhineland-Palatinate called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "rheinland-pfalz-10": {
+    "question": "Which minister does Rhineland-Palatinate not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "saarland-1": {
+    "question": "Which coat of arms belongs to the state of Saarland?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "saarland-2": {
+    "question": "Which of these is a rural district in Saarland?",
+    "options": [
+      "Mecklenburgische Seenplatte",
+      "Altötting",
+      "Neunkirchen",
+      "Rhein-Sieg-Kreis"
+    ]
+  },
+  "saarland-3": {
+    "question": "For how many years is the Landtag in Saarland elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "saarland-4": {
+    "question": "From what age may you vote in local elections in Saarland?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "saarland-5": {
+    "question": "What colors does the state flag of Saarland have?",
+    "options": [
+      "white-blue",
+      "black-red-gold",
+      "black-yellow",
+      "green-white-red"
+    ]
+  },
+  "saarland-6": {
+    "question": "Where can you get information about political topics in Saarland?",
+    "options": [
+      "at the churches",
+      "at the State Agency for Civic Education",
+      "at the consumer advice center",
+      "at the municipal public order office"
+    ]
+  },
+  "saarland-7": {
+    "question": "The capital of Saarland is …",
+    "options": [
+      "Neunkirchen.",
+      "Homburg.",
+      "Saarbrücken.",
+      "Völklingen."
+    ]
+  },
+  "saarland-8": {
+    "question": "Which federal state is Saarland?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "saarland-9": {
+    "question": "What is the head of government in Saarland called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "saarland-10": {
+    "question": "Which minister does Saarland not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "sachsen-1": {
+    "question": "Which coat of arms belongs to the Free State of Saxony?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "sachsen-2": {
+    "question": "Which of these is a rural district in Saxony?",
+    "options": [
+      "Vogtlandkreis",
+      "Altötting",
+      "Uckermark",
+      "Nordfriesland"
+    ]
+  },
+  "sachsen-3": {
+    "question": "For how many years is the Landtag in Saxony elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "sachsen-4": {
+    "question": "From what age may you vote in local elections in Saxony?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "sachsen-5": {
+    "question": "What colors does the state flag of Saxony have?",
+    "options": [
+      "blue-white-red",
+      "weiß-grün",
+      "green-white-red",
+      "black-yellow"
+    ]
+  },
+  "sachsen-6": {
+    "question": "Where can you get information about political topics in Saxony?",
+    "options": [
+      "at the State Agency for Civic Education",
+      "at the municipal public order office",
+      "at the churches",
+      "at the consumer advice center"
+    ]
+  },
+  "sachsen-7": {
+    "question": "The capital of Saxony is …",
+    "options": [
+      "Leipzig.",
+      "Dresden.",
+      "Chemnitz.",
+      "Zwickau."
+    ]
+  },
+  "sachsen-8": {
+    "question": "Which federal state is Saxony?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "sachsen-9": {
+    "question": "What is the head of government in Saxony called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "sachsen-10": {
+    "question": "Which minister does Saxony not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "sachsen-anhalt-1": {
+    "question": "Which coat of arms belongs to the state of Saxony-Anhalt?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "sachsen-anhalt-2": {
+    "question": "Which of these is a rural district in Saxony-Anhalt?",
+    "options": [
+      "Ammerland",
+      "Altötting",
+      "Uckermark",
+      "Börde"
+    ]
+  },
+  "sachsen-anhalt-3": {
+    "question": "For how many years is the Landtag in Saxony-Anhalt elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "sachsen-anhalt-4": {
+    "question": "From what age may you vote in local elections in Saxony-Anhalt?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "sachsen-anhalt-5": {
+    "question": "What colors does the state flag of Saxony-Anhalt have?",
+    "options": [
+      "blue-white-red",
+      "yellow-black",
+      "green-white-red",
+      "white-red"
+    ]
+  },
+  "sachsen-anhalt-6": {
+    "question": "Where can you get information about political topics in Saxony-Anhalt?",
+    "options": [
+      "at the churches",
+      "at the State Agency for Civic Education",
+      "at the municipal public order office",
+      "at the consumer advice center"
+    ]
+  },
+  "sachsen-anhalt-7": {
+    "question": "The capital of Saxony-Anhalt is …",
+    "options": [
+      "Halle.",
+      "Dessau.",
+      "Magdeburg.",
+      "Wittenberg."
+    ]
+  },
+  "sachsen-anhalt-8": {
+    "question": "Which federal state is Saxony-Anhalt?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "sachsen-anhalt-9": {
+    "question": "What is the head of government in Saxony-Anhalt called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "sachsen-anhalt-10": {
+    "question": "Which minister does Saxony-Anhalt not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "schleswig-holstein-1": {
+    "question": "Which coat of arms belongs to the state of Schleswig-Holstein?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "schleswig-holstein-2": {
+    "question": "Which of these is a rural district in Schleswig-Holstein?",
+    "options": [
+      "Ammerland",
+      "Mecklenburgische Seenplatte",
+      "Nordfriesland",
+      "Rhein-Sieg-Kreis"
+    ]
+  },
+  "schleswig-holstein-3": {
+    "question": "For how many years is the Landtag in Schleswig-Holstein elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "schleswig-holstein-4": {
+    "question": "From what age may you vote in local elections in Schleswig-Holstein?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "schleswig-holstein-5": {
+    "question": "What colors does the state flag of Schleswig-Holstein have?",
+    "options": [
+      "white-blue",
+      "blue-white-red",
+      "white-red",
+      "green-white-red"
+    ]
+  },
+  "schleswig-holstein-6": {
+    "question": "Where can you get information about political topics in Schleswig-Holstein?",
+    "options": [
+      "at the consumer advice center",
+      "at the municipal public order office",
+      "at the State Commissioner for Civic Education",
+      "at the churches"
+    ]
+  },
+  "schleswig-holstein-7": {
+    "question": "The capital of Schleswig-Holstein is …",
+    "options": [
+      "Husum.",
+      "Flensburg.",
+      "Lübeck.",
+      "Kiel."
+    ]
+  },
+  "schleswig-holstein-8": {
+    "question": "Which federal state is Schleswig-Holstein?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "schleswig-holstein-9": {
+    "question": "What is the head of government in Schleswig-Holstein called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "schleswig-holstein-10": {
+    "question": "Which minister does Schleswig-Holstein not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  },
+  "thueringen-1": {
+    "question": "Which coat of arms belongs to the Free State of Thuringia?",
+    "options": [
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "thueringen-2": {
+    "question": "Which of these is a rural district in Thuringia?",
+    "options": [
+      "Ammerland",
+      "Altötting",
+      "Nordfriesland",
+      "Wartburgkreis"
+    ]
+  },
+  "thueringen-3": {
+    "question": "For how many years is the Landtag in Thuringia elected?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "thueringen-4": {
+    "question": "From what age may you vote in local elections in Thuringia?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  "thueringen-5": {
+    "question": "What colors does the state flag of Thuringia have?",
+    "options": [
+      "blue-white-red",
+      "white-red",
+      "green-white-red",
+      "black-gold"
+    ]
+  },
+  "thueringen-6": {
+    "question": "Where can you get information about political topics in Thuringia?",
+    "options": [
+      "at the churches",
+      "at the consumer advice center",
+      "at the State Agency for Civic Education",
+      "at the municipal public order office"
+    ]
+  },
+  "thueringen-7": {
+    "question": "The capital of Thuringia is …",
+    "options": [
+      "Eisenach.",
+      "Erfurt.",
+      "Gera.",
+      "Jena."
+    ]
+  },
+  "thueringen-8": {
+    "question": "Which federal state is Thuringia?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "thueringen-9": {
+    "question": "What is the head of government in Thuringia called?",
+    "options": [
+      "First Minister",
+      "Prime Minister",
+      "Mayor",
+      "Minister-President"
+    ]
+  },
+  "thueringen-10": {
+    "question": "Which minister does Thuringia not have?",
+    "options": [
+      "Minister of Justice",
+      "Minister of Foreign Affairs",
+      "Minister of Finance",
+      "Minister of the Interior"
+    ]
+  }
+}
