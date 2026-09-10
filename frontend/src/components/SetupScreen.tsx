@@ -54,7 +54,7 @@ export default function SetupScreen({
   return (
     <div className="screen setup-screen">
       <div className="page-wrap">
-        <SettingsBar />
+        <SettingsBar className="home-settings-bar" />
 
         <div className="card card-plain">
           <h1>{t("appTitle")}</h1>

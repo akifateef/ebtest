@@ -4,14 +4,18 @@ import { useTheme } from "../theme/ThemeContext";
 import { THEMES, type ThemeId } from "../theme/themes";
 import { useFontSize } from "../theme/FontSizeContext";
 
-export default function SettingsBar() {
+interface Props {
+  className?: string;
+}
+
+export default function SettingsBar({ className }: Props) {
   const { language, setLanguage, t } = useTranslation();
   const { theme, setTheme } = useTheme();
   const { decreaseFontSize, increaseFontSize, canDecrease, canIncrease } =
     useFontSize();
 
   return (
-    <div className="settings-bar">
+    <div className={["settings-bar", className].filter(Boolean).join(" ")}>
       <label className="settings-field">
         <span className="settings-label">{t("languageLabel")}</span>
         <select
@@ -70,4 +74,3 @@ export default function SettingsBar() {
     </div>
   );
 }
-
