@@ -41,8 +41,8 @@
   color-scheme: light;
   --color-bg: #fdf6e3;
   --color-card: #eee8d5;
-  --color-text: #586e75;
-  --color-muted: #839496;
+  --color-text: #47595f;
+  --color-muted: #6b7d80;
   --color-primary: #268bd2;
   --color-primary-dark: #1e6a99;
   --color-border: #93a1a1;
@@ -60,8 +60,8 @@
   color-scheme: dark;
   --color-bg: #002b36;
   --color-card: #073642;
-  --color-text: #93a1a1;
-  --color-muted: #839496;
+  --color-text: #a3b1b1;
+  --color-muted: #93a1a1;
   --color-primary: #268bd2;
   --color-primary-dark: #4bacdf;
   --color-border: #586e75;
