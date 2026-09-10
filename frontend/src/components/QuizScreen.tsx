@@ -5,7 +5,6 @@ import type { AnswersMap, QuizSession } from "../types";
 import { EXAM_DURATION_MS } from "../types";
 import OptionButton from "./OptionButton";
 import { STATES } from "../data/states";
-import { getCategoryLabel } from "../i18n/categories";
 import { useTranslation } from "../i18n/LanguageContext";
 import { RTL_LANGUAGES } from "../i18n/languages";
 import {
@@ -183,12 +182,6 @@ export default function QuizScreen({
               total: questionIds.length,
             })}
           </div>
-
-          {question.category && (
-            <span className="category-badge">
-              {getCategoryLabel(question.category, language)}
-            </span>
-          )}
 
           <h2 className="question-text" dir="ltr">{question.question}</h2>
 
