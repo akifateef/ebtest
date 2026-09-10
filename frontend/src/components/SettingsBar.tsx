@@ -46,7 +46,7 @@ export default function SettingsBar({ className }: Props) {
         </select>
       </label>
 
-      <div className="settings-field">
+      <div className="settings-field settings-field-font-size">
         <span className="settings-label">{t("fontSizeLabel")}</span>
         <div className="font-size-controls">
           <button

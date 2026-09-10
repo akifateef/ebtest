@@ -506,7 +506,7 @@ h1 {
     flex-wrap: wrap;
   }
 
-  .home-settings-bar .settings-field:last-child {
+  .home-settings-bar .settings-field-font-size {
     flex: 1 0 100%;
     justify-content: flex-end;
   }
