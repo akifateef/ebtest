@@ -1,0 +1,2682 @@
+{
+  "general-1": {
+    "question": "En Allemagne, les gens ont le droit de critiquer ouvertement le gouvernement, parce que …",
+    "options": [
+      "la liberté de religion s'applique ici.",
+      "les gens paient des impôts.",
+      "les gens ont le droit de vote.",
+      "la liberté d'expression s'applique ici."
+    ]
+  },
+  "general-2": {
+    "question": "En Allemagne, jusqu'aux 14 ans de leur enfant, les parents peuvent décider s'il participe … à l'école.",
+    "options": [
+      "au cours d'histoire",
+      "au cours de religion",
+      "au cours d'éducation civique",
+      "au cours de langue"
+    ]
+  },
+  "general-3": {
+    "question": "L'Allemagne est un État de droit. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Tous les habitants et l'État doivent respecter les lois.",
+      "L'État n'est pas obligé de respecter les lois.",
+      "Seuls les Allemands doivent respecter les lois.",
+      "Ce sont les tribunaux qui font les lois."
+    ]
+  },
+  "general-4": {
+    "question": "Quel droit fait partie des droits fondamentaux en Allemagne ?",
+    "options": [
+      "le droit de posséder des armes",
+      "la loi du plus fort",
+      "la liberté d'expression",
+      "la justice privée"
+    ]
+  },
+  "general-5": {
+    "question": "Les élections en Allemagne sont libres. Qu'est-ce que cela signifie ?",
+    "options": [
+      "On a le droit d'accepter de l'argent si l'on vote pour un certain candidat.",
+      "Seules les personnes qui n'ont jamais été en prison ont le droit de voter.",
+      "L'électrice/l'électeur ne doit être ni influencé(e) ni contraint(e) de voter d'une certaine manière, et ne doit subir aucun désavantage à cause de son vote.",
+      "Toutes les personnes ayant le droit de vote doivent voter."
+    ]
+  },
+  "general-6": {
+    "question": "Comment s'appelle la Constitution allemande ?",
+    "options": [
+      "Loi du peuple",
+      "Loi fédérale",
+      "Loi allemande",
+      "Loi fondamentale"
+    ]
+  },
+  "general-7": {
+    "question": "Quel droit fait partie des droits fondamentaux garantis par la Constitution allemande ? Le droit à …",
+    "options": [
+      "la liberté de croyance et de conscience",
+      "le divertissement",
+      "le travail",
+      "le logement"
+    ]
+  },
+  "general-8": {
+    "question": "Qu'est-ce qui ne figure pas dans la Loi fondamentale allemande ?",
+    "options": [
+      "La dignité humaine est intangible.",
+      "Tout le monde doit avoir autant d'argent.",
+      "Chacun a le droit d'exprimer son opinion.",
+      "Tous sont égaux devant la loi."
+    ]
+  },
+  "general-9": {
+    "question": "Quel droit fondamental ne s'applique en Allemagne qu'aux étrangères et étrangers ? Le droit fondamental à …",
+    "options": [
+      "la protection de la famille",
+      "la dignité humaine",
+      "l'asile",
+      "la liberté d'expression"
+    ]
+  },
+  "general-10": {
+    "question": "Qu'est-ce qui est compatible avec la Loi fondamentale allemande ?",
+    "options": [
+      "les châtiments corporels",
+      "la torture",
+      "la peine de mort",
+      "l'amende"
+    ]
+  },
+  "general-11": {
+    "question": "Comment appelle-t-on la Constitution de la République fédérale d'Allemagne ?",
+    "options": [
+      "Loi fondamentale",
+      "Constitution fédérale",
+      "Code des lois",
+      "Traité constitutionnel"
+    ]
+  },
+  "general-12": {
+    "question": "Un parti au Bundestag allemand veut supprimer la liberté de la presse. Est-ce possible ?",
+    "options": [
+      "Oui, si plus de la moitié des députés du Bundestag y sont favorables.",
+      "Oui, mais il faut pour cela que les deux tiers des députés du Bundestag y soient favorables.",
+      "Non, car la liberté de la presse est un droit fondamental. Elle ne peut pas être supprimée.",
+      "Non, car seul le Bundesrat peut supprimer la liberté de la presse."
+    ]
+  },
+  "general-13": {
+    "question": "Dans le langage parlementaire, le terme « opposition » désigne …",
+    "options": [
+      "les partis au pouvoir.",
+      "le groupe parlementaire comptant le plus de député(e)s.",
+      "tous les partis ayant franchi le seuil des 5 % lors de la dernière élection.",
+      "tous les député(e)s qui n'appartiennent pas au(x) parti(s) au pouvoir."
+    ]
+  },
+  "general-14": {
+    "question": "La liberté d'expression en Allemagne signifie que je …",
+    "options": [
+      "j'ai le droit d'insulter des passants dans la rue.",
+      "je peux exprimer mon opinion sur Internet.",
+      "j'ai le droit de porter en public des symboles nazis, du Hamas ou de l'État islamique.",
+      "je ne peux exprimer mon opinion que tant que je ne m'oppose pas au gouvernement."
+    ]
+  },
+  "general-15": {
+    "question": "Qu'est-ce que la Loi fondamentale allemande interdit ?",
+    "options": [
+      "le service militaire",
+      "le travail forcé",
+      "le libre choix de la profession",
+      "le travail à l'étranger"
+    ]
+  },
+  "general-16": {
+    "question": "Quand la liberté d'expression est-elle limitée en Allemagne ?",
+    "options": [
+      "lors de la diffusion publique d'affirmations fausses sur des personnes précises",
+      "lors d'expressions d'opinion sur le gouvernement fédéral",
+      "lors de discussions sur les religions",
+      "lors de critiques envers l'État"
+    ]
+  },
+  "general-17": {
+    "question": "Les lois allemandes interdisent …",
+    "options": [
+      "la liberté d'expression des habitantes et habitants.",
+      "les pétitions des citoyennes et citoyens.",
+      "la liberté de réunion des habitantes et habitants.",
+      "l'inégalité de traitement des citoyennes et citoyens par l'État."
+    ]
+  },
+  "general-18": {
+    "question": "Quel droit fondamental est garanti à l'article 1 de la Loi fondamentale de la République fédérale d'Allemagne ?",
+    "options": [
+      "l'intangibilité de la dignité humaine",
+      "le droit à la vie",
+      "la liberté de religion",
+      "la liberté d'expression"
+    ]
+  },
+  "general-19": {
+    "question": "Qu'entend-on par le droit à la « libre circulation » en Allemagne ?",
+    "options": [
+      "On peut choisir librement son lieu de résidence.",
+      "On peut changer de profession.",
+      "On peut choisir une autre religion.",
+      "On ne peut se déplacer en public que peu vêtu(e)."
+    ]
+  },
+  "general-20": {
+    "question": "Un parti en Allemagne poursuit l'objectif d'instaurer une dictature. Il est alors …",
+    "options": [
+      "tolérant.",
+      "orienté vers l'État de droit.",
+      "respectueux des lois.",
+      "anticonstitutionnel."
+    ]
+  },
+  "general-21": {
+    "question": "Quel est l'emblème (les armoiries) de la République fédérale d'Allemagne ?",
+    "options": [null, null, null, null]
+  },
+  "general-22": {
+    "question": "Quelle est la forme d'État de l'Allemagne ?",
+    "options": [
+      "une monarchie",
+      "une dictature",
+      "une république",
+      "une principauté"
+    ]
+  },
+  "general-23": {
+    "question": "En Allemagne, la plupart des personnes actives …",
+    "options": [
+      "travaillent dans de petites entreprises familiales.",
+      "exercent une activité bénévole pour un Land.",
+      "sont indépendantes avec leur propre entreprise.",
+      "sont salariées d'une entreprise ou d'une administration."
+    ]
+  },
+  "general-24": {
+    "question": "Combien de Länder compte la République fédérale d'Allemagne ?",
+    "options": ["14", "15", "16", "17"]
+  },
+  "general-25": {
+    "question": "Lequel des éléments suivants n'est pas un Land de la République fédérale d'Allemagne ?",
+    "options": [
+      "l'Alsace-Lorraine",
+      "la Rhénanie-du-Nord-Westphalie",
+      "le Mecklembourg-Poméranie-Occidentale",
+      "la Saxe-Anhalt"
+    ]
+  },
+  "general-26": {
+    "question": "L'Allemagne est …",
+    "options": [
+      "une république communiste.",
+      "un État fédéral démocratique et social.",
+      "une monarchie capitaliste et sociale.",
+      "un État fédéral social et socialiste."
+    ]
+  },
+  "general-27": {
+    "question": "L'Allemagne est …",
+    "options": [
+      "un État socialiste.",
+      "un État fédéral.",
+      "une dictature.",
+      "une monarchie."
+    ]
+  },
+  "general-28": {
+    "question": "Qui élit les député(e)s du Bundestag en Allemagne ?",
+    "options": [
+      "l'armée",
+      "l'économie",
+      "le peuple ayant le droit de vote",
+      "l'administration"
+    ]
+  },
+  "general-29": {
+    "question": "Quel animal est l'emblème de la République fédérale d'Allemagne ?",
+    "options": ["le lion", "l'aigle", "l'ours", "le cheval"]
+  },
+  "general-30": {
+    "question": "Qu'est-ce qui n'est pas une caractéristique de notre démocratie ?",
+    "options": [
+      "des élections régulières",
+      "la censure de la presse",
+      "la liberté d'expression",
+      "plusieurs partis"
+    ]
+  },
+  "general-31": {
+    "question": "Comment appelle-t-on en Allemagne la coopération entre partis pour former un gouvernement ?",
+    "options": ["une unité.", "une coalition.", "un ministère.", "un groupe parlementaire."]
+  },
+  "general-32": {
+    "question": "Qu'est-ce qui n'est pas un pouvoir de l'État en Allemagne ?",
+    "options": [
+      "le pouvoir législatif",
+      "le gouvernement",
+      "la presse",
+      "le pouvoir judiciaire"
+    ]
+  },
+  "general-33": {
+    "question": "Quelle affirmation est correcte ? En Allemagne …",
+    "options": [
+      "l'État et les communautés religieuses sont séparés.",
+      "les communautés religieuses forment l'État.",
+      "l'État dépend des communautés religieuses.",
+      "l'État et les communautés religieuses forment une unité."
+    ]
+  },
+  "general-34": {
+    "question": "Qu'est-ce que l'Allemagne n'est pas ?",
+    "options": ["une démocratie", "un État de droit", "une monarchie", "un État social"]
+  },
+  "general-35": {
+    "question": "Avec quoi l'État allemand finance-t-il l'assurance sociale ?",
+    "options": [
+      "l'impôt cultuel",
+      "les cotisations sociales",
+      "les dons",
+      "les cotisations d'association"
+    ]
+  },
+  "general-36": {
+    "question": "Quelle mesure assure la sécurité sociale en Allemagne ?",
+    "options": [
+      "l'assurance maladie",
+      "l'assurance automobile",
+      "l'assurance habitation",
+      "l'assurance responsabilité civile"
+    ]
+  },
+  "general-37": {
+    "question": "Comment appelle-t-on les chef(fe)s de gouvernement de la plupart des Länder en Allemagne ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Sénateur/Sénatrice", "Ministre-président(e)"]
+  },
+  "general-38": {
+    "question": "La République fédérale d'Allemagne est un(e) … démocratique et social(e).",
+    "options": [
+      "association d'États.",
+      "État fédéral.",
+      "confédération d'États.",
+      "État centralisé."
+    ]
+  },
+  "general-39": {
+    "question": "Qu'est-ce que chaque Land allemand possède ?",
+    "options": [
+      "sa propre ministre/son propre ministre des Affaires étrangères",
+      "sa propre monnaie",
+      "sa propre armée",
+      "son propre gouvernement"
+    ]
+  },
+  "general-40": {
+    "question": "Par quels mots commence l'hymne national allemand ?",
+    "options": [
+      "Peuples, écoutez les signaux …",
+      "Unité, droit et liberté …",
+      "Joie, belle étincelle des dieux …",
+      "Allemagne, unie patrie …"
+    ]
+  },
+  "general-41": {
+    "question": "Pourquoi y a-t-il plus d'un parti dans une démocratie ?",
+    "options": [
+      "parce que cela permet de représenter les différentes opinions des citoyennes et citoyens",
+      "afin de limiter la corruption en politique",
+      "pour empêcher les manifestations politiques",
+      "pour stimuler la concurrence économique"
+    ]
+  },
+  "general-42": {
+    "question": "Qui décide d'une nouvelle loi en Allemagne ?",
+    "options": ["le gouvernement", "le parlement", "les tribunaux", "la police"]
+  },
+  "general-43": {
+    "question": "Quand un parti peut-il être interdit en Allemagne ?",
+    "options": [
+      "quand sa campagne électorale est trop coûteuse",
+      "quand il combat la Constitution",
+      "quand il critique le chef de l'État",
+      "quand son programme propose une nouvelle orientation"
+    ]
+  },
+  "general-44": {
+    "question": "Qui ne peut pas être élu directement par les citoyennes et citoyens en Allemagne ?",
+    "options": [
+      "les député(e)s du Parlement européen",
+      "la/le président(e) fédéral(e)",
+      "les député(e)s du Landtag",
+      "les député(e)s du Bundestag"
+    ]
+  },
+  "general-45": {
+    "question": "À quelle assurance appartient l'assurance dépendance ?",
+    "options": [
+      "l'assurance sociale",
+      "l'assurance accident",
+      "l'assurance habitation",
+      "l'assurance responsabilité civile et incendie"
+    ]
+  },
+  "general-46": {
+    "question": "L'État allemand a de nombreuses missions. Laquelle en fait partie ?",
+    "options": [
+      "Il construit des routes et des écoles.",
+      "Il vend des denrées alimentaires et des vêtements.",
+      "Il fournit gratuitement des journaux à toutes les habitantes et à tous les habitants.",
+      "Il produit des voitures et des bus."
+    ]
+  },
+  "general-47": {
+    "question": "L'État allemand a de nombreuses missions. Laquelle n'en fait pas partie ?",
+    "options": [
+      "Il paie des voyages de vacances à tous les ressortissants.",
+      "Il verse les allocations familiales.",
+      "Il soutient les musées.",
+      "Il encourage les sportives et sportifs."
+    ]
+  },
+  "general-48": {
+    "question": "Quel organe ne fait pas partie des organes constitutionnels de l'Allemagne ?",
+    "options": [
+      "le Bundesrat",
+      "la/le président(e) fédéral(e)",
+      "l'assemblée citoyenne",
+      "le gouvernement"
+    ]
+  },
+  "general-49": {
+    "question": "Qui détermine la politique scolaire en Allemagne ?",
+    "options": [
+      "les enseignantes et enseignants",
+      "les Länder",
+      "le ministère de la Famille",
+      "les universités"
+    ]
+  },
+  "general-50": {
+    "question": "Le système économique de l'Allemagne s'appelle …",
+    "options": [
+      "économie planifiée centralisée libre.",
+      "économie sociale de marché.",
+      "économie planifiée centralisée dirigée.",
+      "économie planifiée."
+    ]
+  },
+  "general-51": {
+    "question": "Il ne fait pas partie d'un État de droit démocratique que …",
+    "options": [
+      "les gens puissent s'exprimer de façon critique sur le gouvernement.",
+      "les citoyens puissent manifester pacifiquement.",
+      "des personnes soient arrêtées sans motif par une police privée.",
+      "quelqu'un commette un crime et soit de ce fait arrêté."
+    ]
+  },
+  "general-52": {
+    "question": "Que signifie « souveraineté populaire » ? Tout pouvoir de l'État émane …",
+    "options": [
+      "du peuple.",
+      "du Bundestag.",
+      "du roi de Prusse.",
+      "de la Cour constitutionnelle fédérale."
+    ]
+  },
+  "general-53": {
+    "question": "Que signifie « État de droit » en Allemagne ?",
+    "options": [
+      "L'État a toujours raison.",
+      "Il n'y a que des partis de droite.",
+      "Les citoyennes et citoyens décident des lois.",
+      "L'État doit respecter les lois."
+    ]
+  },
+  "general-54": {
+    "question": "Qu'est-ce qui n'est pas un pouvoir de l'État en Allemagne ?",
+    "options": [
+      "le pouvoir législatif",
+      "le pouvoir judiciaire",
+      "le pouvoir exécutif",
+      "le pouvoir directif"
+    ]
+  },
+  "general-55": {
+    "question": "Que montre cette image ?",
+    "options": [
+      "le siège du Bundestag à Berlin",
+      "la Cour constitutionnelle fédérale à Karlsruhe",
+      "le bâtiment du Bundesrat à Berlin",
+      "la Chancellerie fédérale à Berlin"
+    ]
+  },
+  "general-56": {
+    "question": "Quel service fait partie de l'administration communale en Allemagne ?",
+    "options": [
+      "le bureau paroissial",
+      "le service de l'ordre public",
+      "le bureau des impôts",
+      "le ministère des Affaires étrangères"
+    ]
+  },
+  "general-57": {
+    "question": "Qui est le plus souvent élu(e) à la présidence du Bundestag allemand ?",
+    "options": [
+      "le/la député(e) le/la plus âgé(e) du Parlement",
+      "la/le ministre-président(e) du plus grand Land",
+      "une ancienne chancelière/un ancien chancelier fédéral(e)",
+      "un(e) député(e) du groupe parlementaire le plus important"
+    ]
+  },
+  "general-58": {
+    "question": "Qui nomme les ministres du gouvernement fédéral en Allemagne ?",
+    "options": [
+      "la/le président(e) de la Cour constitutionnelle fédérale",
+      "la/le président(e) fédéral(e)",
+      "la/le président(e) du Bundesrat",
+      "la/le président(e) du Bundestag"
+    ]
+  },
+  "general-59": {
+    "question": "Il y a combien d'années environ a-t-on trouvé pour la première fois une communauté juive sur le territoire de l'Allemagne actuelle ?",
+    "options": [
+      "il y a environ 300 ans",
+      "il y a environ 700 ans",
+      "il y a environ 1150 ans",
+      "il y a environ 1700 ans"
+    ]
+  },
+  "general-60": {
+    "question": "En Allemagne, le Bundestag et le Bundesrat font partie …",
+    "options": ["du pouvoir exécutif.", "du pouvoir législatif.", "du pouvoir directif.", "du pouvoir judiciaire."]
+  },
+  "general-61": {
+    "question": "Que signifie « souveraineté populaire » ?",
+    "options": [
+      "La reine/le roi règne sur le peuple.",
+      "La Cour constitutionnelle fédérale est au-dessus de la Constitution.",
+      "Les groupes d'intérêts exercent la souveraineté conjointement avec le gouvernement.",
+      "Le pouvoir de l'État émane du peuple."
+    ]
+  },
+  "general-62": {
+    "question": "Quand on élit le parlement d'un Land allemand, on appelle cela …",
+    "options": ["une élection communale", "une élection du Landtag", "une élection européenne", "une élection du Bundestag"]
+  },
+  "general-63": {
+    "question": "Qu'est-ce qui ne fait pas partie du pouvoir exécutif en Allemagne ?",
+    "options": ["la police", "les tribunaux", "le bureau des impôts", "les ministères"]
+  },
+  "general-64": {
+    "question": "La République fédérale d'Allemagne est aujourd'hui structurée en …",
+    "options": [
+      "quatre zones d'occupation.",
+      "un État de l'Est et un État de l'Ouest.",
+      "16 cantons.",
+      "la Fédération, les Länder et les communes."
+    ]
+  },
+  "general-65": {
+    "question": "Il ne fait pas partie des missions du Bundestag allemand de …",
+    "options": [
+      "rédiger des lois.",
+      "contrôler le gouvernement fédéral.",
+      "élire la chancelière/le chancelier fédéral(e).",
+      "former le cabinet fédéral."
+    ]
+  },
+  "general-66": {
+    "question": "Quelles villes ont les plus grandes communautés juives d'Allemagne ?",
+    "options": ["Berlin et Munich", "Hambourg et Essen", "Nuremberg et Stuttgart", "Worms et Spire"]
+  },
+  "general-67": {
+    "question": "Qu'est-ce qui, en Allemagne, relève surtout des Länder ?",
+    "options": ["la politique de défense", "la politique étrangère", "la politique économique", "la politique scolaire"]
+  },
+  "general-68": {
+    "question": "Pourquoi l'État contrôle-t-il le système scolaire en Allemagne ?",
+    "options": [
+      "parce qu'il n'existe en Allemagne que des écoles publiques",
+      "parce que tous les élèves doivent obtenir un diplôme scolaire",
+      "parce que les Länder ont des systèmes scolaires différents",
+      "parce que c'est sa mission selon la Loi fondamentale"
+    ]
+  },
+  "general-69": {
+    "question": "La République fédérale d'Allemagne a une organisation administrative à trois niveaux. Comment s'appelle l'échelon politique le plus bas ?",
+    "options": ["les conseils municipaux", "les préfets de district (Landräte)", "les communes", "les mairies d'arrondissement"]
+  },
+  "general-70": {
+    "question": "Le président fédéral allemand Gustav Heinemann remet à Helmut Schmidt, en 1974, l'acte de nomination au poste de chancelier fédéral. Qu'est-ce qui fait partie des missions de la/du président(e) fédéral(e) allemand(e) ?",
+    "options": [
+      "Elle/Il dirige les affaires du gouvernement.",
+      "Elle/Il contrôle le parti au pouvoir.",
+      "Elle/Il choisit les ministres.",
+      "Elle/Il propose la candidate/le candidat à l'élection au poste de chancelier(ère)."
+    ]
+  },
+  "general-71": {
+    "question": "Où la chancelière/le chancelier fédéral(e) allemand(e) séjourne-t-elle/il le plus souvent ? Le plus souvent, elle/il est …",
+    "options": [
+      "à Bonn, car c'est là que se trouvent la Chancellerie fédérale et le Bundestag.",
+      "au château de Meseberg, la maison d'hôtes du gouvernement fédéral, pour recevoir des invités d'État.",
+      "au château de Bellevue, la résidence officielle de la/du président(e) fédéral(e), pour recevoir des invités d'État.",
+      "à Berlin, car c'est là que se trouvent la Chancellerie fédérale et le Bundestag."
+    ]
+  },
+  "general-72": {
+    "question": "Comment s'appelle l'actuelle chancelière/actuel chancelier fédéral(e) d'Allemagne ?",
+    "options": ["Gerhard Schröder", "Angela Merkel", "Ursula von der Leyen", "Friedrich Merz"]
+  },
+  "general-73": {
+    "question": "Comment s'appellent actuellement les deux plus grands groupes parlementaires du Bundestag allemand ?",
+    "options": [
+      "la CDU/CSU et l'AfD.",
+      "Die Linke et Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen et le SPD.",
+      "Die Linke et la CDU/CSU."
+    ]
+  },
+  "general-74": {
+    "question": "Comment s'appelle le parlement de toute l'Allemagne ?",
+    "options": ["l'Assemblée fédérale", "la Chambre du peuple", "le Bundestag", "la Cour fédérale de justice"]
+  },
+  "general-75": {
+    "question": "Comment s'appelle l'actuel chef de l'État allemand ?",
+    "options": ["Frank-Walter Steinmeier", "Bärbel Bas", "Bodo Ramelow", "Joachim Gauck"]
+  },
+  "general-76": {
+    "question": "Que signifie l'abréviation CDU en Allemagne ?",
+    "options": [
+      "Union chrétienne allemande",
+      "Club des entrepreneurs allemands",
+      "Protection de l'environnement chrétienne allemande",
+      "Union chrétienne-démocrate"
+    ]
+  },
+  "general-77": {
+    "question": "Qu'est-ce que la Bundeswehr ?",
+    "options": ["la police allemande", "un port allemand", "une initiative citoyenne allemande", "l'armée allemande"]
+  },
+  "general-78": {
+    "question": "Que signifie l'abréviation SPD ?",
+    "options": [
+      "Parti socialiste d'Allemagne",
+      "Parti de politique sociale d'Allemagne",
+      "Parti social-démocrate d'Allemagne",
+      "Parti de la justice sociale d'Allemagne"
+    ]
+  },
+  "general-79": {
+    "question": "Que signifie l'abréviation FDP en Allemagne ?",
+    "options": [
+      "Parti démonstratif pacifique",
+      "Parti de l'Allemagne libre",
+      "Parti démocratique dirigeant",
+      "Parti libéral-démocrate"
+    ]
+  },
+  "general-80": {
+    "question": "Quelle juridiction est compétente en Allemagne pour l'interprétation de la Loi fondamentale ?",
+    "options": ["le tribunal régional supérieur", "le tribunal cantonal", "la Cour constitutionnelle fédérale", "le tribunal administratif"]
+  },
+  "general-81": {
+    "question": "Qui élit la chancelière/le chancelier fédéral(e) en Allemagne ?",
+    "options": ["le Bundesrat", "l'Assemblée fédérale", "le peuple", "le Bundestag"]
+  },
+  "general-82": {
+    "question": "Qui dirige le cabinet fédéral allemand ?",
+    "options": [
+      "la/le président(e) du Bundestag",
+      "la/le président(e) fédéral(e)",
+      "la/le président(e) du Bundesrat",
+      "la chancelière/le chancelier fédéral(e)"
+    ]
+  },
+  "general-83": {
+    "question": "Qui élit la chancelière/le chancelier fédéral(e) allemand(e) ?",
+    "options": ["le peuple", "l'Assemblée fédérale", "le Bundestag", "le gouvernement fédéral"]
+  },
+  "general-84": {
+    "question": "Quelle est la principale mission de la/du président(e) fédéral(e) allemand(e) ? Elle/Il …",
+    "options": ["gouverne le pays.", "rédige les lois.", "représente le pays.", "surveille le respect des lois."]
+  },
+  "general-85": {
+    "question": "Qui compose le Bundesrat allemand ?",
+    "options": [
+      "les député(e)s du Bundestag",
+      "les ministres du gouvernement fédéral",
+      "les représentant(e)s des gouvernements des Länder",
+      "les membres des partis"
+    ]
+  },
+  "general-86": {
+    "question": "Qui élit en Allemagne la/le président(e) fédéral(e) ?",
+    "options": ["l'Assemblée fédérale", "le Bundesrat", "le Parlement fédéral", "la Cour constitutionnelle fédérale"]
+  },
+  "general-87": {
+    "question": "Qui est le chef de l'État de la République fédérale d'Allemagne ?",
+    "options": [
+      "la chancelière/le chancelier fédéral(e)",
+      "la/le président(e) fédéral(e)",
+      "la/le président(e) du Bundesrat",
+      "la/le président(e) du Bundestag"
+    ]
+  },
+  "general-88": {
+    "question": "L'opposition parlementaire au Bundestag allemand …",
+    "options": [
+      "contrôle le gouvernement.",
+      "décide qui devient ministre fédéral(e).",
+      "détermine qui siège au Bundesrat.",
+      "propose les chef(fe)s de gouvernement des Länder."
+    ]
+  },
+  "general-89": {
+    "question": "Comment appelle-t-on en Allemagne le regroupement des député(e)s d'un parti au sein du parlement ?",
+    "options": ["une association", "le conseil des doyens", "un groupe parlementaire", "l'opposition"]
+  },
+  "general-90": {
+    "question": "Les Länder allemands participent à la législation fédérale par le biais …",
+    "options": ["du Bundesrat.", "de l'Assemblée fédérale.", "du Bundestag.", "du gouvernement fédéral."]
+  },
+  "general-91": {
+    "question": "En Allemagne, un changement de gouvernement dans un Land peut avoir des répercussions sur la politique fédérale. Gouverner devient …",
+    "options": [
+      "plus difficile si cela modifie la majorité au Bundestag.",
+      "plus facile si cela permet à de nouveaux partis d'entrer au Bundesrat.",
+      "plus difficile si cela modifie la majorité au Bundesrat.",
+      "plus facile s'il s'agit d'un Land riche."
+    ]
+  },
+  "general-92": {
+    "question": "Que signifie l'abréviation CSU en Allemagne ?",
+    "options": [
+      "Union chrétienne sûre",
+      "Union chrétienne d'Allemagne du Sud",
+      "Association chrétienne-sociale des entrepreneurs",
+      "Union chrétienne-sociale"
+    ]
+  },
+  "general-93": {
+    "question": "Plus un parti obtient de « secondes voix » lors d'une élection au Bundestag, plus …",
+    "options": [
+      "il peut avoir peu de premières voix.",
+      "de candidat(e)s de circonscription du parti entrent au parlement.",
+      "le risque est grand de devoir former une coalition.",
+      "le parti obtient de sièges au parlement."
+    ]
+  },
+  "general-94": {
+    "question": "À partir de quel âge peut-on participer en Allemagne à l'élection du Bundestag allemand ?",
+    "options": ["16", "18", "21", "23"]
+  },
+  "general-95": {
+    "question": "Qu'est-ce qui s'applique à la plupart des enfants en Allemagne ?",
+    "options": ["l'obligation de voter", "l'obligation scolaire", "l'obligation de garder le silence", "l'obligation religieuse"]
+  },
+  "general-96": {
+    "question": "Comment quelqu'un qui nie l'Holocauste peut-il être puni ?",
+    "options": [
+      "par une réduction des prestations sociales",
+      "par jusqu'à 100 heures de travail d'intérêt général",
+      "il ne peut pas être puni : nier l'Holocauste est autorisé",
+      "par une peine d'emprisonnement pouvant aller jusqu'à cinq ans ou une amende"
+    ]
+  },
+  "general-97": {
+    "question": "Que paie-t-on automatiquement en Allemagne lorsqu'on est salarié(e) en contrat à durée indéterminée ?",
+    "options": ["les cotisations sociales", "l'aide sociale", "les allocations familiales", "l'allocation logement"]
+  },
+  "general-98": {
+    "question": "Quand des député(e)s du Bundestag allemand changent de groupe parlementaire, …",
+    "options": [
+      "ils/elles ne peuvent plus participer aux séances du parlement.",
+      "le gouvernement peut perdre sa majorité.",
+      "la/le président(e) fédéral(e) doit d'abord donner son accord.",
+      "les électrices/électeurs de ces député(e)s peuvent revoter."
+    ]
+  },
+  "general-99": {
+    "question": "Qui paie les assurances sociales en Allemagne ?",
+    "options": [
+      "les employeuses/employeurs et les salariées/salariés",
+      "seulement les salariées/salariés",
+      "tous les ressortissants",
+      "seulement les employeuses/employeurs"
+    ]
+  },
+  "general-100": {
+    "question": "Qu'est-ce qui ne fait pas partie de l'assurance sociale légale ?",
+    "options": ["l'assurance-vie", "l'assurance retraite légale", "l'assurance chômage", "l'assurance dépendance"]
+  },
+  "general-101": {
+    "question": "Les syndicats sont des associations d'intérêts des …",
+    "options": ["jeunes.", "salariées et salariés.", "retraitées et retraités.", "employeuses et employeurs."]
+  },
+  "general-102": {
+    "question": "Avec quoi peut-on être honoré(e) en République fédérale d'Allemagne lorsqu'on a accompli une prestation particulière dans le domaine politique, économique, culturel, intellectuel ou social ? Avec …",
+    "options": [
+      "la Croix fédérale du Mérite",
+      "l'aigle fédéral",
+      "l'Ordre du Mérite patriotique",
+      "le titre honorifique de « Héros de la République démocratique allemande »"
+    ]
+  },
+  "general-103": {
+    "question": "Qu'appelle-t-on en Allemagne la « coalition feu tricolore » (Ampelkoalition) ? La coopération …",
+    "options": [
+      "des groupes parlementaires de la CDU et de la CSU au sein d'un gouvernement",
+      "du SPD, du FDP et de Bündnis 90/Die Grünen au sein d'un gouvernement",
+      "de la CSU, de Die LINKE et de Bündnis 90/Die Grünen au sein d'un gouvernement",
+      "des groupes parlementaires de la CDU et du SPD au sein d'un gouvernement"
+    ]
+  },
+  "general-104": {
+    "question": "Une femme en Allemagne perd son emploi. Quel motif ne peut pas être invoqué pour ce licenciement ?",
+    "options": [
+      "La femme est malade depuis longtemps et inapte au travail.",
+      "La femme est souvent arrivée en retard au travail.",
+      "La femme s'occupe d'affaires privées pendant son temps de travail.",
+      "La femme attend un enfant et son patron le sait."
+    ]
+  },
+  "general-105": {
+    "question": "Quelle est une mission des assesseurs/assesseures électoraux (Wahlhelfer) en Allemagne ?",
+    "options": [
+      "Ils aident les personnes âgées à voter dans l'isoloir.",
+      "Ils rédigent les avis de convocation avant l'élection.",
+      "Ils transmettent des résultats provisoires aux médias.",
+      "Ils comptent les voix après la fin du scrutin."
+    ]
+  },
+  "general-106": {
+    "question": "En Allemagne, des assesseurs et assesseures bénévoles aident lors des élections. Quelle est une mission des assesseurs/assesseures électoraux ?",
+    "options": [
+      "Ils aident les enfants et les personnes âgées à voter.",
+      "Ils écrivent des cartes et des lettres indiquant le bureau de vote.",
+      "Ils transmettent des résultats provisoires aux journalistes.",
+      "Ils comptent les voix après la fin du scrutin."
+    ]
+  },
+  "general-107": {
+    "question": "Pour combien d'années le Bundestag est-il élu en Allemagne ?",
+    "options": ["2 ans", "4 ans", "6 ans", "8 ans"]
+  },
+  "general-108": {
+    "question": "Lors d'une élection au Bundestag en Allemagne, a le droit de voter toute personne qui …",
+    "options": [
+      "habite en République fédérale d'Allemagne et souhaite voter.",
+      "est citoyenne/citoyen de la République fédérale d'Allemagne et a au moins 18 ans.",
+      "vit depuis au moins 3 ans en République fédérale d'Allemagne.",
+      "est citoyenne/citoyen de la République fédérale d'Allemagne et a au moins 21 ans."
+    ]
+  },
+  "general-109": {
+    "question": "À quelle fréquence a-t-on normalement des élections au Bundestag en Allemagne ?",
+    "options": ["tous les trois ans", "tous les quatre ans", "tous les cinq ans", "tous les six ans"]
+  },
+  "general-110": {
+    "question": "Pour combien d'années le Bundestag est-il élu en Allemagne ?",
+    "options": ["2 ans", "3 ans", "4 ans", "5 ans"]
+  },
+  "general-111": {
+    "question": "Quels actes en lien avec l'État d'Israël sont interdits en Allemagne ?",
+    "options": [
+      "critiquer publiquement la politique d'Israël",
+      "accrocher un drapeau israélien sur une propriété privée",
+      "discuter de la politique d'Israël",
+      "appeler publiquement à l'anéantissement d'Israël"
+    ]
+  },
+  "general-112": {
+    "question": "Les élections en Allemagne sont …",
+    "options": ["spéciales.", "secrètes.", "liées à la profession.", "dépendantes du sexe."]
+  },
+  "general-113": {
+    "question": "Aux élections en Allemagne, le parti qui gagne est celui qui …",
+    "options": [
+      "obtient le plus de voix.",
+      "a été choisi majoritairement par les hommes.",
+      "a obtenu le plus de voix parmi les ouvrières et ouvriers.",
+      "a obtenu le plus de premières voix pour sa candidate/son candidat au poste de chancelier(ère)."
+    ]
+  },
+  "general-114": {
+    "question": "Participer à des élections démocratiques en Allemagne est …",
+    "options": ["une obligation.", "un droit.", "une contrainte.", "un fardeau."]
+  },
+  "general-115": {
+    "question": "Que signifie le « droit de vote actif » en Allemagne ?",
+    "options": [
+      "On peut être élu(e).",
+      "On doit aller voter.",
+      "On peut voter.",
+      "On doit assister au dépouillement des voix."
+    ]
+  },
+  "general-116": {
+    "question": "Lorsque vous avez le droit de voter à une élection du Bundestag en Allemagne, cela s'appelle …",
+    "options": [
+      "une campagne électorale active.",
+      "une procédure électorale active.",
+      "un militantisme électoral actif.",
+      "un droit de vote actif."
+    ]
+  },
+  "general-117": {
+    "question": "Quel pourcentage minimum des secondes voix les partis doivent-ils obtenir pour être élus au Bundestag allemand ?",
+    "options": ["3 %", "4 %", "5 %", "6 %"]
+  },
+  "general-118": {
+    "question": "Qui peut devenir membre des quelque 40 clubs sportifs juifs Makkabi ?",
+    "options": [
+      "seulement les Allemandes et Allemands",
+      "seulement les Israéliennes et Israéliens",
+      "seulement les personnes religieuses",
+      "toutes les personnes"
+    ]
+  },
+  "general-119": {
+    "question": "Les élections en Allemagne sont libres. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Toutes les personnes condamnées pour un délit n'ont pas le droit de voter.",
+      "Si je veux aller voter, mon employeuse/employeur doit me libérer.",
+      "Chaque personne peut décider sans contrainte si elle veut voter et pour qui.",
+      "Je peux décider librement où je veux aller voter."
+    ]
+  },
+  "general-120": {
+    "question": "Le système électoral en Allemagne est …",
+    "options": [
+      "un suffrage censitaire.",
+      "un suffrage à trois classes.",
+      "un système mixte majoritaire et proportionnel.",
+      "un suffrage universel masculin."
+    ]
+  },
+  "general-121": {
+    "question": "Un parti veut entrer au Bundestag allemand. Il doit cependant obtenir une part minimale des voix. Cela s'appelle le …",
+    "options": ["seuil des 5 %.", "limite d'admission.", "valeur de base.", "directive."]
+  },
+  "general-122": {
+    "question": "À quel principe les élections sont-elles soumises en Allemagne ? Les élections en Allemagne sont …",
+    "options": [
+      "libres, égales, secrètes.",
+      "ouvertes, sûres, libres.",
+      "fermées, égales, sûres.",
+      "sûres, ouvertes, volontaires."
+    ]
+  },
+  "general-123": {
+    "question": "Qu'est-ce que le « seuil des 5 % » en Allemagne ?",
+    "options": [
+      "une règle de vote au Bundestag pour les petits partis",
+      "un contrôle de présence au Bundestag pour les votes",
+      "une part minimale des voix nécessaire pour entrer au parlement",
+      "un contrôle de présence au Bundesrat pour les votes"
+    ]
+  },
+  "general-124": {
+    "question": "L'élection du Bundestag en Allemagne est l'élection …",
+    "options": [
+      "de la chancelière/du chancelier fédéral(e).",
+      "des parlements des Länder.",
+      "du parlement pour l'Allemagne.",
+      "de la/du président(e) fédéral(e)."
+    ]
+  },
+  "general-125": {
+    "question": "Dans une démocratie, une fonction des élections régulières est …",
+    "options": [
+      "de contraindre les citoyennes et citoyens à voter.",
+      "de permettre, selon la volonté de la majorité des électrices/électeurs, un changement de gouvernement.",
+      "de maintenir les lois existantes dans le pays.",
+      "de donner plus de pouvoir aux personnes pauvres."
+    ]
+  },
+  "general-126": {
+    "question": "Que reçoivent les citoyennes et citoyens ayant le droit de vote en Allemagne avant une élection ?",
+    "options": [
+      "une carte d'électrice/d'électeur de la commune",
+      "une autorisation de vote de la/du président(e) fédéral(e)",
+      "un avis de l'Assemblée fédérale",
+      "un avis du bureau paroissial"
+    ]
+  },
+  "general-127": {
+    "question": "Pourquoi le seuil des 5 % existe-t-il dans la loi électorale de la République fédérale d'Allemagne ? Il existe parce que …",
+    "options": [
+      "les programmes de nombreux petits partis ont beaucoup de points communs.",
+      "les citoyennes et citoyens peuvent se perdre face à un grand nombre de petits partis.",
+      "de nombreux petits partis compliquent la formation d'un gouvernement.",
+      "les petits partis n'ont pas assez d'argent pour payer les politiciennes et politiciens."
+    ]
+  },
+  "general-128": {
+    "question": "Comment appelle-t-on les membres du parlement élus par les citoyennes et citoyens ?",
+    "options": ["des député(e)s.", "des chancelières/chanceliers.", "des ambassadrices/ambassadeurs.", "des ministres-président(e)s."]
+  },
+  "general-129": {
+    "question": "Qui est élu par le peuple en Allemagne ?",
+    "options": [
+      "la chancelière/le chancelier fédéral(e).",
+      "la/le ministre-président(e) d'un Land.",
+      "le Bundestag.",
+      "la/le président(e) fédéral(e)."
+    ]
+  },
+  "general-130": {
+    "question": "Quel bulletin de vote serait valable lors d'une élection au Bundestag ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "general-131": {
+    "question": "En Allemagne, une bourgmestre/un bourgmestre est …",
+    "options": [
+      "la/le directeur(trice) d'une école.",
+      "la/le directeur(trice) d'une banque.",
+      "le chef d'une commune.",
+      "la/le président(e) d'un parti."
+    ]
+  },
+  "general-132": {
+    "question": "De nombreuses personnes en Allemagne travaillent bénévolement pendant leur temps libre. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Elles travaillent comme militaires.",
+      "Elles travaillent volontairement et sans être payées dans des associations et des fédérations.",
+      "Elles travaillent au sein du gouvernement fédéral.",
+      "Elles travaillent dans un hôpital et gagnent de l'argent."
+    ]
+  },
+  "general-133": {
+    "question": "Qu'est-ce qui est autorisé lors des élections au Bundestag et aux Landtag en Allemagne ?",
+    "options": [
+      "Le mari vote à la place de sa femme.",
+      "On peut voter par correspondance.",
+      "On peut voter par téléphone le jour du scrutin.",
+      "Les enfants à partir de 14 ans ont le droit de voter."
+    ]
+  },
+  "general-134": {
+    "question": "On veut supprimer la ligne de bus que vous prenez toujours pour aller au travail. Que pouvez-vous faire pour la conserver ?",
+    "options": [
+      "Je participe à une initiative citoyenne pour le maintien de la ligne de bus, ou j'en crée une moi-même.",
+      "Je deviens membre d'un club sportif et je m'entraîne au cyclisme.",
+      "Je m'adresse au bureau des impôts, car en tant que contribuable j'ai droit à la ligne de bus.",
+      "J'écris une lettre à l'office forestier de la commune."
+    ]
+  },
+  "general-135": {
+    "question": "Qui les syndicats représentent-ils en Allemagne ?",
+    "options": ["les grandes entreprises", "les petites entreprises", "les indépendant(e)s", "les salariées et salariés"]
+  },
+  "general-136": {
+    "question": "En Allemagne, vous vous adressez au tribunal du travail en cas de …",
+    "options": [
+      "décompte erroné des charges locatives.",
+      "licenciement injustifié par votre patronne/patron.",
+      "problèmes avec les voisines et voisins.",
+      "difficultés après un accident de la route."
+    ]
+  },
+  "general-137": {
+    "question": "Quelle juridiction est compétente en Allemagne pour les conflits du monde du travail ?",
+    "options": ["le tribunal des affaires familiales", "le tribunal pénal", "le tribunal du travail", "le tribunal cantonal"]
+  },
+  "general-138": {
+    "question": "Que puis-je faire en Allemagne si mon employeuse/employeur m'a licencié(e) à tort ?",
+    "options": [
+      "continuer à travailler et rester aimable avec la patronne/le patron",
+      "engager une procédure d'injonction de payer contre l'employeuse/employeur",
+      "engager un recours contre le licenciement",
+      "dénoncer l'employeuse/employeur à la police"
+    ]
+  },
+  "general-139": {
+    "question": "Quand un procès a-t-il lieu devant un tribunal en Allemagne ? Quand quelqu'un …",
+    "options": [
+      "se convertit à une autre religion.",
+      "a commis un délit et est mis(e) en accusation.",
+      "défend une opinion différente de celle du gouvernement.",
+      "a mal garé sa voiture et celle-ci est mise en fourrière."
+    ]
+  },
+  "general-140": {
+    "question": "Que fait une/un assesseur(e) (Schöffe) en Allemagne ? Elle/Il …",
+    "options": [
+      "décide avec les juges de la culpabilité et de la peine.",
+      "donne des conseils juridiques aux citoyennes et citoyens.",
+      "délivre des actes officiels.",
+      "défend l'accusée/l'accusé."
+    ]
+  },
+  "general-141": {
+    "question": "Qui conseille les personnes en Allemagne sur des questions juridiques et les représente devant un tribunal ?",
+    "options": ["une avocate/un avocat", "une juge/un juge", "une/un assesseur(e)", "une procureure/un procureur"]
+  },
+  "general-142": {
+    "question": "Quelle est la principale mission d'une juge/d'un juge en Allemagne ? Une juge/un juge …",
+    "options": [
+      "représente les citoyennes et citoyens devant un tribunal.",
+      "travaille dans un tribunal et rend des jugements.",
+      "modifie les lois.",
+      "s'occupe des jeunes devant le tribunal."
+    ]
+  },
+  "general-143": {
+    "question": "Une juge/un juge en Allemagne fait partie …",
+    "options": ["du pouvoir judiciaire.", "du pouvoir exécutif.", "du pouvoir opérationnel.", "du pouvoir législatif."]
+  },
+  "general-144": {
+    "question": "Une juge/un juge fait partie en Allemagne …",
+    "options": ["du pouvoir exécutif.", "du pouvoir judiciaire.", "du pouvoir de planification.", "du pouvoir législatif."]
+  },
+  "general-145": {
+    "question": "En Allemagne, le pouvoir de l'État est divisé. Pour quel pouvoir une juge/un juge travaille-t-elle/il ? Pour le pouvoir …",
+    "options": ["judiciaire", "exécutif", "de la presse", "législatif"]
+  },
+  "general-146": {
+    "question": "Comment appelle-t-on en Allemagne une procédure devant un tribunal ?",
+    "options": ["un programme", "une procédure administrative", "un protocole", "un procès"]
+  },
+  "general-147": {
+    "question": "Quel est le travail d'une juge/d'un juge en Allemagne ?",
+    "options": ["gouverner l'Allemagne", "rendre la justice", "élaborer des plans", "adopter des lois"]
+  },
+  "general-148": {
+    "question": "Quelle est une mission de la police en Allemagne ?",
+    "options": [
+      "défendre le pays",
+      "mettre sur écoute les citoyennes et citoyens",
+      "adopter les lois",
+      "veiller au respect des lois"
+    ]
+  },
+  "general-149": {
+    "question": "Qu'est-ce qu'un exemple de comportement antisémite ?",
+    "options": [
+      "assister à une fête juive",
+      "critiquer le gouvernement israélien",
+      "nier l'Holocauste",
+      "jouer au football contre des Juifs"
+    ]
+  },
+  "general-150": {
+    "question": "Une/un assesseur(e) de tribunal (Gerichtsschöffe) en Allemagne est …",
+    "options": [
+      "la/le suppléant(e) du chef de la municipalité.",
+      "une juge bénévole/un juge bénévole.",
+      "un membre d'un conseil communal.",
+      "une personne ayant fait des études de droit."
+    ]
+  },
+  "general-151": {
+    "question": "Qui a construit le Mur à Berlin ?",
+    "options": ["la Grande-Bretagne", "la RDA", "la République fédérale d'Allemagne", "les USA"]
+  },
+  "general-152": {
+    "question": "Quand les nationaux-socialistes, avec Adolf Hitler, étaient-ils au pouvoir en Allemagne ?",
+    "options": ["de 1918 à 1923", "de 1932 à 1950", "de 1933 à 1945", "de 1945 à 1989"]
+  },
+  "general-153": {
+    "question": "Que s'est-il passé le 8 mai 1945 ?",
+    "options": [
+      "la mort d'Adolf Hitler",
+      "le début de la construction du Mur de Berlin",
+      "l'élection de Konrad Adenauer comme chancelier fédéral",
+      "la fin de la Seconde Guerre mondiale en Europe"
+    ]
+  },
+  "general-154": {
+    "question": "Quand la Seconde Guerre mondiale s'est-elle terminée ?",
+    "options": ["1933", "1945", "1949", "1961"]
+  },
+  "general-155": {
+    "question": "Quand les nationaux-socialistes étaient-ils au pouvoir en Allemagne ?",
+    "options": ["de 1888 à 1918", "de 1921 à 1934", "de 1933 à 1945", "de 1949 à 1963"]
+  },
+  "general-156": {
+    "question": "En quelle année Hitler est-il devenu chancelier du Reich ?",
+    "options": ["1923", "1927", "1933", "1936"]
+  },
+  "general-157": {
+    "question": "Les nationaux-socialistes, avec Adolf Hitler, ont instauré en 1933 en Allemagne …",
+    "options": ["une dictature.", "un État démocratique.", "une monarchie.", "une principauté."]
+  },
+  "general-158": {
+    "question": "Le « Troisième Reich » était …",
+    "options": ["une dictature.", "une démocratie.", "une monarchie.", "une république des conseils."]
+  },
+  "general-159": {
+    "question": "Qu'est-ce qui n'existait pas en Allemagne pendant la période du national-socialisme ?",
+    "options": ["des élections libres", "la censure de la presse", "des arrestations arbitraires", "la persécution des Juifs"]
+  },
+  "general-160": {
+    "question": "Quelle guerre a duré de 1939 à 1945 ?",
+    "options": ["la Première Guerre mondiale", "la Seconde Guerre mondiale", "la guerre du Viêt Nam", "la guerre du Golfe"]
+  },
+  "general-161": {
+    "question": "Qu'est-ce qui caractérisait l'État nazi ? Une politique …",
+    "options": [
+      "de racisme d'État",
+      "de liberté d'expression",
+      "de liberté de religion générale",
+      "de développement de la démocratie"
+    ]
+  },
+  "general-162": {
+    "question": "Claus Schenk Graf von Stauffenberg est devenu célèbre grâce à …",
+    "options": [
+      "une médaille d'or aux Jeux olympiques de 1936.",
+      "la construction du Reichstag.",
+      "la mise en place de la Wehrmacht.",
+      "l'attentat contre Hitler du 20 juillet 1944."
+    ]
+  },
+  "general-163": {
+    "question": "En quelle année les nationaux-socialistes ont-ils détruit des synagogues et des commerces juifs en Allemagne ?",
+    "options": ["1925", "1930", "1938", "1945"]
+  },
+  "general-164": {
+    "question": "Que s'est-il passé le 9 novembre 1938 en Allemagne ?",
+    "options": [
+      "L'attaque contre la Pologne marque le début de la Seconde Guerre mondiale.",
+      "Les nationaux-socialistes perdent une élection et dissolvent le Reichstag.",
+      "Des commerces juifs et des synagogues sont détruits par les nationaux-socialistes et leurs partisans.",
+      "Hitler devient président du Reich et fait interdire tous les partis."
+    ]
+  },
+  "general-165": {
+    "question": "Comment s'appelait le premier chancelier fédéral de la République fédérale d'Allemagne ?",
+    "options": ["Konrad Adenauer", "Kurt Georg Kiesinger", "Helmut Schmidt", "Willy Brandt"]
+  },
+  "general-166": {
+    "question": "Lors de quelles manifestations en Allemagne les gens ont-ils scandé « Wir sind das Volk » (Nous sommes le peuple) ?",
+    "options": [
+      "lors du soulèvement ouvrier de 1953 en RDA",
+      "lors des manifestations de 1968 en République fédérale d'Allemagne",
+      "lors des manifestations antinucléaires de 1985 en République fédérale d'Allemagne",
+      "lors des manifestations du lundi de 1989 en RDA"
+    ]
+  },
+  "general-167": {
+    "question": "Quels pays furent appelés les « puissances alliées d'occupation » en Allemagne après la Seconde Guerre mondiale ?",
+    "options": [
+      "Union soviétique, Grande-Bretagne, Pologne, Suède",
+      "France, Union soviétique, Italie, Japon",
+      "USA, Union soviétique, Espagne, Portugal",
+      "USA, Union soviétique, Grande-Bretagne, France"
+    ]
+  },
+  "general-168": {
+    "question": "Quel pays n'était pas une « puissance alliée d'occupation » en Allemagne ?",
+    "options": ["les USA", "l'Union soviétique", "la France", "le Japon"]
+  },
+  "general-169": {
+    "question": "Quand la République fédérale d'Allemagne a-t-elle été fondée ?",
+    "options": ["1939", "1945", "1949", "1951"]
+  },
+  "general-170": {
+    "question": "Qu'est-ce qui existait en Allemagne pendant la période du national-socialisme ?",
+    "options": [
+      "l'interdiction des partis",
+      "le droit au libre épanouissement de la personnalité",
+      "la liberté de la presse",
+      "la protection de la dignité humaine"
+    ]
+  },
+  "general-171": {
+    "question": "L'économie sociale de marché signifie que l'économie …",
+    "options": [
+      "se régule uniquement selon l'offre et la demande.",
+      "est planifiée et dirigée par l'État, sans tenir compte de l'offre et de la demande.",
+      "s'oriente selon la demande à l'étranger.",
+      "s'oriente selon l'offre et la demande, mais l'État veille à un équilibre social."
+    ]
+  },
+  "general-172": {
+    "question": "Dans quelle zone d'occupation la RDA a-t-elle été fondée ? Dans la zone d'occupation …",
+    "options": ["américaine", "française", "britannique", "soviétique"]
+  },
+  "general-173": {
+    "question": "La République fédérale d'Allemagne est un membre fondateur …",
+    "options": [
+      "de l'Organisation du traité de l'Atlantique Nord (OTAN).",
+      "des Nations unies (ONU).",
+      "de l'Union européenne (UE).",
+      "du pacte de Varsovie."
+    ]
+  },
+  "general-174": {
+    "question": "Quand la RDA a-t-elle été fondée ?",
+    "options": ["1947", "1949", "1953", "1956"]
+  },
+  "general-175": {
+    "question": "Combien de zones d'occupation y avait-il en Allemagne après la Seconde Guerre mondiale ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "general-176": {
+    "question": "Comment les zones d'occupation de l'Allemagne étaient-elles réparties après 1945 ?",
+    "options": [
+      "1=Grande-Bretagne, 2=Union soviétique, 3=France, 4=USA",
+      "1=Union soviétique, 2=Grande-Bretagne, 3=USA, 4=France",
+      "1=Grande-Bretagne, 2=Union soviétique, 3=USA, 4=France",
+      "1=Grande-Bretagne, 2=USA, 3=Union soviétique, 4=France"
+    ]
+  },
+  "general-177": {
+    "question": "Quelle ville allemande a été divisée en quatre secteurs après la Seconde Guerre mondiale ?",
+    "options": ["Munich", "Berlin", "Dresde", "Francfort-sur-l'Oder"]
+  },
+  "general-178": {
+    "question": "De juin 1948 à mai 1949, les citoyennes et citoyens de Berlin-Ouest ont été ravitaillés grâce à un pont aérien. Quelle circonstance en était responsable ?",
+    "options": [
+      "Pour la France, le ravitaillement de la population de Berlin-Ouest par avion était plus économique.",
+      "Les soldates et soldats américains avaient peur d'attaques lors du transport terrestre.",
+      "Pour la Grande-Bretagne, le ravitaillement par pont aérien était plus rapide.",
+      "L'Union soviétique a interrompu tout le trafic par voie terrestre."
+    ]
+  },
+  "general-179": {
+    "question": "Comment la Seconde Guerre mondiale s'est-elle officiellement terminée en Europe ?",
+    "options": [
+      "avec la mort d'Adolf Hitler",
+      "par la capitulation sans condition de l'Allemagne",
+      "avec le retrait des Allemands des territoires occupés",
+      "par une révolution en Allemagne"
+    ]
+  },
+  "general-180": {
+    "question": "Le premier chancelier fédéral de la République fédérale d'Allemagne était …",
+    "options": ["Ludwig Erhard.", "Willy Brandt.", "Konrad Adenauer.", "Gerhard Schröder."]
+  },
+  "general-181": {
+    "question": "Qu'a voulu exprimer Willy Brandt en s'agenouillant en 1970 dans l'ancien ghetto juif de Varsovie ?",
+    "options": [
+      "Il s'est soumis aux anciens Alliés.",
+      "Il a demandé pardon à la Pologne et aux Juifs polonais.",
+      "Il a montré son humilité devant le pacte de Varsovie.",
+      "Il a récité une prière sur la tombe du Soldat inconnu."
+    ]
+  },
+  "general-182": {
+    "question": "Comment s'appelle le lieu de prière juif ?",
+    "options": ["une basilique", "une mosquée", "une synagogue", "une église"]
+  },
+  "general-183": {
+    "question": "Quand a eu lieu le « miracle économique » (Wirtschaftswunder) en République fédérale d'Allemagne ?",
+    "options": ["dans les années 1940", "dans les années 1950", "dans les années 1970", "dans les années 1980"]
+  },
+  "general-184": {
+    "question": "Sur quelle base juridique l'État d'Israël a-t-il été fondé ?",
+    "options": [
+      "une résolution des Nations unies",
+      "une décision du congrès sioniste",
+      "une proposition du gouvernement fédéral",
+      "une proposition de l'URSS"
+    ]
+  },
+  "general-185": {
+    "question": "Que désignait l'expression « rideau de fer » ? L'isolement …",
+    "options": [
+      "du pacte de Varsovie face à l'Occident",
+      "de l'Allemagne du Nord face à l'Allemagne du Sud",
+      "de l'Allemagne nazie face aux Alliés",
+      "de l'Europe face aux USA"
+    ]
+  },
+  "general-186": {
+    "question": "En 1953, il y a eu en RDA un soulèvement dont un jour férié a longtemps commémoré le souvenir en République fédérale d'Allemagne. Quand était-ce ?",
+    "options": ["le 1er mai", "le 17 juin", "le 20 juillet", "le 9 novembre"]
+  },
+  "general-187": {
+    "question": "Quel État allemand avait un drapeau noir-rouge-or orné d'un marteau, d'un compas et d'une couronne d'épis ?",
+    "options": ["la Prusse", "la République fédérale d'Allemagne", "le « Troisième Reich »", "la RDA"]
+  },
+  "general-188": {
+    "question": "En quelle année le Mur de Berlin a-t-il été construit ?",
+    "options": ["1953", "1956", "1959", "1961"]
+  },
+  "general-189": {
+    "question": "Quand la RDA a-t-elle construit le Mur à Berlin ?",
+    "options": ["1919", "1933", "1961", "1990"]
+  },
+  "general-190": {
+    "question": "Que signifie l'abréviation RDA ?",
+    "options": [
+      "Troisième Radiodiffusion allemande",
+      "La République allemande",
+      "Troisième République allemande",
+      "République démocratique allemande"
+    ]
+  },
+  "general-191": {
+    "question": "Quand le Mur de Berlin a-t-il été ouvert pour tous ?",
+    "options": ["1987", "1989", "1992", "1995"]
+  },
+  "general-192": {
+    "question": "Quel Land allemand actuel appartenait autrefois au territoire de la RDA ?",
+    "options": ["le Brandebourg", "la Bavière", "la Sarre", "la Hesse"]
+  },
+  "general-193": {
+    "question": "De 1961 à 1989, Berlin était …",
+    "options": ["sans bourgmestre.", "un État à part entière.", "divisée par un mur.", "accessible seulement par avion."]
+  },
+  "general-194": {
+    "question": "Le 3 octobre, on fête en Allemagne le Jour de l'unité …",
+    "options": ["allemande.", "de la nation.", "des Länder.", "des villes."]
+  },
+  "general-195": {
+    "question": "Quel Land allemand actuel appartenait autrefois au territoire de la RDA ?",
+    "options": ["la Hesse", "la Saxe-Anhalt", "la Rhénanie-du-Nord-Westphalie", "la Sarre"]
+  },
+  "general-196": {
+    "question": "Pourquoi appelle-t-on l'automne 1989 en RDA « la Wende » (le tournant) ? Pendant cette période, la RDA a évolué politiquement …",
+    "options": [
+      "d'une dictature vers une démocratie.",
+      "d'une économie de marché libérale vers le socialisme.",
+      "d'une monarchie vers la social-démocratie.",
+      "d'un État religieux vers un État communiste."
+    ]
+  },
+  "general-197": {
+    "question": "Quel Land allemand actuel appartenait autrefois au territoire de la RDA ?",
+    "options": ["la Thuringe", "la Hesse", "la Bavière", "Brême"]
+  },
+  "general-198": {
+    "question": "Quel Land allemand actuel appartenait autrefois au territoire de la RDA ?",
+    "options": ["la Bavière", "la Basse-Saxe", "la Saxe", "le Bade-Wurtemberg"]
+  },
+  "general-199": {
+    "question": "Par l'abréviation « Stasi », on entendait en RDA …",
+    "options": ["le parlement.", "le ministère de la Sécurité d'État.", "un parti au pouvoir.", "le ministère de l'Éducation populaire."]
+  },
+  "general-200": {
+    "question": "Quel Land allemand actuel appartenait autrefois au territoire de la RDA ?",
+    "options": ["la Hesse", "le Schleswig-Holstein", "le Mecklembourg-Poméranie-Occidentale", "la Sarre"]
+  },
+  "general-201": {
+    "question": "Laquelle des listes suivantes ne contient que des Länder ayant appartenu au territoire de l'ancienne RDA ?",
+    "options": [
+      "Basse-Saxe, Rhénanie-du-Nord-Westphalie, Hesse, Schleswig-Holstein, Brandebourg",
+      "Mecklembourg-Poméranie-Occidentale, Brandebourg, Saxe, Saxe-Anhalt, Thuringe",
+      "Bavière, Bade-Wurtemberg, Rhénanie-Palatinat, Thuringe, Saxe",
+      "Saxe, Thuringe, Hesse, Basse-Saxe, Brandebourg"
+    ]
+  },
+  "general-202": {
+    "question": "À quel bloc appartenait la RDA pendant la « Guerre froide » ?",
+    "options": ["aux puissances occidentales", "au pacte de Varsovie", "à l'OTAN", "aux États non alignés"]
+  },
+  "general-203": {
+    "question": "Comment s'appelait le système économique de la RDA ?",
+    "options": ["l'économie de marché", "l'économie planifiée", "l'offre et la demande", "le capitalisme"]
+  },
+  "general-204": {
+    "question": "Comment la République fédérale d'Allemagne et la RDA sont-elles devenues un seul État ?",
+    "options": [
+      "La République fédérale a occupé la RDA.",
+      "Les cinq Länder de l'Est actuels ont adhéré à la République fédérale d'Allemagne.",
+      "Les Länder de l'Ouest ont adhéré à la RDA.",
+      "La RDA a occupé la République fédérale d'Allemagne."
+    ]
+  },
+  "general-205": {
+    "question": "Avec l'adhésion de la RDA à la République fédérale d'Allemagne, les nouveaux Länder appartiennent désormais aussi …",
+    "options": ["à l'Union européenne.", "au pacte de Varsovie.", "à l'OPEP.", "à la Communauté européenne de défense."]
+  },
+  "general-206": {
+    "question": "À quoi rappellent les « Stolpersteine » (pavés de mémoire) en Allemagne ?",
+    "options": [
+      "à de célèbres politiciennes et politiciens allemands",
+      "aux victimes du national-socialisme",
+      "aux victimes de la route",
+      "à des musiciennes et musiciens juifs célèbres"
+    ]
+  },
+  "general-207": {
+    "question": "Dans quelle alliance militaire la RDA était-elle membre ?",
+    "options": ["l'OTAN", "la Confédération du Rhin", "le pacte de Varsovie", "l'Alliance européenne"]
+  },
+  "general-208": {
+    "question": "Qu'était la « Stasi » ?",
+    "options": [
+      "le service secret du « Troisième Reich »",
+      "un célèbre mémorial allemand",
+      "le service secret de la RDA",
+      "un club sportif allemand pendant la Seconde Guerre mondiale"
+    ]
+  },
+  "general-209": {
+    "question": "Quel était l'emblème de la République démocratique allemande ?",
+    "options": [null, null, null, null]
+  },
+  "general-210": {
+    "question": "Que s'est-il passé le 17 juin 1953 en RDA ?",
+    "options": [
+      "l'adhésion solennelle au pacte de Varsovie",
+      "des grèves dans tout le pays et un soulèvement populaire",
+      "le 1er congrès du parti du SED",
+      "la première visite de Fidel Castro"
+    ]
+  },
+  "general-211": {
+    "question": "Quel homme politique est associé aux « traités de l'Est » (Ostverträge) ?",
+    "options": ["Helmut Kohl", "Willy Brandt", "Mikhaïl Gorbatchev", "Ludwig Erhard"]
+  },
+  "general-212": {
+    "question": "Quel est le nom complet de l'Allemagne ?",
+    "options": ["État fédéral d'Allemagne", "Länder d'Allemagne", "République fédérale d'Allemagne", "District fédéral d'Allemagne"]
+  },
+  "general-213": {
+    "question": "Combien d'habitants compte l'Allemagne ?",
+    "options": ["70 millions", "78 millions", "84 millions", "90 millions"]
+  },
+  "general-214": {
+    "question": "Quelles sont les couleurs du drapeau allemand ?",
+    "options": ["noir-rouge-or", "rouge-blanc-noir", "noir-rouge-vert", "noir-jaune-rouge"]
+  },
+  "general-215": {
+    "question": "Qui est surnommé le « chancelier de l'unité allemande » ?",
+    "options": ["Gerhard Schröder", "Helmut Kohl", "Konrad Adenauer", "Helmut Schmidt"]
+  },
+  "general-216": {
+    "question": "Quel symbole peut-on voir dans l'hémicycle du Bundestag allemand ?",
+    "options": ["l'aigle fédéral", "le drapeau de la ville de Berlin", "l'aigle impérial (Reichsadler)", "la couronne impériale"]
+  },
+  "general-217": {
+    "question": "Pendant quelle période a existé la République démocratique allemande (RDA) ?",
+    "options": ["de 1919 à 1927", "de 1933 à 1945", "de 1945 à 1961", "de 1949 à 1990"]
+  },
+  "general-218": {
+    "question": "Combien de Länder ont rejoint la République fédérale d'Allemagne lors de la réunification de 1990 ?",
+    "options": ["4", "5", "6", "7"]
+  },
+  "general-219": {
+    "question": "La République fédérale d'Allemagne a ses frontières actuelles depuis …",
+    "options": ["1933", "1949", "1971", "1990"]
+  },
+  "general-220": {
+    "question": "Le 27 janvier est en Allemagne une journée commémorative officielle. À quoi cette journée rappelle-t-elle ?",
+    "options": [
+      "à la fin de la Seconde Guerre mondiale",
+      "à l'adoption de la Loi fondamentale",
+      "à la réunification de l'Allemagne",
+      "aux victimes du national-socialisme (jour de la libération du camp d'extermination d'Auschwitz)"
+    ]
+  },
+  "general-221": {
+    "question": "L'Allemagne est membre des accords de Schengen. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Les Allemandes et Allemands peuvent voyager dans de nombreux pays d'Europe sans contrôle de passeport.",
+      "Toute personne peut entrer en Allemagne sans contrôle d'identité.",
+      "Les Allemandes et Allemands peuvent voyager dans tous les pays sans contrôle de passeport.",
+      "Les Allemandes et Allemands peuvent payer en euros dans tous les pays."
+    ]
+  },
+  "general-222": {
+    "question": "Quel pays est un pays voisin de l'Allemagne ?",
+    "options": ["la Hongrie", "le Portugal", "l'Espagne", "la Suisse"]
+  },
+  "general-223": {
+    "question": "Quel pays est un pays voisin de l'Allemagne ?",
+    "options": ["la Roumanie", "la Bulgarie", "la Pologne", "la Grèce"]
+  },
+  "general-224": {
+    "question": "Que signifie l'abréviation UE ?",
+    "options": ["Entreprises européennes", "Union européenne", "Union unifiée", "Union de l'euro"]
+  },
+  "general-225": {
+    "question": "Dans quel autre pays trouve-t-on une importante population germanophone ?",
+    "options": ["la Tchéquie", "la Norvège", "l'Espagne", "l'Autriche"]
+  },
+  "general-226": {
+    "question": "Quel est le drapeau de l'Union européenne ?",
+    "options": [null, null, null, null]
+  },
+  "general-227": {
+    "question": "Quel pays est un pays voisin de l'Allemagne ?",
+    "options": ["la Finlande", "le Danemark", "la Norvège", "la Suède"]
+  },
+  "general-228": {
+    "question": "Comment appelle-t-on généralement l'adhésion de la RDA à la République fédérale d'Allemagne en 1990 ?",
+    "options": ["l'élargissement de l'OTAN vers l'Est", "l'élargissement de l'UE vers l'Est", "la réunification allemande", "la Communauté européenne"]
+  },
+  "general-229": {
+    "question": "Quel pays est un pays voisin de l'Allemagne ?",
+    "options": ["l'Espagne", "la Bulgarie", "la Norvège", "le Luxembourg"]
+  },
+  "general-230": {
+    "question": "Le Parlement européen est élu régulièrement, tous les …",
+    "options": ["5 ans.", "6 ans.", "7 ans.", "8 ans."]
+  },
+  "general-231": {
+    "question": "Que signifie le terme « intégration européenne » ?",
+    "options": [
+      "Cela désigne les immigrées et immigrés américains en Europe.",
+      "Ce terme désigne l'arrêt de l'immigration vers l'Europe.",
+      "Cela désigne les émigrées et émigrés européens vers les USA.",
+      "Ce terme désigne le rassemblement des États européens au sein de l'UE."
+    ]
+  },
+  "general-232": {
+    "question": "Qui est élu lors des élections européennes ?",
+    "options": [
+      "la Commission européenne",
+      "les pays autorisés à adhérer à l'UE",
+      "les député(e)s du Parlement européen",
+      "la Constitution européenne"
+    ]
+  },
+  "general-233": {
+    "question": "Quel pays est un pays voisin de l'Allemagne ?",
+    "options": ["la Tchéquie", "la Bulgarie", "la Grèce", "le Portugal"]
+  },
+  "general-234": {
+    "question": "Où le Parlement européen a-t-il un siège ?",
+    "options": ["Londres", "Paris", "Berlin", "Strasbourg"]
+  },
+  "general-235": {
+    "question": "Le président français de l'époque, François Mitterrand, et le chancelier fédéral allemand de l'époque, Helmut Kohl, commémorent ensemble à Verdun les morts des deux guerres mondiales. Quel objectif de l'Union européenne apparaît clairement lors de cette rencontre ?",
+    "options": [
+      "l'amitié entre l'Angleterre et l'Allemagne",
+      "la liberté de voyager dans tous les pays de l'UE",
+      "la paix et la sécurité dans les pays de l'UE",
+      "des jours fériés uniformes dans les pays de l'UE"
+    ]
+  },
+  "general-236": {
+    "question": "Combien d'États membres compte l'UE aujourd'hui ?",
+    "options": ["21", "23", "25", "27"]
+  },
+  "general-237": {
+    "question": "En 2007, on a célébré le 50e anniversaire des « traités de Rome ». Quel était le contenu de ces traités ?",
+    "options": [
+      "l'adhésion de l'Allemagne à l'OTAN",
+      "la fondation de la Communauté économique européenne (CEE)",
+      "l'engagement de l'Allemagne à verser des réparations",
+      "la fixation de la ligne Oder-Neisse comme frontière orientale"
+    ]
+  },
+  "general-238": {
+    "question": "Dans quelles villes le Parlement européen travaille-t-il ?",
+    "options": ["Paris, Londres et La Haye", "Strasbourg, Luxembourg et Bruxelles", "Rome, Berne et Vienne", "Bonn, Zurich et Milan"]
+  },
+  "general-239": {
+    "question": "Par quels traités la République fédérale d'Allemagne s'est-elle associée à d'autres États pour former la Communauté économique européenne ?",
+    "options": [
+      "les « traités de Hambourg »",
+      "les « traités de Rome »",
+      "les « traités de Paris »",
+      "les « traités de Londres »"
+    ]
+  },
+  "general-240": {
+    "question": "Depuis quand paie-t-on en Allemagne en espèces avec l'euro ?",
+    "options": ["1995", "1998", "2002", "2005"]
+  },
+  "general-241": {
+    "question": "Madame Seger attend un enfant. Que doit-elle faire pour obtenir l'allocation parentale ?",
+    "options": [
+      "Elle doit écrire à sa caisse d'assurance maladie.",
+      "Elle doit déposer une demande auprès du service des allocations parentales.",
+      "Elle n'a rien à faire, car elle reçoit automatiquement l'allocation parentale.",
+      "Elle doit demander l'autorisation de l'agence pour l'emploi."
+    ]
+  },
+  "general-242": {
+    "question": "Qui décide si un enfant va à la crèche/au jardin d'enfants en Allemagne ?",
+    "options": ["l'État", "les Länder", "les parents/les représentants légaux", "les écoles"]
+  },
+  "general-243": {
+    "question": "Maik et Sybille veulent organiser avec des amis une manifestation dans les rues de leur commune en Allemagne. Que doivent-ils faire au préalable ?",
+    "options": [
+      "Ils doivent déclarer la manifestation.",
+      "Ils n'ont rien à faire. En Allemagne, on peut manifester partout et à tout moment.",
+      "Ils ne peuvent rien faire, car les manifestations sont en principe interdites en Allemagne.",
+      "Maik et Sybille doivent créer une nouvelle association, car seules les associations ont le droit de manifester."
+    ]
+  },
+  "general-244": {
+    "question": "Quel diplôme scolaire faut-il normalement pour commencer des études universitaires en Allemagne ?",
+    "options": ["le baccalauréat (Abitur)", "un diplôme (Diplom)", "la procuration (Prokura)", "un examen de fin d'apprentissage (Gesellenprüfung)"]
+  },
+  "general-245": {
+    "question": "Qui n'a pas le droit de vivre en couple en Allemagne ?",
+    "options": ["Hans (20 ans) et Marie (19 ans)", "Tom (20 ans) et Klaus (45 ans)", "Sofie (35 ans) et Lisa (40 ans)", "Anne (13 ans) et Tim (25 ans)"]
+  },
+  "general-246": {
+    "question": "À partir de quel âge est-on majeur en Allemagne ?",
+    "options": ["16", "18", "19", "21"]
+  },
+  "general-247": {
+    "question": "Une femme est enceinte. Elle est particulièrement protégée par la loi peu avant et après la naissance de son enfant. Comment appelle-t-on cette protection ?",
+    "options": ["le congé parental", "la protection de la maternité", "la préparation à l'accouchement", "les suites de couches"]
+  },
+  "general-248": {
+    "question": "En Allemagne, l'éducation des enfants est avant tout la mission …",
+    "options": ["de l'État.", "des parents.", "des grands-parents.", "des écoles."]
+  },
+  "general-249": {
+    "question": "Qui est principalement responsable de l'éducation des enfants en Allemagne ?",
+    "options": ["l'État", "les parents", "les proches", "les écoles"]
+  },
+  "general-250": {
+    "question": "En Allemagne, on a les meilleures chances d'obtenir un emploi bien rémunéré lorsqu'on …",
+    "options": ["est catholique.", "est bien formé(e).", "est une femme.", "est membre d'un parti."]
+  },
+  "general-251": {
+    "question": "Si l'on frappe un enfant en Allemagne, …",
+    "options": [
+      "cela ne regarde personne.",
+      "cela ne regarde que la famille.",
+      "on ne peut pas être puni(e) pour cela.",
+      "on peut être puni(e) pour cela."
+    ]
+  },
+  "general-252": {
+    "question": "En Allemagne, …",
+    "options": [
+      "on ne peut être marié(e) qu'avec une seule/un seul partenaire à la fois.",
+      "on peut avoir plusieurs conjoint(e)s en même temps.",
+      "on ne peut pas se remarier si on a déjà été marié(e).",
+      "une femme ne peut pas se remarier si son mari est décédé."
+    ]
+  },
+  "general-253": {
+    "question": "Où devez-vous vous inscrire lorsque vous déménagez en Allemagne ?",
+    "options": ["au bureau de déclaration de domicile", "au bureau d'état civil", "au service de l'ordre public", "au bureau du commerce"]
+  },
+  "general-254": {
+    "question": "En Allemagne, les couples mariés peuvent divorcer. Ils doivent généralement respecter « l'année de séparation ». Que signifie cela ?",
+    "options": [
+      "La procédure de divorce dure un an.",
+      "Les époux sont mariés pendant un an, puis le divorce est possible.",
+      "Le droit de visite pour les enfants s'applique pendant un an.",
+      "Les époux vivent séparément et mènent chacun leur propre vie pendant au moins un an. Ensuite, le divorce est possible."
+    ]
+  },
+  "general-255": {
+    "question": "En cas de problèmes éducatifs, les parents en Allemagne peuvent obtenir de l'aide auprès …",
+    "options": ["du service de l'ordre public.", "du service scolaire.", "de l'office de la jeunesse.", "du service de santé."]
+  },
+  "general-256": {
+    "question": "Un couple souhaite ouvrir un restaurant en Allemagne. Qu'est-ce qui est absolument nécessaire pour cela ?",
+    "options": [
+      "une autorisation de la police",
+      "une autorisation d'un parti",
+      "une autorisation du bureau de déclaration de domicile",
+      "une licence de restauration délivrée par l'autorité compétente"
+    ]
+  },
+  "general-257": {
+    "question": "Une femme adulte souhaite obtenir a posteriori le baccalauréat (Abitur) en Allemagne. Elle peut le faire …",
+    "options": ["dans une haute école (Hochschule).", "dans un lycée du soir (Abendgymnasium).", "dans une Hauptschule.", "dans une université privée."]
+  },
+  "general-258": {
+    "question": "Que peut faire l'office de la jeunesse en Allemagne ?",
+    "options": [
+      "Il décide quelle école l'enfant fréquente.",
+      "Il peut retirer de sa famille un enfant qui est battu ou affamé.",
+      "Il verse les allocations familiales aux parents.",
+      "Il contrôle si l'enfant fréquente un jardin d'enfants."
+    ]
+  },
+  "general-259": {
+    "question": "Le centre d'information professionnelle (BIZ) de l'Agence fédérale pour l'emploi en Allemagne aide à …",
+    "options": ["calculer la retraite.", "chercher une place d'apprentissage.", "faire sa déclaration d'impôts.", "trouver une assurance maladie."]
+  },
+  "general-260": {
+    "question": "En Allemagne, un enfant a à l'école …",
+    "options": ["le droit à des loisirs illimités.", "la liberté de choisir toutes les matières.", "le droit à des frais de scolarité.", "l'obligation de présence."]
+  },
+  "general-261": {
+    "question": "Un homme souhaite, à 30 ans, obtenir a posteriori son baccalauréat (Abitur) en Allemagne. Où peut-il le faire ? Dans …",
+    "options": ["une haute école (Hochschule).", "un lycée du soir (Abendgymnasium).", "une Hauptschule.", "une université privée."]
+  },
+  "general-262": {
+    "question": "Que signifie en Allemagne le principe d'égalité de traitement ?",
+    "options": [
+      "Personne ne doit être désavantagé(e), par exemple, en raison d'un handicap.",
+      "On peut désavantager d'autres personnes si l'on a des raisons personnelles suffisantes.",
+      "Personne ne peut porter plainte contre des personnes qui ont subi un désavantage.",
+      "Il est prescrit à tous de faire un don annuel aux groupes désavantagés."
+    ]
+  },
+  "general-263": {
+    "question": "En Allemagne, les jeunes sont pénalement responsables à partir de 14 ans. Cela signifie que les jeunes de 14 ans et plus qui enfreignent les lois pénales …",
+    "options": ["sont punis.", "sont traités comme des adultes.", "partagent la peine avec leurs parents.", "ne sont pas punis."]
+  },
+  "general-264": {
+    "question": "Pour quelle fête les gens en Allemagne portent-ils des costumes et des masques colorés ?",
+    "options": ["le lundi des Roses (Rosenmontag)", "le 1er mai", "à la fête de la bière (Oktoberfest)", "à la Pentecôte"]
+  },
+  "general-265": {
+    "question": "Où faut-il d'abord se rendre en Allemagne quand on veut se marier ?",
+    "options": ["au bureau de déclaration de domicile", "au service de l'ordre public", "à l'agence pour l'emploi", "au bureau d'état civil"]
+  },
+  "general-266": {
+    "question": "Quand commence le repos nocturne légal en Allemagne ?",
+    "options": ["quand le soleil se couche", "quand les voisins vont se coucher", "à 0 heure, minuit", "à 22 heures"]
+  },
+  "general-267": {
+    "question": "Une jeune femme en Allemagne, âgée de 22 ans, vit avec son petit ami. Les parents de la femme trouvent cela mal, car ils n'apprécient pas le petit ami. Que peuvent faire les parents ?",
+    "options": [
+      "Ils doivent respecter la décision de leur fille majeure.",
+      "Ils ont le droit de ramener leur fille au domicile parental.",
+      "Ils peuvent aller à la police et dénoncer leur fille.",
+      "Ils cherchent un autre homme pour leur fille."
+    ]
+  },
+  "general-268": {
+    "question": "Une jeune femme veut passer son permis de conduire. Elle a peur de l'examen car sa langue maternelle n'est pas l'allemand. Qu'est-ce qui est exact ?",
+    "options": [
+      "Elle doit vivre au moins dix ans en Allemagne avant de pouvoir passer son permis.",
+      "Si elle ne parle pas allemand, elle ne peut pas avoir de permis.",
+      "Elle doit passer son permis dans le pays où l'on parle sa langue.",
+      "Elle peut peut-être passer l'examen théorique dans sa langue maternelle. Plus de dix langues sont proposées."
+    ]
+  },
+  "general-269": {
+    "question": "En Allemagne, les enfants âgés de trois ans jusqu'à leur première scolarisation ont droit à …",
+    "options": ["de l'argent de poche mensuel.", "une place dans un club sportif.", "une place en crèche/jardin d'enfants.", "un passeport vacances."]
+  },
+  "general-270": {
+    "question": "L'université populaire (Volkshochschule) en Allemagne est un établissement …",
+    "options": ["destiné à l'enseignement religieux.", "réservé aux jeunes.", "de formation continue.", "réservé aux retraitées et retraités."]
+  },
+  "general-271": {
+    "question": "Quelle est une coutume à Noël en Allemagne ?",
+    "options": ["cacher des œufs colorés", "décorer un sapin de Noël", "se déguiser avec des masques et des costumes", "déposer des citrouilles devant la porte"]
+  },
+  "general-272": {
+    "question": "Quel mode de vie n'est pas autorisé en Allemagne ?",
+    "options": [
+      "Un homme et une femme sont divorcés et vivent avec de nouveaux partenaires.",
+      "Deux femmes vivent ensemble.",
+      "Un père célibataire vit avec ses deux enfants.",
+      "Un homme est marié à deux femmes en même temps."
+    ]
+  },
+  "general-273": {
+    "question": "En cas de problèmes éducatifs, en Allemagne, vous vous adressez …",
+    "options": ["à la/au médecin.", "au service de santé.", "au bureau de déclaration de domicile.", "à l'office de la jeunesse."]
+  },
+  "general-274": {
+    "question": "Vous avez ouvert intentionnellement en Allemagne une lettre adressée à une autre personne. Qu'avez-vous ignoré ?",
+    "options": ["le droit de se taire", "le secret de la correspondance", "l'obligation de garder le silence", "la liberté d'expression"]
+  },
+  "general-275": {
+    "question": "De quoi a-t-on besoin en Allemagne pour un divorce ?",
+    "options": ["le consentement des parents", "un certificat médical", "le consentement des enfants", "le soutien d'une avocate/un avocat"]
+  },
+  "general-276": {
+    "question": "Que devriez-vous faire si vous êtes mal traité(e) par votre interlocutrice/interlocuteur dans une administration allemande ?",
+    "options": [
+      "Je ne peux rien faire.",
+      "Je dois accepter ce traitement.",
+      "Je menace la personne.",
+      "Je peux me plaindre auprès de la direction de l'administration."
+    ]
+  },
+  "general-277": {
+    "question": "Une femme ayant un enfant de deux ans postule pour un emploi en Allemagne. Qu'est-ce qu'un exemple de discrimination ? Elle n'obtient pas le poste uniquement parce qu'elle …",
+    "options": ["ne parle pas anglais.", "a des prétentions salariales trop élevées.", "n'a pas d'expérience dans ce métier.", "est mère."]
+  },
+  "general-278": {
+    "question": "Un homme en fauteuil roulant a postulé pour un poste de comptable. Qu'est-ce qu'un exemple de discrimination ? Il n'obtient pas le poste uniquement parce qu'il …",
+    "options": ["est en fauteuil roulant.", "n'a pas d'expérience.", "a des prétentions salariales trop élevées.", "ne parle pas anglais."]
+  },
+  "general-279": {
+    "question": "Dans la plupart des immeubles locatifs en Allemagne, il existe un « règlement intérieur » (Hausordnung). Qu'est-ce qui figure dans un tel règlement ? Il indique …",
+    "options": [
+      "les règles d'utilisation des transports en commun.",
+      "toutes les locataires et tous les locataires de l'immeuble.",
+      "les règles que tous les habitants de l'immeuble doivent respecter.",
+      "l'adresse du service de l'ordre public le plus proche."
+    ]
+  },
+  "general-280": {
+    "question": "Si vous voulez contester un avis d'imposition erroné en Allemagne, vous devez …",
+    "options": ["ne rien faire.", "jeter l'avis.", "faire une réclamation.", "attendre qu'un autre avis arrive."]
+  },
+  "general-281": {
+    "question": "Deux amis veulent se rendre dans une piscine publique en Allemagne. Tous deux ont la peau foncée et ne sont pour cette raison pas admis. Quel droit est violé dans cette situation ? Le droit à …",
+    "options": ["la liberté d'expression", "l'égalité de traitement", "la liberté de réunion", "la libre circulation"]
+  },
+  "general-282": {
+    "question": "Quelle fonction honorifique les citoyennes et citoyens allemands doivent-ils accepter s'ils y sont invités ?",
+    "options": ["entraîneuse/entraîneur d'association", "assesseure/assesseur électoral(e)", "surveillance de bibliothèque", "enseignante/enseignant"]
+  },
+  "general-283": {
+    "question": "Que faites-vous si vous recevez une facture erronée d'une administration allemande ?",
+    "options": [
+      "Je laisse la facture de côté.",
+      "Je fais une réclamation auprès de l'administration.",
+      "Je renvoie la facture à l'administration.",
+      "Je vais avec la facture au bureau des impôts."
+    ]
+  },
+  "general-284": {
+    "question": "Ce qu'il faut savoir pour travailler évolue très vite à l'avenir. Que peut-on faire ?",
+    "options": [
+      "Peu importe ce que l'on apprend.",
+      "Les adultes doivent continuer à se former même après leur formation initiale.",
+      "Les enfants apprennent à l'école tout ce qui est important pour leur métier. Après l'école, il n'est plus nécessaire d'apprendre.",
+      "Tout le monde doit arrêter de travailler plus tôt, car tout change."
+    ]
+  },
+  "general-285": {
+    "question": "Madame Frost travaille comme employée en contrat à durée indéterminée dans un bureau. Que n'a-t-elle pas à payer sur son salaire ?",
+    "options": ["l'impôt sur les salaires", "les cotisations à l'assurance chômage", "les cotisations aux assurances retraite et maladie", "la taxe sur le chiffre d'affaires"]
+  },
+  "general-286": {
+    "question": "Quelle organisation dans une entreprise aide les salariées et salariés en cas de problèmes avec l'employeuse/employeur ?",
+    "options": ["le comité d'entreprise", "l'auditrice/l'auditeur d'entreprise", "le groupe d'entreprise", "la direction d'entreprise"]
+  },
+  "general-287": {
+    "question": "Vous souhaitez mettre fin à votre relation de travail dans une entreprise en Allemagne. Qu'est-ce que vous devez respecter ?",
+    "options": ["les versements de salaire", "le temps de travail", "le délai de préavis", "l'obligation d'assurance"]
+  },
+  "general-288": {
+    "question": "D'où vient la responsabilité particulière de l'Allemagne envers Israël ?",
+    "options": [
+      "de l'appartenance à l'Union européenne (UE)",
+      "des crimes nationaux-socialistes contre les Juifs",
+      "de la Loi fondamentale de la République fédérale d'Allemagne",
+      "de la tradition chrétienne"
+    ]
+  },
+  "general-289": {
+    "question": "Un homme à la peau foncée postule pour un poste de serveur dans un restaurant en Allemagne. Qu'est-ce qu'un exemple de discrimination ? Il n'obtient pas le poste uniquement parce que …",
+    "options": [
+      "ses connaissances d'allemand sont trop faibles.",
+      "il a des prétentions salariales trop élevées.",
+      "il a la peau foncée.",
+      "il n'a pas d'expérience dans ce métier."
+    ]
+  },
+  "general-290": {
+    "question": "Vous avez acheté un téléviseur en Allemagne. Vous le déballez chez vous, mais il ne fonctionne pas. Le téléviseur est défectueux. Que pouvez-vous faire ?",
+    "options": ["rédiger une plainte pénale", "réclamer le remplacement du téléviseur", "échanger l'appareil sans en informer personne", "prolonger la garantie"]
+  },
+  "general-291": {
+    "question": "Pourquoi doit-on, en Allemagne, indiquer dans sa déclaration d'impôts si l'on appartient ou non à une Église ? Parce que …",
+    "options": [
+      "il existe un impôt cultuel lié à l'impôt sur le revenu et sur les salaires.",
+      "cela est important pour les statistiques en Allemagne.",
+      "on doit payer plus d'impôts si l'on n'appartient pas à une Église.",
+      "l'Église est responsable de la déclaration d'impôts."
+    ]
+  },
+  "general-292": {
+    "question": "Les gens en Allemagne vivent selon le principe de la tolérance religieuse. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Il est interdit de construire des mosquées.",
+      "Tous les gens croient en Dieu.",
+      "Chacun peut croire ce qu'il veut.",
+      "L'État décide en quel dieu les gens doivent croire."
+    ]
+  },
+  "general-293": {
+    "question": "Quelle est une coutume à Pâques en Allemagne ?",
+    "options": ["déposer des citrouilles devant la porte", "décorer un sapin de Noël", "peindre des œufs", "tirer des fusées dans le ciel"]
+  },
+  "general-294": {
+    "question": "La Pentecôte est …",
+    "options": ["une fête chrétienne.", "une journée commémorative allemande.", "une journée de deuil internationale.", "une coutume bavaroise."]
+  },
+  "general-295": {
+    "question": "Quelle religion a façonné la culture européenne et allemande ?",
+    "options": ["l'hindouisme", "le christianisme", "le bouddhisme", "l'islam"]
+  },
+  "general-296": {
+    "question": "En Allemagne, on appelle les quatre dernières semaines avant Noël …",
+    "options": ["le jour de pénitence et de prière (Buß- und Bettag).", "la fête des récoltes (Erntedankfest).", "l'Avent.", "la Toussaint."]
+  },
+  "general-297": {
+    "question": "De quel pays viennent la plupart des migrantes et migrants venus en Allemagne ?",
+    "options": ["l'Italie", "la Pologne", "le Maroc", "la Turquie"]
+  },
+  "general-298": {
+    "question": "En RDA vivaient surtout des migrantes et migrants venus …",
+    "options": ["du Vietnam, de Pologne, du Mozambique.", "de France, de Roumanie, de Somalie.", "du Chili, de Hongrie, du Zimbabwe.", "de Corée du Nord, du Mexique, d'Égypte."]
+  },
+  "general-299": {
+    "question": "Comment appelait-on les travailleuses et travailleurs étrangers recrutés par la République fédérale d'Allemagne dans les années 1950 et 1960 ?",
+    "options": ["des travailleuses/travailleurs au noir.", "des travailleuses/travailleurs invités (Gastarbeiter).", "des intérimaires.", "des travailleuses/travailleurs postés."]
+  },
+  "general-300": {
+    "question": "De quel pays venaient les premières travailleuses et premiers travailleurs invités en République fédérale d'Allemagne ?",
+    "options": ["l'Italie", "l'Espagne", "le Portugal", "la Turquie"]
+  },
+  "baden-wuerttemberg-1": {
+    "question": "Quelles armoiries appartiennent au Land de Bade-Wurtemberg ?",
+    "options": [null, null, null, null]
+  },
+  "baden-wuerttemberg-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural du Bade-Wurtemberg ?",
+    "options": ["Mecklenburgische Seenplatte", "Neckar-Odenwald-Kreis", "Nordfriesland", "Altötting"]
+  },
+  "baden-wuerttemberg-3": {
+    "question": "Pour combien d'années le Landtag est-il élu au Bade-Wurtemberg ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "baden-wuerttemberg-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales au Bade-Wurtemberg ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "baden-wuerttemberg-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Bade-Wurtemberg ?",
+    "options": ["bleu-blanc-rouge", "noir-or", "blanc-bleu", "vert-blanc-rouge"]
+  },
+  "baden-wuerttemberg-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques au Bade-Wurtemberg ?",
+    "options": [
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès des Églises"
+    ]
+  },
+  "baden-wuerttemberg-7": {
+    "question": "La capitale du Land de Bade-Wurtemberg est …",
+    "options": ["Heidelberg.", "Stuttgart.", "Karlsruhe.", "Mannheim."]
+  },
+  "baden-wuerttemberg-8": {
+    "question": "Quel est le numéro du Land de Bade-Wurtemberg sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "baden-wuerttemberg-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement du Bade-Wurtemberg ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "baden-wuerttemberg-10": {
+    "question": "Quel ministère le Land de Bade-Wurtemberg n'a-t-il pas ?",
+    "options": ["Ministre des Finances", "Ministre de la Justice", "Ministre de l'Intérieur", "Ministre des Affaires étrangères"]
+  },
+  "bayern-1": {
+    "question": "Quelles armoiries appartiennent à l'État libre de Bavière ?",
+    "options": [null, null, null, null]
+  },
+  "bayern-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Bavière ?",
+    "options": ["Prignitz", "Rhein-Sieg-Kreis", "Nordfriesland", "Altötting"]
+  },
+  "bayern-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Bavière ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "bayern-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Bavière ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "bayern-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Bavière ?",
+    "options": ["bleu-blanc-rouge", "blanc-bleu", "vert-blanc-rouge", "noir-jaune"]
+  },
+  "bayern-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Bavière ?",
+    "options": [
+      "auprès du service de l'ordre public de la commune",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du centre de défense des consommateurs",
+      "auprès des Églises"
+    ]
+  },
+  "bayern-7": {
+    "question": "La capitale du Land de Bavière est …",
+    "options": ["Ingolstadt.", "Ratisbonne.", "Nuremberg.", "Munich."]
+  },
+  "bayern-8": {
+    "question": "Quel est le numéro du Land de Bavière sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "bayern-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Bavière ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "bayern-10": {
+    "question": "Quel ministère le Land de Bavière n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "berlin-1": {
+    "question": "Quelles armoiries appartiennent au Land de Berlin ?",
+    "options": [null, null, null, null]
+  },
+  "berlin-2": {
+    "question": "Lequel des éléments suivants est un arrondissement (Bezirk) de Berlin ?",
+    "options": ["Altona", "Prignitz", "Pankow", "Mecklenburgische Seenplatte"]
+  },
+  "berlin-3": {
+    "question": "Pour combien d'années le parlement du Land est-il élu à Berlin ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "berlin-4": {
+    "question": "À partir de quel âge peut-on voter à Berlin aux élections communales (élection de l'assemblée d'arrondissement) ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "berlin-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Berlin ?",
+    "options": ["bleu-blanc-rouge", "blanc-rouge", "vert-blanc-rouge", "noir-or"]
+  },
+  "berlin-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques à Berlin ?",
+    "options": [
+      "auprès du service de l'ordre public de la commune",
+      "auprès des Églises",
+      "auprès du centre de défense des consommateurs",
+      "auprès de l'Agence régionale pour l'éducation civique"
+    ]
+  },
+  "berlin-7": {
+    "question": "Quel Land est une ville-État ?",
+    "options": ["Berlin", "la Sarre", "le Brandebourg", "la Hesse"]
+  },
+  "berlin-8": {
+    "question": "Quel est le numéro du Land de Berlin sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "berlin-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement de la ville-État de Berlin ?",
+    "options": ["Ministre-président(e)", "Maire principal(e) (Oberbürgermeister)", "Président(e) du Sénat", "Bourgmestre-gouverneur(e) (Regierender Bürgermeister)"]
+  },
+  "berlin-10": {
+    "question": "Quel sénateur/quelle sénatrice le Land de Berlin n'a-t-il pas ?",
+    "options": ["Sénateur/Sénatrice des Finances", "Sénateur/Sénatrice de l'Intérieur", "Sénateur/Sénatrice aux Relations extérieures", "Sénateur/Sénatrice de la Justice"]
+  },
+  "brandenburg-1": {
+    "question": "Quelles armoiries appartiennent au Land de Brandebourg ?",
+    "options": [null, null, null, null]
+  },
+  "brandenburg-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural dans le Brandebourg ?",
+    "options": ["Prignitz", "Rhein-Sieg-Kreis", "Vogtlandkreis", "Amberg-Sulzbach"]
+  },
+  "brandenburg-3": {
+    "question": "Pour combien d'années le Landtag est-il élu dans le Brandebourg ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "brandenburg-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales dans le Brandebourg ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "brandenburg-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Brandebourg ?",
+    "options": ["bleu-blanc-rouge", "rouge-blanc", "vert-blanc-rouge", "noir-jaune"]
+  },
+  "brandenburg-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques dans le Brandebourg ?",
+    "options": [
+      "auprès des Églises",
+      "auprès du service de l'ordre public de la commune",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du centre de défense des consommateurs"
+    ]
+  },
+  "brandenburg-7": {
+    "question": "La capitale du Land de Brandebourg est …",
+    "options": ["Potsdam.", "Cottbus.", "Brandebourg-sur-la-Havel.", "Francfort-sur-l'Oder."]
+  },
+  "brandenburg-8": {
+    "question": "Quel est le numéro du Land de Brandebourg sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "brandenburg-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement dans le Brandebourg ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "brandenburg-10": {
+    "question": "Quel ministère le Land de Brandebourg n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "bremen-1": {
+    "question": "Quelles armoiries appartiennent à la ville hanséatique libre de Brême ?",
+    "options": [null, null, null, null]
+  },
+  "bremen-2": {
+    "question": "Lequel des éléments suivants est un quartier de Brême ?",
+    "options": ["Altona", "Hemelingen", "Pankow", "Babelsberg"]
+  },
+  "bremen-3": {
+    "question": "Pour combien d'années le parlement du Land est-il élu à Brême ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "bremen-4": {
+    "question": "À partir de quel âge peut-on voter à Brême aux élections de la Bürgerschaft (Landtag) ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "bremen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Brême ?",
+    "options": ["bleu-blanc-rouge", "rouge-blanc", "vert-blanc-rouge", "noir-or"]
+  },
+  "bremen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques à Brême ?",
+    "options": [
+      "auprès du service de l'ordre public de la commune",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès des Églises",
+      "auprès du centre de défense des consommateurs"
+    ]
+  },
+  "bremen-7": {
+    "question": "Qu'est-ce qu'une ville-État allemande ?",
+    "options": ["Brême", "Munich", "Francfort", "Erfurt"]
+  },
+  "bremen-8": {
+    "question": "Quel est le numéro du Land de Brême sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "bremen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement de la ville-État de Brême ?",
+    "options": ["Ministre-président(e)", "Premier(ère) bourgmestre", "Président(e) du Sénat", "Bourgmestre-gouverneur(e)"]
+  },
+  "bremen-10": {
+    "question": "Quel sénateur/quelle sénatrice Brême n'a-t-il pas ?",
+    "options": ["Sénateur/Sénatrice aux Relations extérieures", "Sénateur/Sénatrice des Finances", "Sénateur/Sénatrice de la Justice", "Sénateur/Sénatrice de l'Intérieur"]
+  },
+  "hamburg-1": {
+    "question": "Quelles armoiries appartiennent à la ville libre et hanséatique de Hambourg ?",
+    "options": [null, null, null, null]
+  },
+  "hamburg-2": {
+    "question": "Lequel des éléments suivants est un arrondissement (Bezirk) de Hambourg ?",
+    "options": ["Altona", "Hemelingen", "Pankow", "Mecklenburgische Seenplatte"]
+  },
+  "hamburg-3": {
+    "question": "Pour combien d'années le parlement du Land est-il élu à Hambourg ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "hamburg-4": {
+    "question": "À partir de quel âge peut-on voter à Hambourg aux élections communales (élection des assemblées d'arrondissement) ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "hamburg-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Hambourg ?",
+    "options": ["bleu-blanc-rouge", "blanc-rouge", "vert-blanc-rouge", "noir-jaune"]
+  },
+  "hamburg-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques à Hambourg ?",
+    "options": [
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs",
+      "auprès des Églises",
+      "auprès de l'Agence régionale pour l'éducation civique"
+    ]
+  },
+  "hamburg-7": {
+    "question": "Quel Land est une ville-État ?",
+    "options": ["Hambourg", "la Saxe", "la Bavière", "la Thuringe"]
+  },
+  "hamburg-8": {
+    "question": "Quel est le numéro du Land de Hambourg sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "hamburg-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement de la ville-État de Hambourg ?",
+    "options": ["Ministre-président(e)", "Premier(ère) bourgmestre", "Sénateur/Sénatrice-gouverneur(e)", "Maire principal(e) (Oberbürgermeister)"]
+  },
+  "hamburg-10": {
+    "question": "Quel sénateur/quelle sénatrice Hambourg n'a-t-il pas ?",
+    "options": ["Sénateur/Sénatrice de la Justice", "Sénateur/Sénatrice aux Relations extérieures", "Sénateur/Sénatrice des Finances", "Sénateur/Sénatrice de l'Intérieur"]
+  },
+  "hessen-1": {
+    "question": "Quelles armoiries appartiennent au Land de Hesse ?",
+    "options": [null, null, null, null]
+  },
+  "hessen-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Hesse ?",
+    "options": ["Ammerland", "Altötting", "Prignitz", "Main-Taunus-Kreis"]
+  },
+  "hessen-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Hesse ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "hessen-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Hesse ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "hessen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Hesse ?",
+    "options": ["bleu-blanc-rouge", "rouge-blanc", "noir-or", "vert-blanc-rouge"]
+  },
+  "hessen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Hesse ?",
+    "options": [
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du centre de défense des consommateurs",
+      "auprès du service de l'ordre public de la commune",
+      "auprès des Églises"
+    ]
+  },
+  "hessen-7": {
+    "question": "La capitale du Land de Hesse est …",
+    "options": ["Kassel.", "Darmstadt.", "Francfort.", "Wiesbaden."]
+  },
+  "hessen-8": {
+    "question": "Quel est le numéro du Land de Hesse sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "hessen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Hesse ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "hessen-10": {
+    "question": "Quel ministère le Land de Hesse n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "mecklenburg-vorpommern-1": {
+    "question": "Quelles armoiries appartiennent au Land de Mecklembourg-Poméranie-Occidentale ?",
+    "options": [null, null, null, null]
+  },
+  "mecklenburg-vorpommern-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Mecklembourg-Poméranie-Occidentale ?",
+    "options": ["Prignitz", "Mecklenburgische Seenplatte", "Vogtlandkreis", "Rhein-Sieg-Kreis"]
+  },
+  "mecklenburg-vorpommern-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Mecklembourg-Poméranie-Occidentale ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "mecklenburg-vorpommern-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Mecklembourg-Poméranie-Occidentale ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "mecklenburg-vorpommern-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Mecklembourg-Poméranie-Occidentale ?",
+    "options": ["noir-rouge-or", "bleu-blanc-jaune-rouge", "vert-blanc-rouge", "noir-jaune"]
+  },
+  "mecklenburg-vorpommern-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Mecklembourg-Poméranie-Occidentale ?",
+    "options": [
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès des Églises",
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs"
+    ]
+  },
+  "mecklenburg-vorpommern-7": {
+    "question": "La capitale du Land de Mecklembourg-Poméranie-Occidentale est …",
+    "options": ["Greifswald.", "Schwerin.", "Rostock.", "Wismar."]
+  },
+  "mecklenburg-vorpommern-8": {
+    "question": "Quel est le numéro du Land de Mecklembourg-Poméranie-Occidentale sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "mecklenburg-vorpommern-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Mecklembourg-Poméranie-Occidentale ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "mecklenburg-vorpommern-10": {
+    "question": "Quel ministère le Land de Mecklembourg-Poméranie-Occidentale n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "niedersachsen-1": {
+    "question": "Quelles armoiries appartiennent au Land de Basse-Saxe ?",
+    "options": [null, null, null, null]
+  },
+  "niedersachsen-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Basse-Saxe ?",
+    "options": ["Ammerland", "Rhein-Sieg-Kreis", "Nordfriesland", "Vogtlandkreis"]
+  },
+  "niedersachsen-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Basse-Saxe ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "niedersachsen-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Basse-Saxe ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "niedersachsen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Basse-Saxe ?",
+    "options": ["blanc-bleu", "noir-rouge-or", "noir-jaune", "bleu-blanc-rouge"]
+  },
+  "niedersachsen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Basse-Saxe ?",
+    "options": [
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs",
+      "auprès des Églises"
+    ]
+  },
+  "niedersachsen-7": {
+    "question": "La capitale du Land de Basse-Saxe est …",
+    "options": ["Hanovre.", "Brunswick.", "Wolfsburg.", "Osnabrück."]
+  },
+  "niedersachsen-8": {
+    "question": "Quel est le numéro du Land de Basse-Saxe sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "niedersachsen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Basse-Saxe ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "niedersachsen-10": {
+    "question": "Quel ministère le Land de Basse-Saxe n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "nordrhein-westfalen-1": {
+    "question": "Quelles armoiries appartiennent au Land de Rhénanie-du-Nord-Westphalie ?",
+    "options": [null, null, null, null]
+  },
+  "nordrhein-westfalen-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Rhénanie-du-Nord-Westphalie ?",
+    "options": ["Ammerland", "Rhein-Sieg-Kreis", "Nordfriesland", "Vogtlandkreis"]
+  },
+  "nordrhein-westfalen-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Rhénanie-du-Nord-Westphalie ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "nordrhein-westfalen-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Rhénanie-du-Nord-Westphalie ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "nordrhein-westfalen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Rhénanie-du-Nord-Westphalie ?",
+    "options": ["rouge-blanc", "vert-blanc-rouge", "noir-or", "bleu-blanc-rouge"]
+  },
+  "nordrhein-westfalen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Rhénanie-du-Nord-Westphalie ?",
+    "options": [
+      "auprès des Églises",
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs",
+      "auprès de l'Agence régionale pour l'éducation civique"
+    ]
+  },
+  "nordrhein-westfalen-7": {
+    "question": "La capitale du Land de Rhénanie-du-Nord-Westphalie est …",
+    "options": ["Cologne.", "Bonn.", "Düsseldorf.", "Dortmund."]
+  },
+  "nordrhein-westfalen-8": {
+    "question": "Quel est le numéro du Land de Rhénanie-du-Nord-Westphalie sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "nordrhein-westfalen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Rhénanie-du-Nord-Westphalie ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "nordrhein-westfalen-10": {
+    "question": "Quel ministère le Land de Rhénanie-du-Nord-Westphalie n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "rheinland-pfalz-1": {
+    "question": "Quelles armoiries appartiennent au Land de Rhénanie-Palatinat ?",
+    "options": [null, null, null, null]
+  },
+  "rheinland-pfalz-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Rhénanie-Palatinat ?",
+    "options": ["Westerwaldkreis", "Altötting", "Emsland", "Prignitz"]
+  },
+  "rheinland-pfalz-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Rhénanie-Palatinat ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "rheinland-pfalz-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Rhénanie-Palatinat ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "rheinland-pfalz-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Rhénanie-Palatinat ?",
+    "options": ["blanc-rouge", "noir-rouge-or", "noir-jaune", "vert-blanc-rouge"]
+  },
+  "rheinland-pfalz-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Rhénanie-Palatinat ?",
+    "options": [
+      "auprès des Églises",
+      "auprès du centre de défense des consommateurs",
+      "auprès du service de l'ordre public de la commune",
+      "auprès de l'Agence régionale pour l'éducation civique"
+    ]
+  },
+  "rheinland-pfalz-7": {
+    "question": "La capitale du Land de Rhénanie-Palatinat est …",
+    "options": ["Mayence.", "Kaiserslautern.", "Ludwigshafen.", "Coblence."]
+  },
+  "rheinland-pfalz-8": {
+    "question": "Quel est le numéro du Land de Rhénanie-Palatinat sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "rheinland-pfalz-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Rhénanie-Palatinat ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "rheinland-pfalz-10": {
+    "question": "Quel ministère le Land de Rhénanie-Palatinat n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "saarland-1": {
+    "question": "Quelles armoiries appartiennent au Land de Sarre ?",
+    "options": [null, null, null, null]
+  },
+  "saarland-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Sarre ?",
+    "options": ["Mecklenburgische Seenplatte", "Altötting", "Neunkirchen", "Rhein-Sieg-Kreis"]
+  },
+  "saarland-3": {
+    "question": "Pour combien d'années le Landtag de la Sarre est-il élu ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "saarland-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Sarre ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "saarland-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Sarre ?",
+    "options": ["blanc-bleu", "noir-rouge-or", "noir-jaune", "vert-blanc-rouge"]
+  },
+  "saarland-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Sarre ?",
+    "options": [
+      "auprès des Églises",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du centre de défense des consommateurs",
+      "auprès du service de l'ordre public de la commune"
+    ]
+  },
+  "saarland-7": {
+    "question": "La capitale du Land de Sarre est …",
+    "options": ["Neunkirchen.", "Homburg.", "Sarrebruck.", "Völklingen."]
+  },
+  "saarland-8": {
+    "question": "Quel est le numéro du Land de Sarre sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "saarland-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement de la Sarre ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "saarland-10": {
+    "question": "Quel ministère le Land de Sarre n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "sachsen-1": {
+    "question": "Quelles armoiries appartiennent à l'État libre de Saxe ?",
+    "options": [null, null, null, null]
+  },
+  "sachsen-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Saxe ?",
+    "options": ["Vogtlandkreis", "Altötting", "Uckermark", "Nordfriesland"]
+  },
+  "sachsen-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Saxe ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "sachsen-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Saxe ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "sachsen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Saxe ?",
+    "options": ["bleu-blanc-rouge", "blanc-vert", "vert-blanc-rouge", "noir-jaune"]
+  },
+  "sachsen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Saxe ?",
+    "options": [
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du service de l'ordre public de la commune",
+      "auprès des Églises",
+      "auprès du centre de défense des consommateurs"
+    ]
+  },
+  "sachsen-7": {
+    "question": "La capitale du Land de Saxe est …",
+    "options": ["Leipzig.", "Dresde.", "Chemnitz.", "Zwickau."]
+  },
+  "sachsen-8": {
+    "question": "Quel est le numéro du Land de Saxe sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "sachsen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Saxe ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "sachsen-10": {
+    "question": "Quel ministère le Land de Saxe n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "sachsen-anhalt-1": {
+    "question": "Quelles armoiries appartiennent au Land de Saxe-Anhalt ?",
+    "options": [null, null, null, null]
+  },
+  "sachsen-anhalt-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Saxe-Anhalt ?",
+    "options": ["Ammerland", "Altötting", "Uckermark", "Börde"]
+  },
+  "sachsen-anhalt-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Saxe-Anhalt ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "sachsen-anhalt-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Saxe-Anhalt ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "sachsen-anhalt-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Saxe-Anhalt ?",
+    "options": ["bleu-blanc-rouge", "jaune-noir", "vert-blanc-rouge", "blanc-rouge"]
+  },
+  "sachsen-anhalt-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Saxe-Anhalt ?",
+    "options": [
+      "auprès des Églises",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du service de l'ordre public de la commune",
+      "auprès du centre de défense des consommateurs"
+    ]
+  },
+  "sachsen-anhalt-7": {
+    "question": "La capitale du Land de Saxe-Anhalt est …",
+    "options": ["Halle.", "Dessau.", "Magdebourg.", "Wittenberg."]
+  },
+  "sachsen-anhalt-8": {
+    "question": "Quel est le numéro du Land de Saxe-Anhalt sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "sachsen-anhalt-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Saxe-Anhalt ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "sachsen-anhalt-10": {
+    "question": "Quel ministère le Land de Saxe-Anhalt n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "schleswig-holstein-1": {
+    "question": "Quelles armoiries appartiennent au Land de Schleswig-Holstein ?",
+    "options": [null, null, null, null]
+  },
+  "schleswig-holstein-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Schleswig-Holstein ?",
+    "options": ["Ammerland", "Mecklenburgische Seenplatte", "Nordfriesland", "Rhein-Sieg-Kreis"]
+  },
+  "schleswig-holstein-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Schleswig-Holstein ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "schleswig-holstein-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Schleswig-Holstein ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "schleswig-holstein-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Schleswig-Holstein ?",
+    "options": ["blanc-bleu", "bleu-blanc-rouge", "blanc-rouge", "vert-blanc-rouge"]
+  },
+  "schleswig-holstein-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Schleswig-Holstein ?",
+    "options": [
+      "auprès du centre de défense des consommateurs",
+      "auprès du service de l'ordre public de la commune",
+      "auprès du/de la délégué(e) régional(e) à l'éducation civique",
+      "auprès des Églises"
+    ]
+  },
+  "schleswig-holstein-7": {
+    "question": "La capitale du Land de Schleswig-Holstein est …",
+    "options": ["Husum.", "Flensbourg.", "Lübeck.", "Kiel."]
+  },
+  "schleswig-holstein-8": {
+    "question": "Quel est le numéro du Land de Schleswig-Holstein sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "schleswig-holstein-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Schleswig-Holstein ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "schleswig-holstein-10": {
+    "question": "Quel ministère le Land de Schleswig-Holstein n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  },
+  "thueringen-1": {
+    "question": "Quelles armoiries appartiennent à l'État libre de Thuringe ?",
+    "options": [null, null, null, null]
+  },
+  "thueringen-2": {
+    "question": "Lequel des éléments suivants est un arrondissement rural en Thuringe ?",
+    "options": ["Ammerland", "Altötting", "Nordfriesland", "Wartburgkreis"]
+  },
+  "thueringen-3": {
+    "question": "Pour combien d'années le Landtag est-il élu en Thuringe ?",
+    "options": ["3", "4", "5", "6"]
+  },
+  "thueringen-4": {
+    "question": "À partir de quel âge peut-on voter aux élections communales en Thuringe ?",
+    "options": ["14", "16", "18", "20"]
+  },
+  "thueringen-5": {
+    "question": "Quelles sont les couleurs du drapeau du Land de Thuringe ?",
+    "options": ["bleu-blanc-rouge", "blanc-rouge", "vert-blanc-rouge", "noir-or"]
+  },
+  "thueringen-6": {
+    "question": "Où pouvez-vous vous informer sur des sujets politiques en Thuringe ?",
+    "options": [
+      "auprès des Églises",
+      "auprès du centre de défense des consommateurs",
+      "auprès de l'Agence régionale pour l'éducation civique",
+      "auprès du service de l'ordre public de la commune"
+    ]
+  },
+  "thueringen-7": {
+    "question": "La capitale du Land de Thuringe est …",
+    "options": ["Eisenach.", "Erfurt.", "Gera.", "Jena."]
+  },
+  "thueringen-8": {
+    "question": "Quel est le numéro du Land de Thuringe sur la carte ?",
+    "options": ["1", "2", "3", "4"]
+  },
+  "thueringen-9": {
+    "question": "Comment appelle-t-on la/le chef(fe) de gouvernement en Thuringe ?",
+    "options": ["Ministre en chef", "Premier(ère) ministre", "Bourgmestre/Maire", "Ministre-président(e)"]
+  },
+  "thueringen-10": {
+    "question": "Quel ministère le Land de Thuringe n'a-t-il pas ?",
+    "options": ["Ministre de la Justice", "Ministre des Affaires étrangères", "Ministre des Finances", "Ministre de l'Intérieur"]
+  }
+}

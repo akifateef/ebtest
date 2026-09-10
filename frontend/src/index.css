@@ -80,6 +80,42 @@
     sans-serif;
 }
 
+html[lang="ur"] {
+  font-family: "Noto Nastaliq Urdu", "Segoe UI", system-ui, -apple-system,
+    Roboto, Helvetica, Arial, sans-serif;
+  line-height: 3;
+  word-spacing: 0.15em;
+}
+
+html[lang="ur"] p,
+html[lang="ur"] .subtitle,
+html[lang="ur"] .info-text,
+html[lang="ur"] .question-text,
+html[lang="ur"] label,
+html[lang="ur"] legend,
+html[lang="ur"] button,
+html[lang="ur"] td,
+html[lang="ur"] th {
+  line-height: 2.6;
+}
+
+html[lang="ar"] {
+  line-height: 3;
+  word-spacing: 0.15em;
+}
+
+html[lang="ar"] p,
+html[lang="ar"] .subtitle,
+html[lang="ar"] .info-text,
+html[lang="ar"] .question-text,
+html[lang="ar"] label,
+html[lang="ar"] legend,
+html[lang="ar"] button,
+html[lang="ar"] td,
+html[lang="ar"] th {
+  line-height: 2.6;
+}
+
 * {
   box-sizing: border-box;
 }

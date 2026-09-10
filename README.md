@@ -22,6 +22,37 @@ static site on GitHub Pages.
 - Progress (every answer you've given) is stored in `localStorage`, with a
   **Reset progress** action available at any time.
 
+## Direct links to the exam simulation
+
+You can jump straight into the exam simulation for a specific Bundesland by
+opening `https://akif.me/ebtest/?exam=<stateId>`, skipping the setup screen
+entirely:
+
+| Bundesland | Link |
+| --- | --- |
+| Baden-Württemberg | https://akif.me/ebtest/?exam=baden-wuerttemberg |
+| Bayern | https://akif.me/ebtest/?exam=bayern |
+| Berlin | https://akif.me/ebtest/?exam=berlin |
+| Brandenburg | https://akif.me/ebtest/?exam=brandenburg |
+| Bremen | https://akif.me/ebtest/?exam=bremen |
+| Hamburg | https://akif.me/ebtest/?exam=hamburg |
+| Hessen | https://akif.me/ebtest/?exam=hessen |
+| Mecklenburg-Vorpommern | https://akif.me/ebtest/?exam=mecklenburg-vorpommern |
+| Niedersachsen | https://akif.me/ebtest/?exam=niedersachsen |
+| Nordrhein-Westfalen | https://akif.me/ebtest/?exam=nordrhein-westfalen |
+| Rheinland-Pfalz | https://akif.me/ebtest/?exam=rheinland-pfalz |
+| Saarland | https://akif.me/ebtest/?exam=saarland |
+| Sachsen | https://akif.me/ebtest/?exam=sachsen |
+| Sachsen-Anhalt | https://akif.me/ebtest/?exam=sachsen-anhalt |
+| Schleswig-Holstein | https://akif.me/ebtest/?exam=schleswig-holstein |
+| Thüringen | https://akif.me/ebtest/?exam=thueringen |
+
+Each link starts a brand-new 33-question exam (30 general + 3 from that
+state) with a fresh 60-minute timer, overriding any exam already in
+progress. An in-app shortcut link next to the "Prüfungssimulation" option
+on the setup screen does the same thing for whichever Bundesland is
+currently selected in the dropdown.
+
 ## Project structure
 
 ```

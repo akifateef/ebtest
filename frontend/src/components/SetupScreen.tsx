@@ -1,6 +1,14 @@
 import { useEffect, useMemo, useState } from "react";
 import { STATES } from "../data/states";
 import type { AnswersMap, QuestionOrder, QuizSectionType } from "../types";
+import {
+  EXAM_DURATION_MS,
+  EXAM_GENERAL_COUNT,
+  EXAM_PASS_THRESHOLD,
+  EXAM_QUESTION_COUNT,
+  EXAM_STATE_COUNT,
+  QUESTION_POOL_SIZE,
+} from "../types";
 import { useTranslation } from "../i18n/LanguageContext";
 import SettingsBar from "./SettingsBar";
 import { assetPath } from "../assetPath";
@@ -162,6 +170,81 @@ export default function SetupScreen({
           >
             {t("officialPdfButton")}
           </a>
+        </div>
+
+        <div className="card card-plain info-card">
+          <h2>{t("infoTitle")}</h2>
+          <p className="info-text">{t("infoCategoriesBody")}</p>
+          <p className="info-text">
+            {t("infoExamBody", {
+              total: EXAM_QUESTION_COUNT,
+              general: EXAM_GENERAL_COUNT,
+              state: EXAM_STATE_COUNT,
+              minutes: EXAM_DURATION_MS / 60000,
+              pass: EXAM_PASS_THRESHOLD,
+            })}
+          </p>
+        </div>
+
+        <div className="card card-plain info-card">
+          <h2>{t("aboutTestTitle")}</h2>
+          <table className="about-test-table">
+            <thead>
+              <tr>
+                <th>{t("aboutTestDetailColumn")}</th>
+                <th>{t("aboutTestInfoColumn")}</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>{t("aboutTestOfficialNameLabel")}</td>
+                <td>{t("aboutTestOfficialNameValue")}</td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestQuestionsLabel")}</td>
+                <td>
+                  {t("aboutTestQuestionsValue", {
+                    total: EXAM_QUESTION_COUNT,
+                    pool: QUESTION_POOL_SIZE,
+                  })}
+                </td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestTimeLabel")}</td>
+                <td>
+                  {t("aboutTestTimeValue", {
+                    minutes: EXAM_DURATION_MS / 60000,
+                  })}
+                </td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestPassLabel")}</td>
+                <td>
+                  {t("aboutTestPassValue", {
+                    pass: EXAM_PASS_THRESHOLD,
+                    total: EXAM_QUESTION_COUNT,
+                  })}
+                </td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestFeeLabel")}</td>
+                <td>{t("aboutTestFeeValue")}</td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestFormatLabel")}</td>
+                <td>{t("aboutTestFormatValue")}</td>
+              </tr>
+              <tr>
+                <td>{t("aboutTestStateLabel")}</td>
+                <td>
+                  {t("aboutTestStateValue", {
+                    state: EXAM_STATE_COUNT,
+                    total: EXAM_QUESTION_COUNT,
+                  })}
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
