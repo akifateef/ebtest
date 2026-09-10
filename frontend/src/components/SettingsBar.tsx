@@ -2,10 +2,13 @@ import { useTranslation } from "../i18n/LanguageContext";
 import { LANGUAGES, type LanguageCode } from "../i18n/languages";
 import { useTheme } from "../theme/ThemeContext";
 import { THEMES, type ThemeId } from "../theme/themes";
+import { useFontSize } from "../theme/FontSizeContext";
 
 export default function SettingsBar() {
   const { language, setLanguage, t } = useTranslation();
   const { theme, setTheme } = useTheme();
+  const { decreaseFontSize, increaseFontSize, canDecrease, canIncrease } =
+    useFontSize();
 
   return (
     <div className="settings-bar">
@@ -38,6 +41,33 @@ export default function SettingsBar() {
           ))}
         </select>
       </label>
+
+      <div className="settings-field">
+        <span className="settings-label">{t("fontSizeLabel")}</span>
+        <div className="font-size-controls">
+          <button
+            type="button"
+            className="btn btn-secondary font-size-btn"
+            onClick={decreaseFontSize}
+            disabled={!canDecrease}
+            aria-label={t("decreaseFontSize")}
+            title={t("decreaseFontSize")}
+          >
+            A−
+          </button>
+          <button
+            type="button"
+            className="btn btn-secondary font-size-btn"
+            onClick={increaseFontSize}
+            disabled={!canIncrease}
+            aria-label={t("increaseFontSize")}
+            title={t("increaseFontSize")}
+          >
+            A+
+          </button>
+        </div>
+      </div>
     </div>
   );
 }
+

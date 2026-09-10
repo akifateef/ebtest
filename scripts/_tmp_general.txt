@@ -1,0 +1,1386 @@
+### general-103
+Q: Was wird in Deutschland als "Ampelkoalition" bezeichnet? Die Zusammenarbeit …
+  0: der Bundestagsfraktionen von CDU und CSU
+  1: von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung
+  2: von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung
+  3: der Bundestagsfraktionen von CDU und SPD
+
+### general-104
+Q: Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?
+  0: Die Frau ist lange krank und arbeitsunfähig.
+  1: Die Frau kam oft zu spät zur Arbeit.
+  2: Die Frau erledigt private Sachen während der Arbeitszeit.
+  3: Die Frau bekommt ein Kind und ihr Chef weiß das.
+
+### general-105
+Q: Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?
+  0: Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.
+  1: Sie schreiben die Wahlbenachrichtigungen vor der Wahl.
+  2: Sie geben Zwischenergebnisse an die Medien weiter.
+  3: Sie zählen die Stimmen nach dem Ende der Wahl.
+
+### general-106
+Q: In Deutschland helfen ehrenamtliche Wahlhelferinnen und Wahlhelfer bei den Wahlen. Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern?
+  0: Sie helfen Kindern und alten Menschen beim Wählen.
+  1: Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.
+  2: Sie geben Zwischenergebnisse an Journalisten weiter.
+  3: Sie zählen die Stimmen nach dem Ende der Wahl.
+
+### general-107
+Q: Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+  0: 2 Jahre
+  1: 4 Jahre
+  2: 6 Jahre
+  3: 8 Jahre
+
+### general-108
+Q: Bei einer Bundestagswahl in Deutschland darf jede/jeder wählen, die/der …
+  0: in der Bundesrepublik Deutschland wohnt und wählen möchte.
+  1: Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.
+  2: seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.
+  3: Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.
+
+### general-109
+Q: Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?
+  0: alle drei Jahre
+  1: alle vier Jahre
+  2: alle fünf Jahre
+  3: alle sechs Jahre
+
+### general-110
+Q: Für wie viele Jahre wird der Bundestag in Deutschland gewählt?
+  0: 2 Jahre
+  1: 3 Jahre
+  2: 4 Jahre
+  3: 5 Jahre
+
+### general-111
+Q: Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?
+  0: die Politik Israels öffentlich kritisieren
+  1: das Aufhängen einer israelischen Flagge auf dem Privatgrundstück
+  2: eine Diskussion über die Politik Israels
+  3: der öffentliche Aufruf zur Vernichtung Israels
+
+### general-112
+Q: Die Wahlen in Deutschland sind …
+  0: speziell.
+  1: geheim.
+  2: berufsbezogen.
+  3: geschlechtsabhängig.
+
+### general-113
+Q: Wahlen in Deutschland gewinnt die Partei, die …
+  0: die meisten Stimmen bekommt.
+  1: die meisten Männer mehrheitlich gewählt haben.
+  2: die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.
+  3: die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat.
+
+### general-114
+Q: An demokratischen Wahlen in Deutschland teilzunehmen ist …
+  0: eine Pflicht.
+  1: ein Recht.
+  2: ein Zwang.
+  3: eine Last.
+
+### general-115
+Q: Was bedeutet "aktives Wahlrecht" in Deutschland?
+  0: Man kann gewählt werden.
+  1: Man muss wählen gehen.
+  2: Man kann wählen.
+  3: Man muss zur Auszählung der Stimmen gehen.
+
+### general-116
+Q: Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …
+  0: aktive Wahlkampagne.
+  1: aktives Wahlverfahren.
+  2: aktiver Wahlkampf.
+  3: aktives Wahlrecht.
+
+### general-117
+Q: Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?
+  0: 3%
+  1: 4%
+  2: 5%
+  3: 6%
+
+### general-118
+Q: Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?
+  0: nur Deutsche
+  1: nur Israelis
+  2: nur religiöse Menschen
+  3: alle Menschen
+
+### general-119
+Q: Wahlen in Deutschland sind frei. Was bedeutet das?
+  0: Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.
+  1: Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.
+  2: Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.
+  3: Ich kann frei entscheiden, wo ich wählen gehen möchte.
+
+### general-120
+Q: Das Wahlsystem in Deutschland ist ein …
+  0: Zensuswahlrecht.
+  1: Dreiklassenwahlrecht.
+  2: Mehrheits- und Verhältniswahlrecht.
+  3: allgemeines Männerwahlrecht.
+
+### general-121
+Q: Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …
+  0: 5%-Hürde.
+  1: Zulassungsgrenze.
+  2: Basiswert.
+  3: Richtlinie.
+
+### general-122
+Q: Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …
+  0: frei, gleich, geheim.
+  1: offen, sicher, frei.
+  2: geschlossen, gleich, sicher.
+  3: sicher, offen, freiwillig.
+
+### general-123
+Q: Was ist in Deutschland die "5%-Hürde"?
+  0: Abstimmungsregelung im Bundestag für kleine Parteien
+  1: Anwesenheitskontrolle im Bundestag für Abstimmungen
+  2: Mindestanteil an Wählerstimmen, um ins Parlament zu kommen
+  3: Anwesenheitskontrolle im Bundesrat für Abstimmungen
+
+### general-124
+Q: Die Bundestagswahl in Deutschland ist die Wahl …
+  0: der Bundeskanzlerin/des Bundeskanzlers.
+  1: der Parlamente der Länder.
+  2: des Parlaments für Deutschland.
+  3: der Bundespräsidentin/des Bundespräsidenten.
+
+### general-125
+Q: In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …
+  0: die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.
+  1: nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.
+  2: im Land bestehende Gesetze beizubehalten.
+  3: den Armen mehr Macht zu geben.
+
+### general-126
+Q: Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?
+  0: eine Wahlbenachrichtigung von der Gemeinde
+  1: eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten
+  2: eine Benachrichtigung von der Bundesversammlung
+  3: eine Benachrichtigung vom Pfarramt
+
+### general-127
+Q: Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …
+  0: die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.
+  1: die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.
+  2: viele kleine Parteien die Regierungsbildung erschweren.
+  3: die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen.
+
+### general-128
+Q: Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …
+  0: Abgeordnete.
+  1: Kanzlerinnen/Kanzler.
+  2: Botschafterinnen/Botschafter.
+  3: Ministerpräsidentinnen/Ministerpräsidenten.
+
+### general-129
+Q: Vom Volk gewählt wird in Deutschland …
+  0: die Bundeskanzlerin/der Bundeskanzler.
+  1: die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.
+  2: der Bundestag.
+  3: die Bundespräsidentin/der Bundespräsident.
+
+### general-130
+Q: Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### general-131
+Q: In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …
+  0: die Leiterin/der Leiter einer Schule.
+  1: die Chefin/der Chef einer Bank.
+  2: das Oberhaupt einer Gemeinde.
+  3: die/der Vorsitzende einer Partei.
+
+### general-132
+Q: Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?
+  0: Sie arbeiten als Soldatinnen/Soldaten.
+  1: Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.
+  2: Sie arbeiten in der Bundesregierung.
+  3: Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.
+
+### general-133
+Q: Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?
+  0: Der Ehemann wählt für seine Frau mit.
+  1: Man kann durch Briefwahl seine Stimme abgeben.
+  2: Man kann am Wahltag telefonisch seine Stimme abgeben.
+  3: Kinder ab dem Alter von 14 Jahren dürfen wählen.
+
+### general-134
+Q: Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?
+  0: Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.
+  1: Ich werde Mitglied in einem Sportverein und trainiere Radfahren.
+  2: Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.
+  3: Ich schreibe einen Brief an das Forstamt der Gemeinde.
+
+### general-135
+Q: Wen vertreten die Gewerkschaften in Deutschland?
+  0: große Unternehmen
+  1: kleine Unternehmen
+  2: Selbstständige
+  3: Arbeitnehmerinnen und Arbeitnehmer
+
+### general-136
+Q: Sie gehen in Deutschland zum Arbeitsgericht bei …
+  0: falscher Nebenkostenabrechnung.
+  1: ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.
+  2: Problemen mit den Nachbarinnen/Nachbarn.
+  3: Schwierigkeiten nach einem Verkehrsunfall.
+
+### general-137
+Q: Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?
+  0: das Familiengericht
+  1: das Strafgericht
+  2: das Arbeitsgericht
+  3: das Amtsgericht
+
+### general-138
+Q: Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?
+  0: weiterarbeiten und freundlich zur Chefin/zum Chef sein
+  1: ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen
+  2: Kündigungsschutzklage erheben
+  3: die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen
+
+### general-139
+Q: Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …
+  0: zu einer anderen Religion übertritt.
+  1: eine Straftat begangen hat und angeklagt wird.
+  2: eine andere Meinung als die der Regierung vertritt.
+  3: sein Auto falsch geparkt hat und es abgeschleppt wird.
+
+### general-140
+Q: Was macht eine Schöffin/ein Schöffe in Deutschland? Sie/Er …
+  0: entscheidet mit Richterinnen/Richtern über Schuld und Strafe.
+  1: gibt Bürgerinnen/Bürgern rechtlichen Rat.
+  2: stellt Urkunden aus.
+  3: verteidigt die Angeklagte/den Angeklagten.
+
+### general-141
+Q: Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?
+  0: eine Rechtsanwältin/ein Rechtsanwalt
+  1: eine Richterin/ein Richter
+  2: eine Schöffin/ein Schöffe
+  3: eine Staatsanwältin/ein Staatsanwalt
+
+### general-142
+Q: Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …
+  0: vertritt Bürgerinnen und Bürger vor einem Gericht.
+  1: arbeitet an einem Gericht und spricht Urteile.
+  2: ändert Gesetze.
+  3: betreut Jugendliche vor Gericht.
+
+### general-143
+Q: Eine Richterin/ein Richter in Deutschland gehört zur …
+  0: Judikative.
+  1: Exekutive.
+  2: Operative.
+  3: Legislative.
+
+### general-144
+Q: Eine Richterin/ein Richter gehört in Deutschland zur …
+  0: vollziehenden Gewalt.
+  1: rechtsprechenden Gewalt.
+  2: planenden Gewalt.
+  3: gesetzgebenden Gewalt.
+
+### general-145
+Q: In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet eine Richterin/ein Richter? Für die …
+  0: Judikative
+  1: Exekutive
+  2: Presse
+  3: Legislative
+
+### general-146
+Q: Wie nennt man in Deutschland ein Verfahren vor einem Gericht?
+  0: Programm
+  1: Prozedur
+  2: Protokoll
+  3: Prozess
+
+### general-147
+Q: Was ist die Arbeit einer Richterin/eines Richters in Deutschland?
+  0: Deutschland regieren
+  1: Recht sprechen
+  2: Pläne erstellen
+  3: Gesetze erlassen
+
+### general-148
+Q: Was ist eine Aufgabe der Polizei in Deutschland?
+  0: das Land zu verteidigen
+  1: die Bürgerinnen und Bürger abzuhören
+  2: die Gesetze zu beschließen
+  3: die Einhaltung von Gesetzen zu überwachen
+
+### general-149
+Q: Was ist ein Beispiel für antisemitisches Verhalten?
+  0: ein jüdisches Fest besuchen
+  1: die israelische Regierung kritisieren
+  2: den Holocaust leugnen
+  3: gegen Juden Fußball spielen.
+
+### general-150
+Q: Eine Gerichtsschöffin/ein Gerichtsschöffe in Deutschland ist …
+  0: die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.
+  1: eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.
+  2: ein Mitglied eines Gemeinderats.
+  3: eine Person, die Jura studiert hat.
+
+### general-151
+Q: Wer baute die Mauer in Berlin?
+  0: Großbritannien
+  1: die DDR
+  2: die Bundesrepublik Deutschland
+  3: die USA
+
+### general-152
+Q: Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?
+  0: 1918 bis 1923
+  1: 1932 bis 1950
+  2: 1933 bis 1945
+  3: 1945 bis 1989
+
+### general-153
+Q: Was war am 8. Mai 1945?
+  0: Tod Adolf Hitlers
+  1: Beginn des Berliner Mauerbaus
+  2: Wahl von Konrad Adenauer zum Bundeskanzler
+  3: Ende des Zweiten Weltkriegs in Europa
+
+### general-154
+Q: Wann war der Zweite Weltkrieg zu Ende?
+  0: 1933
+  1: 1945
+  2: 1949
+  3: 1961
+
+### general-155
+Q: Wann waren die Nationalsozialisten in Deutschland an der Macht?
+  0: 1888 bis 1918
+  1: 1921 bis 1934
+  2: 1933 bis 1945
+  3: 1949 bis 1963
+
+### general-156
+Q: In welchem Jahr wurde Hitler Reichskanzler?
+  0: 1923
+  1: 1927
+  2: 1933
+  3: 1936
+
+### general-157
+Q: Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …
+  0: eine Diktatur.
+  1: einen demokratischen Staat.
+  2: eine Monarchie.
+  3: ein Fürstentum.
+
+### general-158
+Q: Das "Dritte Reich" war eine …
+  0: Diktatur.
+  1: Demokratie.
+  2: Monarchie.
+  3: Räterepublik.
+
+### general-159
+Q: Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?
+  0: freie Wahlen
+  1: Pressezensur
+  2: willkürliche Verhaftungen
+  3: Verfolgung von Juden
+
+### general-160
+Q: Welcher Krieg dauerte von 1939 bis 1945?
+  0: der Erste Weltkrieg
+  1: der Zweite Weltkrieg
+  2: der Vietnamkrieg
+  3: der Golfkrieg
+
+### general-161
+Q: Was kennzeichnete den NS-Staat? Eine Politik …
+  0: des staatlichen Rassismus
+  1: der Meinungsfreiheit
+  2: der allgemeinen Religionsfreiheit
+  3: der Entwicklung der Demokratie
+
+### general-162
+Q: Claus Schenk Graf von Stauffenberg wurde bekannt durch …
+  0: eine Goldmedaille bei den Olympischen Spielen 1936.
+  1: den Bau des Reichstagsgebäudes.
+  2: den Aufbau der Wehrmacht.
+  3: das Attentat auf Hitler am 20. Juli 1944.
+
+### general-163
+Q: In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?
+  0: 1925
+  1: 1930
+  2: 1938
+  3: 1945
+
+### general-164
+Q: Was passierte am 9. November 1938 in Deutschland?
+  0: Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.
+  1: Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.
+  2: Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.
+  3: Hitler wird Reichspräsident und lässt alle Parteien verbieten.
+
+### general-165
+Q: Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?
+  0: Konrad Adenauer
+  1: Kurt Georg Kiesinger
+  2: Helmut Schmidt
+  3: Willy Brandt
+
+### general-166
+Q: Bei welchen Demonstrationen in Deutschland riefen die Menschen "Wir sind das Volk"?
+  0: beim Arbeiteraufstand 1953 in der DDR
+  1: bei den Demonstrationen 1968 in der Bundesrepublik Deutschland
+  2: bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland
+  3: bei den Montagsdemonstrationen 1989 in der DDR
+
+### general-167
+Q: Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als "Alliierte Besatzungsmächte" bezeichnet?
+  0: Sowjetunion, Großbritannien, Polen, Schweden
+  1: Frankreich, Sowjetunion, Italien, Japan
+  2: USA, Sowjetunion, Spanien, Portugal
+  3: USA, Sowjetunion, Großbritannien, Frankreich
+
+### general-168
+Q: Welches Land war keine "Alliierte Besatzungsmacht" in Deutschland?
+  0: USA
+  1: Sowjetunion
+  2: Frankreich
+  3: Japan
+
+### general-169
+Q: Wann wurde die Bundesrepublik Deutschland gegründet?
+  0: 1939
+  1: 1945
+  2: 1949
+  3: 1951
+
+### general-170
+Q: Was gab es während der Zeit des Nationalsozialismus in Deutschland?
+  0: das Verbot von Parteien
+  1: das Recht zur freien Entfaltung der Persönlichkeit
+  2: Pressefreiheit
+  3: den Schutz der Menschenwürde
+
+### general-171
+Q: Soziale Marktwirtschaft bedeutet, die Wirtschaft …
+  0: steuert sich allein nach Angebot und Nachfrage.
+  1: wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.
+  2: richtet sich nach der Nachfrage im Ausland.
+  3: richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.
+
+### general-172
+Q: In welcher Besatzungszone wurde die DDR gegründet? In der …
+  0: amerikanischen Besatzungszone
+  1: französischen Besatzungszone
+  2: britischen Besatzungszone
+  3: sowjetischen Besatzungszone
+
+### general-173
+Q: Die Bundesrepublik Deutschland ist ein Gründungsmitglied …
+  0: des Nordatlantikpakts (NATO).
+  1: der Vereinten Nationen (VN).
+  2: der Europäischen Union (EU).
+  3: des Warschauer Pakts.
+
+### general-174
+Q: Wann wurde die DDR gegründet?
+  0: 1947
+  1: 1949
+  2: 1953
+  3: 1956
+
+### general-175
+Q: Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### general-176
+Q: Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?
+  0: 1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA
+  1: 1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich
+  2: 1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich
+  3: 1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich
+
+### general-177
+Q: Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?
+  0: München
+  1: Berlin
+  2: Dresden
+  3: Frankfurt/Oder
+
+### general-178
+Q: Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?
+  0: Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.
+  1: Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.
+  2: Für Großbritannien war die Versorgung über die Luftbrücke schneller.
+  3: Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.
+
+### general-179
+Q: Wie endete der Zweite Weltkrieg in Europa offiziell?
+  0: mit dem Tod Adolf Hitlers
+  1: durch die bedingungslose Kapitulation Deutschlands
+  2: mit dem Rückzug der Deutschen aus den besetzten Gebieten
+  3: durch eine Revolution in Deutschland
+
+### general-180
+Q: Der erste Bundeskanzler der Bundesrepublik Deutschland war …
+  0: Ludwig Erhard.
+  1: Willy Brandt.
+  2: Konrad Adenauer.
+  3: Gerhard Schröder.
+
+### general-181
+Q: Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?
+  0: Er hat sich den ehemaligen Alliierten unterworfen.
+  1: Er bat Polen und die polnischen Juden um Vergebung.
+  2: Er zeigte seine Demut vor dem Warschauer Pakt.
+  3: Er sprach ein Gebet am Grab des Unbekannten Soldaten.
+
+### general-182
+Q: Wie heißt das jüdische Gebetshaus?
+  0: Basilika
+  1: Moschee
+  2: Synagoge
+  3: Kirche
+
+### general-183
+Q: Wann war in der Bundesrepublik Deutschland das "Wirtschaftswunder"?
+  0: 40er Jahre
+  1: 50er Jahre
+  2: 70er Jahre
+  3: 80er Jahre
+
+### general-184
+Q: Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?
+  0: eine Resolution der Vereinten Nationen
+  1: ein Beschluss des Zionistenkongresses
+  2: ein Vorschlag der Bundesregierung
+  3: ein Vorschlag der UdSSR
+
+### general-185
+Q: Wofür stand der Ausdruck "Eiserner Vorhang"? Für die Abschottung …
+  0: des Warschauer Pakts gegen den Westen
+  1: Norddeutschlands gegen Süddeutschland
+  2: Nazi-Deutschlands gegen die Alliierten
+  3: Europas gegen die USA
+
+### general-186
+Q: Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?
+  0: 1. Mai
+  1: 17. Juni
+  2: 20. Juli
+  3: 9. November
+
+### general-187
+Q: Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?
+  0: Preußen
+  1: Bundesrepublik Deutschland
+  2: "Drittes Reich"
+  3: DDR
+
+### general-188
+Q: In welchem Jahr wurde die Mauer in Berlin gebaut?
+  0: 1953
+  1: 1956
+  2: 1959
+  3: 1961
+
+### general-189
+Q: Wann baute die DDR die Mauer in Berlin?
+  0: 1919
+  1: 1933
+  2: 1961
+  3: 1990
+
+### general-190
+Q: Was bedeutet die Abkürzung DDR?
+  0: Dritter Deutscher Rundfunk
+  1: Die Deutsche Republik
+  2: Dritte Deutsche Republik
+  3: Deutsche Demokratische Republik
+
+### general-191
+Q: Wann wurde die Mauer in Berlin für alle geöffnet?
+  0: 1987
+  1: 1989
+  2: 1992
+  3: 1995
+
+### general-192
+Q: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  0: Brandenburg
+  1: Bayern
+  2: Saarland
+  3: Hessen
+
+### general-193
+Q: Von 1961 bis 1989 war Berlin …
+  0: ohne Bürgermeister.
+  1: ein eigener Staat.
+  2: durch eine Mauer geteilt.
+  3: nur mit dem Flugzeug erreichbar.
+
+### general-194
+Q: Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …
+  0: Einheit.
+  1: Nation.
+  2: Bundesländer.
+  3: Städte.
+
+### general-195
+Q: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  0: Hessen
+  1: Sachsen-Anhalt
+  2: Nordrhein-Westfalen
+  3: Saarland
+
+### general-196
+Q: Warum nennt man die Zeit im Herbst 1989 in der DDR "Die Wende"? In dieser Zeit veränderte sich die DDR politisch …
+  0: von einer Diktatur zur Demokratie.
+  1: von einer liberalen Marktwirtschaft zum Sozialismus.
+  2: von einer Monarchie zur Sozialdemokratie.
+  3: von einem religiösen Staat zu einem kommunistischen Staat.
+
+### general-197
+Q: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  0: Thüringen
+  1: Hessen
+  2: Bayern
+  3: Bremen
+
+### general-198
+Q: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  0: Bayern
+  1: Niedersachsen
+  2: Sachsen
+  3: Baden-Württemberg
+
+### general-199
+Q: Mit der Abkürzung "Stasi" meinte man in der DDR …
+  0: das Parlament.
+  1: das Ministerium für Staatssicherheit.
+  2: eine regierende Partei.
+  3: das Ministerium für Volksbildung.
+
+### general-200
+Q: Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?
+  0: Hessen
+  1: Schleswig-Holstein
+  2: Mecklenburg-Vorpommern
+  3: Saarland
+
+### general-201
+Q: Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?
+  0: Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg
+  1: Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen
+  2: Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen
+  3: Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg
+
+### general-202
+Q: Zu wem gehörte die DDR im "Kalten Krieg"?
+  0: zu den Westmächten
+  1: zum Warschauer Pakt
+  2: zur NATO
+  3: zu den blockfreien Staaten
+
+### general-203
+Q: Wie hieß das Wirtschaftssystem der DDR?
+  0: Marktwirtschaft
+  1: Planwirtschaft
+  2: Angebot und Nachfrage
+  3: Kapitalismus
+
+### general-204
+Q: Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?
+  0: Die Bundesrepublik hat die DDR besetzt.
+  1: Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.
+  2: Die westlichen Bundesländer sind der DDR beigetreten.
+  3: Die DDR hat die Bundesrepublik Deutschland besetzt.
+
+### general-205
+Q: Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …
+  0: zur Europäischen Union.
+  1: zum Warschauer Pakt.
+  2: zur OPEC.
+  3: zur Europäischen Verteidigungsgemeinschaft.
+
+### general-206
+Q: Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?
+  0: an berühmte deutsche Politikerinnen und Politiker
+  1: an die Opfer des Nationalsozialismus
+  2: an Verkehrstote
+  3: an bekannte jüdische Musiker
+
+### general-207
+Q: In welchem Militärbündnis war die DDR Mitglied?
+  0: in der NATO
+  1: im Rheinbund
+  2: im Warschauer Pakt
+  3: im Europabündnis
+
+### general-208
+Q: Was war die "Stasi"?
+  0: der Geheimdienst im "Dritten Reich"
+  1: eine berühmte deutsche Gedenkstätte
+  2: der Geheimdienst der DDR
+  3: ein deutscher Sportverein während des Zweiten Weltkrieges
+
+### general-209
+Q: Welches war das Wappen der Deutschen Demokratischen Republik?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### general-210
+Q: Was ereignete sich am 17. Juni 1953 in der DDR?
+  0: der feierliche Beitritt zum Warschauer Pakt
+  1: landesweite Streiks und ein Volksaufstand
+  2: der 1. SED-Parteitag
+  3: der erste Besuch Fidel Castros
+
+### general-211
+Q: Welcher Politiker steht für die "Ostverträge"?
+  0: Helmut Kohl
+  1: Willy Brandt
+  2: Michail Gorbatschow
+  3: Ludwig Erhard
+
+### general-212
+Q: Wie heißt Deutschland mit vollem Namen?
+  0: Bundesstaat Deutschland
+  1: Bundesländer Deutschland
+  2: Bundesrepublik Deutschland
+  3: Bundesbezirk Deutschland
+
+### general-213
+Q: Wie viele Einwohner hat Deutschland?
+  0: 70 Millionen
+  1: 78 Millionen
+  2: 84 Millionen
+  3: 90 Millionen
+
+### general-214
+Q: Welche Farben hat die deutsche Flagge?
+  0: schwarz-rot-gold
+  1: rot-weiß-schwarz
+  2: schwarz-rot-grün
+  3: schwarz-gelb-rot
+
+### general-215
+Q: Wer wird als "Kanzler der Deutschen Einheit" bezeichnet?
+  0: Gerhard Schröder
+  1: Helmut Kohl
+  2: Konrad Adenauer
+  3: Helmut Schmidt
+
+### general-216
+Q: Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?
+  0: der Bundesadler
+  1: die Fahne der Stadt Berlin
+  2: der Reichsadler
+  3: die Reichskrone
+
+### general-217
+Q: In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
+  0: 1919 bis 1927
+  1: 1933 bis 1945
+  2: 1945 bis 1961
+  3: 1949 bis 1990
+
+### general-218
+Q: Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?
+  0: 4
+  1: 5
+  2: 6
+  3: 7
+
+### general-219
+Q: Die Bundesrepublik Deutschland hat die Grenzen von heute seit …
+  0: 1933
+  1: 1949
+  2: 1971
+  3: 1990
+
+### general-220
+Q: Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?
+  0: an das Ende des Zweiten Weltkrieges
+  1: an die Verabschiedung des Grundgesetzes
+  2: an die Wiedervereinigung Deutschlands
+  3: an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)
+
+### general-221
+Q: Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?
+  0: Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
+  1: Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.
+  2: Deutsche können ohne Passkontrolle in jedes Land reisen.
+  3: Deutsche können in jedem Land mit dem Euro bezahlen.
+
+### general-222
+Q: Welches Land ist ein Nachbarland von Deutschland?
+  0: Ungarn
+  1: Portugal
+  2: Spanien
+  3: Schweiz
+
+### general-223
+Q: Welches Land ist ein Nachbarland von Deutschland?
+  0: Rumänien
+  1: Bulgarien
+  2: Polen
+  3: Griechenland
+
+### general-224
+Q: Was bedeutet die Abkürzung EU?
+  0: Europäische Unternehmen
+  1: Europäische Union
+  2: Einheitliche Union
+  3: Euro Union
+
+### general-225
+Q: In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?
+  0: Tschechien
+  1: Norwegen
+  2: Spanien
+  3: Österreich
+
+### general-226
+Q: Welche ist die Flagge der Europäischen Union?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### general-227
+Q: Welches Land ist ein Nachbarland von Deutschland?
+  0: Finnland
+  1: Dänemark
+  2: Norwegen
+  3: Schweden
+
+### general-228
+Q: Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?
+  0: NATO-Osterweiterung
+  1: EU-Osterweiterung
+  2: Deutsche Wiedervereinigung
+  3: Europäische Gemeinschaft
+
+### general-229
+Q: Welches Land ist ein Nachbarland von Deutschland?
+  0: Spanien
+  1: Bulgarien
+  2: Norwegen
+  3: Luxemburg
+
+### general-230
+Q: Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …
+  0: 5 Jahre.
+  1: 6 Jahre.
+  2: 7 Jahre.
+  3: 8 Jahre.
+
+### general-231
+Q: Was bedeutet der Begriff "europäische Integration"?
+  0: Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.
+  1: Der Begriff meint den Einwanderungsstopp nach Europa.
+  2: Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.
+  3: Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.
+
+### general-232
+Q: Wer wird bei der Europawahl gewählt?
+  0: die Europäische Kommission
+  1: die Länder, die in die EU eintreten dürfen
+  2: die Abgeordneten des Europäischen Parlaments
+  3: die europäische Verfassung
+
+### general-233
+Q: Welches Land ist ein Nachbarland von Deutschland?
+  0: Tschechien
+  1: Bulgarien
+  2: Griechenland
+  3: Portugal
+
+### general-234
+Q: Wo ist ein Sitz des Europäischen Parlaments?
+  0: London
+  1: Paris
+  2: Berlin
+  3: Straßburg
+
+### general-235
+Q: Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?
+  0: Freundschaft zwischen England und Deutschland
+  1: Reisefreiheit in alle Länder der EU
+  2: Frieden und Sicherheit in den Ländern der EU
+  3: einheitliche Feiertage in den Ländern der EU
+
+### general-236
+Q: Wie viele Mitgliedstaaten hat die EU heute?
+  0: 21
+  1: 23
+  2: 25
+  3: 27
+
+### general-237
+Q: 2007 wurde das 50-jährige Jubiläum der "Römischen Verträge" gefeiert. Was war der Inhalt der Verträge?
+  0: Beitritt Deutschlands zur NATO
+  1: Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)
+  2: Verpflichtung Deutschlands zu Reparationsleistungen
+  3: Festlegung der Oder-Neiße-Linie als Ostgrenze
+
+### general-238
+Q: An welchen Orten arbeitet das Europäische Parlament?
+  0: Paris, London und Den Haag
+  1: Straßburg, Luxemburg und Brüssel
+  2: Rom, Bern und Wien
+  3: Bonn, Zürich und Mailand
+
+### general-239
+Q: Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?
+  0: durch die "Hamburger Verträge"
+  1: durch die "Römischen Verträge"
+  2: durch die "Pariser Verträge"
+  3: durch die "Londoner Verträge"
+
+### general-240
+Q: Seit wann bezahlt man in Deutschland mit dem Euro in bar?
+  0: 1995
+  1: 1998
+  2: 2002
+  3: 2005
+
+### general-241
+Q: Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?
+  0: Sie muss an ihre Krankenkasse schreiben.
+  1: Sie muss einen Antrag bei der Elterngeldstelle stellen.
+  2: Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.
+  3: Sie muss das Arbeitsamt um Erlaubnis bitten.
+
+### general-242
+Q: Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?
+  0: der Staat
+  1: die Bundesländer
+  2: die Eltern/die Erziehungsberechtigten
+  3: die Schulen
+
+### general-243
+Q: Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?
+  0: Sie müssen die Demonstration anmelden.
+  1: Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.
+  2: Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.
+  3: Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.
+
+### general-244
+Q: Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?
+  0: das Abitur
+  1: ein Diplom
+  2: die Prokura
+  3: eine Gesellenprüfung
+
+### general-245
+Q: Wer darf in Deutschland nicht als Paar zusammenleben?
+  0: Hans (20 Jahre) und Marie (19 Jahre)
+  1: Tom (20 Jahre) und Klaus (45 Jahre)
+  2: Sofie (35 Jahre) und Lisa (40 Jahre)
+  3: Anne (13 Jahre) und Tim (25 Jahre)
+
+### general-246
+Q: Ab welchem Alter ist man in Deutschland volljährig?
+  0: 16
+  1: 18
+  2: 19
+  3: 21
+
+### general-247
+Q: Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?
+  0: Elternzeit
+  1: Mutterschutz
+  2: Geburtsvorbereitung
+  3: Wochenbett
+
+### general-248
+Q: Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …
+  0: des Staates.
+  1: der Eltern.
+  2: der Großeltern.
+  3: der Schulen.
+
+### general-249
+Q: Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?
+  0: der Staat
+  1: die Eltern
+  2: die Verwandten
+  3: die Schulen
+
+### general-250
+Q: In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …
+  0: katholisch ist.
+  1: gut ausgebildet ist.
+  2: eine Frau ist.
+  3: Mitglied einer Partei ist.
+
+### general-251
+Q: Wenn man in Deutschland ein Kind schlägt, …
+  0: geht das niemanden etwas an.
+  1: geht das nur die Familie etwas an.
+  2: kann man dafür nicht bestraft werden.
+  3: kann man dafür bestraft werden.
+
+### general-252
+Q: In Deutschland …
+  0: darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.
+  1: kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.
+  2: darf man nicht wieder heiraten, wenn man einmal verheiratet war.
+  3: darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.
+
+### general-253
+Q: Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?
+  0: beim Einwohnermeldeamt
+  1: beim Standesamt
+  2: beim Ordnungsamt
+  3: beim Gewerbeamt
+
+### general-254
+Q: In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das "Trennungsjahr" einhalten. Was bedeutet das?
+  0: Der Scheidungsprozess dauert ein Jahr.
+  1: Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.
+  2: Das Besuchsrecht für die Kinder gilt ein Jahr.
+  3: Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.
+
+### general-255
+Q: Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …
+  0: Ordnungsamt.
+  1: Schulamt.
+  2: Jugendamt.
+  3: Gesundheitsamt.
+
+### general-256
+Q: Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?
+  0: eine Erlaubnis der Polizei
+  1: eine Genehmigung einer Partei
+  2: eine Genehmigung des Einwohnermeldeamts
+  3: eine Gaststättenerlaubnis von der zuständigen Behörde
+
+### general-257
+Q: Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …
+  0: einer Hochschule.
+  1: einem Abendgymnasium.
+  2: einer Hauptschule.
+  3: einer Privatuniversität.
+
+### general-258
+Q: Was darf das Jugendamt in Deutschland?
+  0: Es entscheidet, welche Schule das Kind besucht.
+  1: Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.
+  2: Es bezahlt das Kindergeld an die Eltern.
+  3: Es kontrolliert, ob das Kind einen Kindergarten besucht.
+
+### general-259
+Q: Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …
+  0: Rentenberechnung.
+  1: Lehrstellensuche.
+  2: Steuererklärung.
+  3: Krankenversicherung.
+
+### general-260
+Q: In Deutschland hat ein Kind in der Schule …
+  0: Recht auf unbegrenzte Freizeit.
+  1: Wahlfreiheit für alle Fächer.
+  2: Anspruch auf Schulgeld.
+  3: Anwesenheitspflicht.
+
+### general-261
+Q: Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …
+  0: einer Hochschule.
+  1: einem Abendgymnasium.
+  2: einer Hauptschule.
+  3: einer Privatuniversität.
+
+### general-262
+Q: Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?
+  0: Niemand darf z.B. wegen einer Behinderung benachteiligt werden.
+  1: Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.
+  2: Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.
+  3: Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.
+
+### general-263
+Q: In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …
+  0: werden bestraft.
+  1: werden wie Erwachsene behandelt.
+  2: teilen die Strafe mit ihren Eltern.
+  3: werden nicht bestraft.
+
+### general-264
+Q: Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?
+  0: am Rosenmontag
+  1: am Maifeiertag
+  2: beim Oktoberfest
+  3: an Pfingsten
+
+### general-265
+Q: Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?
+  0: zum Einwohnermeldeamt
+  1: zum Ordnungsamt
+  2: zur Agentur für Arbeit
+  3: zum Standesamt
+
+### general-266
+Q: Wann beginnt die gesetzliche Nachtruhe in Deutschland?
+  0: wenn die Sonne untergeht
+  1: wenn die Nachbarn schlafen gehen
+  2: um 0 Uhr, Mitternacht
+  3: um 22 Uhr
+
+### general-267
+Q: Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?
+  0: Sie müssen die Entscheidung der volljährigen Tochter respektieren.
+  1: Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.
+  2: Sie können zur Polizei gehen und die Tochter anzeigen.
+  3: Sie suchen einen anderen Mann für die Tochter.
+
+### general-268
+Q: Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?
+  0: Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.
+  1: Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.
+  2: Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.
+  3: Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.
+
+### general-269
+Q: In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …
+  0: monatliches Taschengeld.
+  1: einen Platz in einem Sportverein.
+  2: einen Kindergartenplatz.
+  3: einen Ferienpass.
+
+### general-270
+Q: Die Volkshochschule in Deutschland ist eine Einrichtung …
+  0: für den Religionsunterricht.
+  1: nur für Jugendliche.
+  2: zur Weiterbildung.
+  3: nur für Rentnerinnen und Rentner.
+
+### general-271
+Q: Was ist in Deutschland ein Brauch zu Weihnachten?
+  0: bunte Eier verstecken
+  1: einen Tannenbaum schmücken
+  2: sich mit Masken und Kostümen verkleiden
+  3: Kürbisse vor die Tür stellen
+
+### general-272
+Q: Welche Lebensform ist in Deutschland nicht erlaubt?
+  0: Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.
+  1: Zwei Frauen leben zusammen.
+  2: Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.
+  3: Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.
+
+### general-273
+Q: Bei Erziehungsproblemen gehen Sie in Deutschland …
+  0: zur Ärztin/zum Arzt.
+  1: zum Gesundheitsamt.
+  2: zum Einwohnermeldeamt.
+  3: zum Jugendamt.
+
+### general-274
+Q: Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?
+  0: das Schweigerecht
+  1: das Briefgeheimnis
+  2: die Schweigepflicht
+  3: die Meinungsfreiheit
+
+### general-275
+Q: Was braucht man in Deutschland für eine Ehescheidung?
+  0: die Einwilligung der Eltern
+  1: ein Attest einer Ärztin/eines Arztes
+  2: die Einwilligung der Kinder
+  3: die Unterstützung einer Anwältin/eines Anwalts
+
+### general-276
+Q: Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin/Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?
+  0: Ich kann nichts tun.
+  1: Ich muss mir diese Behandlung gefallen lassen.
+  2: Ich drohe der Person.
+  3: Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.
+
+### general-277
+Q: Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …
+  0: kein Englisch spricht.
+  1: zu hohe Gehaltsvorstellungen hat.
+  2: keine Erfahrungen in diesem Beruf hat.
+  3: Mutter ist.
+
+### general-278
+Q: Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …
+  0: im Rollstuhl sitzt.
+  1: keine Erfahrung hat.
+  2: zu hohe Gehaltsvorstellungen hat.
+  3: kein Englisch spricht.
+
+### general-279
+Q: In den meisten Mietshäusern in Deutschland gibt es eine "Hausordnung". Was steht in einer solchen "Hausordnung"? Sie nennt …
+  0: Regeln für die Benutzung öffentlicher Verkehrsmittel.
+  1: alle Mieterinnen und Mieter im Haus.
+  2: Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.
+  3: die Adresse des nächsten Ordnungsamtes.
+
+### general-280
+Q: Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …
+  0: nichts machen.
+  1: den Bescheid wegwerfen.
+  2: Einspruch einlegen.
+  3: warten, bis ein anderer Bescheid kommt.
+
+### general-281
+Q: Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …
+  0: Meinungsfreiheit
+  1: Gleichbehandlung
+  2: Versammlungsfreiheit
+  3: Freizügigkeit
+
+### general-282
+Q: Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?
+  0: Vereinstrainerin/Vereinstrainer
+  1: Wahlhelferin/Wahlhelfer
+  2: Bibliotheksaufsicht
+  3: Lehrerin/Lehrer
+
+### general-283
+Q: Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?
+  0: Ich lasse die Rechnung liegen.
+  1: Ich lege Widerspruch bei der Behörde ein.
+  2: Ich schicke die Rechnung an die Behörde zurück.
+  3: Ich gehe mit der Rechnung zum Finanzamt.
+
+### general-284
+Q: Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?
+  0: Es ist egal, was man lernt.
+  1: Erwachsene müssen auch nach der Ausbildung immer weiter lernen.
+  2: Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
+  3: Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.
+
+### general-285
+Q: Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?
+  0: Lohnsteuer
+  1: Beiträge zur Arbeitslosenversicherung
+  2: Beiträge zur Renten- und Krankenversicherung
+  3: Umsatzsteuer
+
+### general-286
+Q: Welche Organisation in einer Firma hilft den Arbeitnehmerinnen und Arbeitnehmern bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?
+  0: der Betriebsrat
+  1: die Betriebsprüferin/der Betriebsprüfer
+  2: die Betriebsgruppe
+  3: das Betriebsmanagement
+
+### general-287
+Q: Sie möchten bei einer Firma in Deutschland ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?
+  0: die Gehaltszahlungen
+  1: die Arbeitszeit
+  2: die Kündigungsfrist
+  3: die Versicherungspflicht
+
+### general-288
+Q: Woraus begründet sich Deutschlands besondere Verantwortung für Israel?
+  0: aus der Mitgliedschaft in der Europäischen Union (EU)
+  1: aus den nationalsozialistischen Verbrechen gegen Juden
+  2: aus dem Grundgesetz der Bundesrepublik Deutschland
+  3: aus der christlichen Tradition
+
+### general-289
+Q: Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …
+  0: seine Deutschkenntnisse zu gering sind.
+  1: er zu hohe Gehaltsvorstellungen hat.
+  2: er eine dunkle Haut hat.
+  3: er keine Erfahrungen im Beruf hat.
+
+### general-290
+Q: Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?
+  0: eine Anzeige schreiben
+  1: den Fernseher reklamieren
+  2: das Gerät ungefragt austauschen
+  3: die Garantie verlängern
+
+### general-291
+Q: Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …
+  0: es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.
+  1: das für die Statistik in Deutschland wichtig ist.
+  2: man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.
+  3: die Kirche für die Steuererklärung verantwortlich ist.
+
+### general-292
+Q: Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?
+  0: Es dürfen keine Moscheen gebaut werden.
+  1: Alle Menschen glauben an Gott.
+  2: Jeder kann glauben, was er möchte.
+  3: Der Staat entscheidet, an welchen Gott die Menschen glauben.
+
+### general-293
+Q: Was ist in Deutschland ein Brauch zu Ostern?
+  0: Kürbisse vor die Tür stellen
+  1: einen Tannenbaum schmücken
+  2: Eier bemalen
+  3: Raketen in die Luft schießen
+
+### general-294
+Q: Pfingsten ist ein …
+  0: christlicher Feiertag.
+  1: deutscher Gedenktag.
+  2: internationaler Trauertag.
+  3: bayerischer Brauch.
+
+### general-295
+Q: Welche Religion hat die europäische und deutsche Kultur geprägt?
+  0: der Hinduismus
+  1: das Christentum
+  2: der Buddhismus
+  3: der Islam
+
+### general-296
+Q: In Deutschland nennt man die letzten vier Wochen vor Weihnachten …
+  0: den Buß- und Bettag.
+  1: das Erntedankfest.
+  2: die Adventszeit.
+  3: Allerheiligen.
+
+### general-297
+Q: Aus welchem Land sind die meisten Migrantinnen und Migranten nach Deutschland gekommen?
+  0: Italien
+  1: Polen
+  2: Marokko
+  3: Türkei
+
+### general-298
+Q: In der DDR lebten vor allem Migrantinnen und Migranten aus …
+  0: Vietnam, Polen, Mosambik.
+  1: Frankreich, Rumänien, Somalia.
+  2: Chile, Ungarn, Simbabwe.
+  3: Nordkorea, Mexiko, Ägypten.
+
+### general-299
+Q: Ausländische Arbeitnehmerinnen und Arbeitnehmer, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …
+  0: Schwarzarbeiterinnen/Schwarzarbeiter.
+  1: Gastarbeiterinnen/Gastarbeiter.
+  2: Zeitarbeiterinnen/Zeitarbeiter.
+  3: Schichtarbeiterinnen/Schichtarbeiter.
+
+### general-300
+Q: Aus welchem Land kamen die ersten Gastarbeiterinnen und Gastarbeiter in die Bundesrepublik Deutschland?
+  0: Italien
+  1: Spanien
+  2: Portugal
+  3: Türkei
+

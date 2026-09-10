@@ -3,6 +3,7 @@ import { getQuestion } from "../quiz";
 import { assetPath } from "../assetPath";
 import type { AnswersMap } from "../types";
 import OptionButton from "./OptionButton";
+import { getCategoryLabel } from "../i18n/categories";
 import { useTranslation } from "../i18n/LanguageContext";
 import SettingsBar from "./SettingsBar";
 
@@ -17,7 +18,7 @@ export default function ExamReviewScreen({
   answers,
   onBack,
 }: Props) {
-  const { t } = useTranslation();
+  const { t, language } = useTranslation();
   const [index, setIndex] = useState(0);
   const questionId = questionIds[index];
   const question = getQuestion(questionId);
@@ -79,6 +80,12 @@ export default function ExamReviewScreen({
               total: questionIds.length,
             })}
           </div>
+
+          {question.category && (
+            <span className="category-badge">
+              {getCategoryLabel(question.category, language)}
+            </span>
+          )}
 
           <h2 className="question-text" dir="ltr">
             {question.question}

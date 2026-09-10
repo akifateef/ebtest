@@ -1,11 +1,13 @@
 import type { AnswersMap, QuizSession } from "./types";
 import type { LanguageCode } from "./i18n/languages";
 import type { ThemeId } from "./theme/themes";
+import type { FontScale } from "./theme/fontSize";
 
 const ANSWERS_KEY = "lid_answers_v1";
 const SESSION_KEY = "lid_session_v1";
 const LANGUAGE_KEY = "lid_language_v1";
 const THEME_KEY = "lid_theme_v1";
+const FONT_SCALE_KEY = "lid_font_scale_v1";
 
 export function loadAnswers(): AnswersMap {
   try {
@@ -63,4 +65,17 @@ export function loadTheme(): ThemeId | null {
 
 export function saveTheme(theme: ThemeId): void {
   localStorage.setItem(THEME_KEY, theme);
+}
+
+export function loadFontScale(): FontScale | null {
+  try {
+    const raw = localStorage.getItem(FONT_SCALE_KEY);
+    return raw ? (Number(raw) as FontScale) : null;
+  } catch {
+    return null;
+  }
+}
+
+export function saveFontScale(scale: FontScale): void {
+  localStorage.setItem(FONT_SCALE_KEY, String(scale));
 }

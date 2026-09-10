@@ -5,7 +5,14 @@ import type { AnswersMap, QuizSession } from "../types";
 import { EXAM_DURATION_MS } from "../types";
 import OptionButton from "./OptionButton";
 import { STATES } from "../data/states";
+import { getCategoryLabel } from "../i18n/categories";
 import { useTranslation } from "../i18n/LanguageContext";
+import { RTL_LANGUAGES } from "../i18n/languages";
+import {
+  hasQuestionTranslations,
+  loadQuestionTranslations,
+  type QuestionTranslation,
+} from "../i18n/questionTranslations";
 
 interface Props {
   session: QuizSession;
@@ -37,13 +44,44 @@ export default function QuizScreen({
   onFinishExam,
   onAbortExam,
 }: Props) {
-  const { t } = useTranslation();
+  const { t, language } = useTranslation();
   const { questionIds, currentIndex } = session;
   const questionId = questionIds[currentIndex];
   const question = getQuestion(questionId);
   const isExam = session.section === "exam";
 
   const [now, setNow] = useState(() => Date.now());
+
+  const canTranslate = language !== "de" && hasQuestionTranslations(language);
+  const [showTranslation, setShowTranslation] = useState(false);
+  const [translationLoading, setTranslationLoading] = useState(false);
+  const [translation, setTranslation] = useState<QuestionTranslation | null>(
+    null
+  );
+
+  // Reset the translation panel whenever the language or question changes so
+  // stale text from a different question/language is never shown.
+  useEffect(() => {
+    setShowTranslation(false);
+    setTranslation(null);
+  }, [language, questionId]);
+
+  useEffect(() => {
+    if (!showTranslation || !canTranslate) return;
+    let cancelled = false;
+    setTranslationLoading(true);
+    loadQuestionTranslations(language)
+      .then((file) => {
+        if (cancelled) return;
+        setTranslation(file?.[questionId] ?? null);
+      })
+      .finally(() => {
+        if (!cancelled) setTranslationLoading(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [showTranslation, canTranslate, language, questionId]);
 
   useEffect(() => {
     if (!isExam) return;
@@ -146,7 +184,51 @@ export default function QuizScreen({
             })}
           </div>
 
+          {question.category && (
+            <span className="category-badge">
+              {getCategoryLabel(question.category, language)}
+            </span>
+          )}
+
           <h2 className="question-text" dir="ltr">{question.question}</h2>
+
+          {canTranslate && (
+            <div className="translation-toggle-row">
+              <button
+                type="button"
+                className="btn btn-link translation-toggle"
+                onClick={() => setShowTranslation((prev) => !prev)}
+              >
+                {showTranslation ? t("hideTranslation") : t("showTranslation")}
+              </button>
+            </div>
+          )}
+
+          {canTranslate && showTranslation && (
+            <div
+              className="translation-panel"
+              dir={RTL_LANGUAGES.includes(language) ? "rtl" : "ltr"}
+            >
+              {translationLoading && !translation && (
+                <p className="translation-status">{t("translationLoading")}</p>
+              )}
+              {!translationLoading && !translation && (
+                <p className="translation-status">
+                  {t("translationUnavailable")}
+                </p>
+              )}
+              {translation && (
+                <>
+                  <p className="translation-question">{translation.question}</p>
+                  <ul className="translation-options">
+                    {translation.options.map((text, idx) =>
+                      text ? <li key={idx}>{text}</li> : null
+                    )}
+                  </ul>
+                </>
+              )}
+            </div>
+          )}
 
           {question.contextImage && (
             <figure className="context-figure">

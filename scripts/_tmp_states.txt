@@ -1,0 +1,1120 @@
+### baden-wuerttemberg-1
+Q: Welches Wappen gehört zum Bundesland Baden-Württemberg?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### baden-wuerttemberg-2
+Q: Welches ist ein Landkreis in Baden-Württemberg?
+  0: Mecklenburgische Seenplatte
+  1: Neckar-Odenwald-Kreis
+  2: Nordfriesland
+  3: Altötting
+
+### baden-wuerttemberg-3
+Q: Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### baden-wuerttemberg-4
+Q: Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### baden-wuerttemberg-5
+Q: Welche Farben hat die Landesflagge von Baden-Württemberg?
+  0: blau-weiß-rot
+  1: schwarz-gold
+  2: weiß-blau
+  3: grün-weiß-rot
+
+### baden-wuerttemberg-6
+Q: Wo können Sie sich in Baden-Württemberg über politische Themen informieren?
+  0: beim Ordnungsamt der Gemeinde
+  1: bei der Verbraucherzentrale
+  2: bei der Landeszentrale für politische Bildung
+  3: bei den Kirchen
+
+### baden-wuerttemberg-7
+Q: Die Landeshauptstadt von Baden-Württemberg heißt …
+  0: Heidelberg.
+  1: Stuttgart.
+  2: Karlsruhe.
+  3: Mannheim.
+
+### baden-wuerttemberg-8
+Q: Welches Bundesland ist Baden-Württemberg?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### baden-wuerttemberg-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Baden-Württemberg?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### baden-wuerttemberg-10
+Q: Welche Ministerin/welchen Minister hat Baden-Württemberg nicht?
+  0: Finanzministerin/Finanzminister
+  1: Justizministerin/Justizminister
+  2: Innenministerin/Innenminister
+  3: Außenministerin/Außenminister
+
+### bayern-1
+Q: Welches Wappen gehört zum Freistaat Bayern?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### bayern-2
+Q: Welches ist ein Landkreis in Bayern?
+  0: Prignitz
+  1: Rhein-Sieg-Kreis
+  2: Nordfriesland
+  3: Altötting
+
+### bayern-3
+Q: Für wie viele Jahre wird der Landtag in Bayern gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### bayern-4
+Q: Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### bayern-5
+Q: Welche Farben hat die Landesflagge von Bayern?
+  0: blau-weiß-rot
+  1: weiß-blau
+  2: grün-weiß-rot
+  3: schwarz-gelb
+
+### bayern-6
+Q: Wo können Sie sich in Bayern über politische Themen informieren?
+  0: beim Ordnungsamt der Gemeinde
+  1: bei der Landeszentrale für politische Bildung
+  2: bei der Verbraucherzentrale
+  3: bei den Kirchen
+
+### bayern-7
+Q: Die Landeshauptstadt von Bayern heißt …
+  0: Ingolstadt.
+  1: Regensburg.
+  2: Nürnberg.
+  3: München.
+
+### bayern-8
+Q: Welches Bundesland ist Bayern?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### bayern-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Bayern?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### bayern-10
+Q: Welche Ministerin/welchen Minister hat Bayern nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### berlin-1
+Q: Welches Wappen gehört zum Bundesland Berlin?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### berlin-2
+Q: Welches ist ein Bezirk von Berlin?
+  0: Altona
+  1: Prignitz
+  2: Pankow
+  3: Mecklenburgische Seenplatte
+
+### berlin-3
+Q: Für wie viele Jahre wird das Landesparlament in Berlin gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### berlin-4
+Q: Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### berlin-5
+Q: Welche Farben hat die Landesflagge von Berlin?
+  0: blau-weiß-rot
+  1: weiß-rot
+  2: grün-weiß-rot
+  3: schwarz-gold
+
+### berlin-6
+Q: Wo können Sie sich in Berlin über politische Themen informieren?
+  0: beim Ordnungsamt der Gemeinde
+  1: bei den Kirchen
+  2: bei der Verbraucherzentrale
+  3: bei der Landeszentrale für politische Bildung
+
+### berlin-7
+Q: Welches Bundesland ist ein Stadtstaat?
+  0: Berlin
+  1: Saarland
+  2: Brandenburg
+  3: Hessen
+
+### berlin-8
+Q: Welches Bundesland ist Berlin?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### berlin-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Berlin?
+  0: Ministerpräsidentin/Ministerpräsident
+  1: Oberbürgermeisterin/Oberbürgermeister
+  2: Präsidentin/Präsident des Senates
+  3: Regierende Bürgermeisterin/Regierender Bürgermeister
+
+### berlin-10
+Q: Welche Senatorin/welchen Senator hat Berlin nicht?
+  0: Finanzsenatorin/Finanzsenator
+  1: Innensenatorin/Innensenator
+  2: Senatorin/Senator für Außenbeziehungen
+  3: Justizsenatorin/Justizsenator
+
+### brandenburg-1
+Q: Welches Wappen gehört zum Bundesland Brandenburg?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### brandenburg-2
+Q: Welches ist ein Landkreis in Brandenburg?
+  0: Prignitz
+  1: Rhein-Sieg-Kreis
+  2: Vogtlandkreis
+  3: Amberg-Sulzbach
+
+### brandenburg-3
+Q: Für wie viele Jahre wird der Landtag in Brandenburg gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### brandenburg-4
+Q: Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### brandenburg-5
+Q: Welche Farben hat die Landesflagge von Brandenburg?
+  0: blau-weiß-rot
+  1: rot-weiß
+  2: grün-weiß-rot
+  3: schwarz-gelb
+
+### brandenburg-6
+Q: Wo können Sie sich in Brandenburg über politische Themen informieren?
+  0: bei den Kirchen
+  1: beim Ordnungsamt der Gemeinde
+  2: bei der Landeszentrale für politische Bildung
+  3: bei der Verbraucherzentrale
+
+### brandenburg-7
+Q: Die Landeshauptstadt von Brandenburg heißt …
+  0: Potsdam.
+  1: Cottbus.
+  2: Brandenburg.
+  3: Frankfurt/Oder.
+
+### brandenburg-8
+Q: Welches Bundesland ist Brandenburg?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### brandenburg-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Brandenburg?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### brandenburg-10
+Q: Welche Ministerin/welchen Minister hat Brandenburg nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### bremen-1
+Q: Welches Wappen gehört zur Freien Hansestadt Bremen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### bremen-2
+Q: Welches ist ein Stadtteil von Bremen?
+  0: Altona
+  1: Hemelingen
+  2: Pankow
+  3: Babelsberg
+
+### bremen-3
+Q: Für wie viele Jahre wird das Landesparlament in Bremen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### bremen-4
+Q: Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### bremen-5
+Q: Welche Farben hat die Landesflagge von Bremen?
+  0: blau-weiß-rot
+  1: rot-weiß
+  2: grün-weiß-rot
+  3: schwarz-gold
+
+### bremen-6
+Q: Wo können Sie sich in Bremen über politische Themen informieren?
+  0: beim Ordnungsamt der Gemeinde
+  1: bei der Landeszentrale für politische Bildung
+  2: bei den Kirchen
+  3: bei der Verbraucherzentrale
+
+### bremen-7
+Q: Was ist ein deutscher Stadtstaat?
+  0: Bremen
+  1: München
+  2: Frankfurt
+  3: Erfurt
+
+### bremen-8
+Q: Welches Bundesland ist Bremen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### bremen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Bremen?
+  0: Ministerpräsidentin/Ministerpräsident
+  1: Erste Bürgermeisterin/Erster Bürgermeister
+  2: Präsidentin/Präsident des Senates
+  3: Regierende Bürgermeisterin/Regierender Bürgermeister
+
+### bremen-10
+Q: Welche Senatorin/welchen Senator hat Bremen nicht?
+  0: Senatorin/Senator für Außenbeziehungen
+  1: Finanzsenatorin/Finanzsenator
+  2: Justizsenatorin/Justizsenator
+  3: Innensenatorin/Innensenator
+
+### hamburg-1
+Q: Welches Wappen gehört zur Freien und Hansestadt Hamburg?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### hamburg-2
+Q: Welches ist ein Bezirk von Hamburg?
+  0: Altona
+  1: Hemelingen
+  2: Pankow
+  3: Mecklenburgische Seenplatte
+
+### hamburg-3
+Q: Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### hamburg-4
+Q: Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### hamburg-5
+Q: Welche Farben hat die Landesflagge von Hamburg?
+  0: blau-weiß-rot
+  1: weiß-rot
+  2: grün-weiß-rot
+  3: schwarz-gelb
+
+### hamburg-6
+Q: Wo können Sie sich in Hamburg über politische Themen informieren?
+  0: beim Ordnungsamt der Gemeinde
+  1: bei der Verbraucherzentrale
+  2: bei den Kirchen
+  3: bei der Landeszentrale für politische Bildung
+
+### hamburg-7
+Q: Welches Bundesland ist ein Stadtstaat?
+  0: Hamburg
+  1: Sachsen
+  2: Bayern
+  3: Thüringen
+
+### hamburg-8
+Q: Welches Bundesland ist Hamburg?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### hamburg-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef des Stadtstaates Hamburg?
+  0: Ministerpräsidentin/Ministerpräsident
+  1: Erste Bürgermeisterin/Erster Bürgermeister
+  2: Regierende Senatorin/Regierender Senator
+  3: Oberbürgermeisterin/Oberbürgermeister
+
+### hamburg-10
+Q: Welche Senatorin/welchen Senator hat Hamburg nicht?
+  0: Justizsenatorin/Justizsenator
+  1: Senatorin/Senator für Außenbeziehungen
+  2: Finanzsenatorin/Finanzsenator
+  3: Innensenatorin/Innensenator
+
+### hessen-1
+Q: Welches Wappen gehört zum Bundesland Hessen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### hessen-2
+Q: Welches ist ein Landkreis in Hessen?
+  0: Ammerland
+  1: Altötting
+  2: Prignitz
+  3: Main-Taunus-Kreis
+
+### hessen-3
+Q: Für wie viele Jahre wird der Landtag in Hessen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### hessen-4
+Q: Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### hessen-5
+Q: Welche Farben hat die Landesflagge von Hessen?
+  0: blau-weiß-rot
+  1: rot-weiß
+  2: schwarz-gold
+  3: grün-weiß-rot
+
+### hessen-6
+Q: Wo können Sie sich in Hessen über politische Themen informieren?
+  0: bei der Landeszentrale für politische Bildung
+  1: bei der Verbraucherzentrale
+  2: beim Ordnungsamt der Gemeinde
+  3: bei den Kirchen
+
+### hessen-7
+Q: Die Landeshauptstadt von Hessen heißt …
+  0: Kassel.
+  1: Darmstadt.
+  2: Frankfurt.
+  3: Wiesbaden.
+
+### hessen-8
+Q: Welches Bundesland ist Hessen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### hessen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Hessen?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### hessen-10
+Q: Welche Ministerin/welchen Minister hat Hessen nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### mecklenburg-vorpommern-1
+Q: Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### mecklenburg-vorpommern-2
+Q: Welches ist ein Landkreis in Mecklenburg-Vorpommern?
+  0: Prignitz
+  1: Mecklenburgische Seenplatte
+  2: Vogtlandkreis
+  3: Rhein-Sieg-Kreis
+
+### mecklenburg-vorpommern-3
+Q: Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### mecklenburg-vorpommern-4
+Q: Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### mecklenburg-vorpommern-5
+Q: Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?
+  0: schwarz-rot-gold
+  1: blau-weiß-gelb-rot
+  2: grün-weiß-rot
+  3: schwarz-gelb
+
+### mecklenburg-vorpommern-6
+Q: Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?
+  0: bei der Landeszentrale für politische Bildung
+  1: bei den Kirchen
+  2: beim Ordnungsamt der Gemeinde
+  3: bei der Verbraucherzentrale
+
+### mecklenburg-vorpommern-7
+Q: Die Landeshauptstadt von Mecklenburg-Vorpommern heißt …
+  0: Greifswald.
+  1: Schwerin.
+  2: Rostock.
+  3: Wismar.
+
+### mecklenburg-vorpommern-8
+Q: Welches Bundesland ist Mecklenburg-Vorpommern?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### mecklenburg-vorpommern-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Mecklenburg-Vorpommern?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### mecklenburg-vorpommern-10
+Q: Welche Ministerin/welchen Minister hat Mecklenburg-Vorpommern nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### niedersachsen-1
+Q: Welches Wappen gehört zum Bundesland Niedersachsen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### niedersachsen-2
+Q: Welches ist ein Landkreis in Niedersachsen?
+  0: Ammerland
+  1: Rhein-Sieg-Kreis
+  2: Nordfriesland
+  3: Vogtlandkreis
+
+### niedersachsen-3
+Q: Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### niedersachsen-4
+Q: Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### niedersachsen-5
+Q: Welche Farben hat die Landesflagge von Niedersachsen?
+  0: weiß-blau
+  1: schwarz-rot-gold
+  2: schwarz-gelb
+  3: blau-weiß-rot
+
+### niedersachsen-6
+Q: Wo können Sie sich in Niedersachsen über politische Themen informieren?
+  0: bei der Landeszentrale für politische Bildung
+  1: beim Ordnungsamt der Gemeinde
+  2: bei der Verbraucherzentrale
+  3: bei den Kirchen
+
+### niedersachsen-7
+Q: Die Landeshauptstadt von Niedersachsen heißt …
+  0: Hannover.
+  1: Braunschweig.
+  2: Wolfsburg.
+  3: Osnabrück.
+
+### niedersachsen-8
+Q: Welches Bundesland ist Niedersachsen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### niedersachsen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Niedersachsen?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### niedersachsen-10
+Q: Welche Ministerin/welchen Minister hat Niedersachsen nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### nordrhein-westfalen-1
+Q: Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### nordrhein-westfalen-2
+Q: Welches ist ein Landkreis in Nordrhein-Westfalen?
+  0: Ammerland
+  1: Rhein-Sieg-Kreis
+  2: Nordfriesland
+  3: Vogtlandkreis
+
+### nordrhein-westfalen-3
+Q: Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### nordrhein-westfalen-4
+Q: Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### nordrhein-westfalen-5
+Q: Welche Farben hat die Landesflagge von Nordrhein-Westfalen?
+  0: rot-weiß
+  1: grün-weiß-rot
+  2: schwarz-gold
+  3: blau-weiß-rot
+
+### nordrhein-westfalen-6
+Q: Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?
+  0: bei den Kirchen
+  1: beim Ordnungsamt der Gemeinde
+  2: bei der Verbraucherzentrale
+  3: bei der Landeszentrale für politische Bildung
+
+### nordrhein-westfalen-7
+Q: Die Landeshauptstadt von Nordrhein-Westfalen heißt …
+  0: Köln.
+  1: Bonn.
+  2: Düsseldorf.
+  3: Dortmund.
+
+### nordrhein-westfalen-8
+Q: Welches Bundesland ist Nordrhein-Westfalen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### nordrhein-westfalen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Nordrhein-Westfalen?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### nordrhein-westfalen-10
+Q: Welche Ministerin/welchen Minister hat Nordrhein-Westfalen nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### rheinland-pfalz-1
+Q: Welches Wappen gehört zum Bundesland Rheinland-Pfalz?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### rheinland-pfalz-2
+Q: Welches ist ein Landkreis in Rheinland-Pfalz?
+  0: Westerwaldkreis
+  1: Altötting
+  2: Emsland
+  3: Prignitz
+
+### rheinland-pfalz-3
+Q: Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### rheinland-pfalz-4
+Q: Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### rheinland-pfalz-5
+Q: Welche Farben hat die Landesflagge von Rheinland-Pfalz?
+  0: weiß-rot
+  1: schwarz-rot-gold
+  2: schwarz-gelb
+  3: grün-weiß-rot
+
+### rheinland-pfalz-6
+Q: Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?
+  0: bei den Kirchen
+  1: bei der Verbraucherzentrale
+  2: beim Ordnungsamt der Gemeinde
+  3: bei der Landeszentrale für politische Bildung
+
+### rheinland-pfalz-7
+Q: Die Landeshauptstadt von Rheinland-Pfalz heißt …
+  0: Mainz.
+  1: Kaiserslautern.
+  2: Ludwigshafen.
+  3: Koblenz.
+
+### rheinland-pfalz-8
+Q: Welches Bundesland ist Rheinland-Pfalz?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### rheinland-pfalz-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Rheinland-Pfalz?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### rheinland-pfalz-10
+Q: Welche Ministerin/welchen Minister hat Rheinland-Pfalz nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### saarland-1
+Q: Welches Wappen gehört zum Bundesland Saarland?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### saarland-2
+Q: Welches ist ein Landkreis im Saarland?
+  0: Mecklenburgische Seenplatte
+  1: Altötting
+  2: Neunkirchen
+  3: Rhein-Sieg-Kreis
+
+### saarland-3
+Q: Für wie viele Jahre wird der Landtag des Saarlandes gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### saarland-4
+Q: Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### saarland-5
+Q: Welche Farben hat die Landesflagge des Saarlandes?
+  0: weiß-blau
+  1: schwarz-rot-gold
+  2: schwarz-gelb
+  3: grün-weiß-rot
+
+### saarland-6
+Q: Wo können Sie sich im Saarland über politische Themen informieren?
+  0: bei den Kirchen
+  1: bei der Landeszentrale für politische Bildung
+  2: bei der Verbraucherzentrale
+  3: beim Ordnungsamt der Gemeinde
+
+### saarland-7
+Q: Die Landeshauptstadt des Saarlandes heißt …
+  0: Neunkirchen.
+  1: Homburg.
+  2: Saarbrücken.
+  3: Völklingen.
+
+### saarland-8
+Q: Welches Bundesland ist das Saarland?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### saarland-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef des Saarlandes?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### saarland-10
+Q: Welche Ministerin/welchen Minister hat das Saarland nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### sachsen-1
+Q: Welches Wappen gehört zum Freistaat Sachsen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### sachsen-2
+Q: Welches ist ein Landkreis in Sachsen?
+  0: Vogtlandkreis
+  1: Altötting
+  2: Uckermark
+  3: Nordfriesland
+
+### sachsen-3
+Q: Für wie viele Jahre wird der Landtag in Sachsen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### sachsen-4
+Q: Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### sachsen-5
+Q: Welche Farben hat die Landesflagge von Sachsen?
+  0: blau-weiß-rot
+  1: weiß-grün
+  2: grün-weiß-rot
+  3: schwarz-gelb
+
+### sachsen-6
+Q: Wo können Sie sich in Sachsen über politische Themen informieren?
+  0: bei der Landeszentrale für politische Bildung
+  1: beim Ordnungsamt der Gemeinde
+  2: bei den Kirchen
+  3: bei der Verbraucherzentrale
+
+### sachsen-7
+Q: Die Landeshauptstadt von Sachsen heißt …
+  0: Leipzig.
+  1: Dresden.
+  2: Chemnitz.
+  3: Zwickau.
+
+### sachsen-8
+Q: Welches Bundesland ist Sachsen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### sachsen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Sachsen?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### sachsen-10
+Q: Welche Ministerin/welchen Minister hat Sachsen nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### sachsen-anhalt-1
+Q: Welches Wappen gehört zum Bundesland Sachsen-Anhalt?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### sachsen-anhalt-2
+Q: Welches ist ein Landkreis in Sachsen-Anhalt?
+  0: Ammerland
+  1: Altötting
+  2: Uckermark
+  3: Börde
+
+### sachsen-anhalt-3
+Q: Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### sachsen-anhalt-4
+Q: Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### sachsen-anhalt-5
+Q: Welche Farben hat die Landesflagge von Sachsen-Anhalt?
+  0: blau-weiß-rot
+  1: gelb-schwarz
+  2: grün-weiß-rot
+  3: weiß-rot
+
+### sachsen-anhalt-6
+Q: Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?
+  0: bei den Kirchen
+  1: bei der Landeszentrale für politische Bildung
+  2: beim Ordnungsamt der Gemeinde
+  3: bei der Verbraucherzentrale
+
+### sachsen-anhalt-7
+Q: Die Landeshauptstadt von Sachsen-Anhalt heißt …
+  0: Halle.
+  1: Dessau.
+  2: Magdeburg.
+  3: Wittenberg.
+
+### sachsen-anhalt-8
+Q: Welches Bundesland ist Sachsen-Anhalt?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### sachsen-anhalt-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Sachsen-Anhalt?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### sachsen-anhalt-10
+Q: Welche Ministerin/welchen Minister hat Sachsen-Anhalt nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### schleswig-holstein-1
+Q: Welches Wappen gehört zum Bundesland Schleswig-Holstein?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### schleswig-holstein-2
+Q: Welches ist ein Landkreis in Schleswig-Holstein?
+  0: Ammerland
+  1: Mecklenburgische Seenplatte
+  2: Nordfriesland
+  3: Rhein-Sieg-Kreis
+
+### schleswig-holstein-3
+Q: Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### schleswig-holstein-4
+Q: Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### schleswig-holstein-5
+Q: Welche Farben hat die Landesflagge von Schleswig-Holstein?
+  0: weiß-blau
+  1: blau-weiß-rot
+  2: weiß-rot
+  3: grün-weiß-rot
+
+### schleswig-holstein-6
+Q: Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?
+  0: bei der Verbraucherzentrale
+  1: beim Ordnungsamt der Gemeinde
+  2: beim / bei der Landesbeauftragten für politische Bildung
+  3: bei den Kirchen
+
+### schleswig-holstein-7
+Q: Die Landeshauptstadt von Schleswig-Holstein heißt …
+  0: Husum.
+  1: Flensburg.
+  2: Lübeck.
+  3: Kiel.
+
+### schleswig-holstein-8
+Q: Welches Bundesland ist Schleswig-Holstein?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### schleswig-holstein-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Schleswig-Holstein?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### schleswig-holstein-10
+Q: Welche Ministerin/welchen Minister hat Schleswig-Holstein nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
+### thueringen-1
+Q: Welches Wappen gehört zum Freistaat Thüringen?
+  0: None
+  1: None
+  2: None
+  3: None
+
+### thueringen-2
+Q: Welches ist ein Landkreis in Thüringen?
+  0: Ammerland
+  1: Altötting
+  2: Nordfriesland
+  3: Wartburgkreis
+
+### thueringen-3
+Q: Für wie viele Jahre wird der Landtag in Thüringen gewählt?
+  0: 3
+  1: 4
+  2: 5
+  3: 6
+
+### thueringen-4
+Q: Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?
+  0: 14
+  1: 16
+  2: 18
+  3: 20
+
+### thueringen-5
+Q: Welche Farben hat die Landesflagge von Thüringen?
+  0: blau-weiß-rot
+  1: weiß-rot
+  2: grün-weiß-rot
+  3: schwarz-gold
+
+### thueringen-6
+Q: Wo können Sie sich in Thüringen über politische Themen informieren?
+  0: bei den Kirchen
+  1: bei der Verbraucherzentrale
+  2: bei der Landeszentrale für politische Bildung
+  3: beim Ordnungsamt der Gemeinde
+
+### thueringen-7
+Q: Die Landeshauptstadt von Thüringen heißt …
+  0: Eisenach.
+  1: Erfurt.
+  2: Gera.
+  3: Jena.
+
+### thueringen-8
+Q: Welches Bundesland ist Thüringen?
+  0: 1
+  1: 2
+  2: 3
+  3: 4
+
+### thueringen-9
+Q: Wie nennt man die Regierungschefin/den Regierungschef in Thüringen?
+  0: Erste Ministerin/Erster Minister
+  1: Premierministerin/Premierminister
+  2: Bürgermeisterin/Bürgermeister
+  3: Ministerpräsidentin/Ministerpräsident
+
+### thueringen-10
+Q: Welche Ministerin/welchen Minister hat Thüringen nicht?
+  0: Justizministerin/Justizminister
+  1: Außenministerin/Außenminister
+  2: Finanzministerin/Finanzminister
+  3: Innenministerin/Innenminister
+
